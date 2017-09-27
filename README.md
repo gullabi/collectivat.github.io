@@ -1,7 +1,7 @@
 Agency Jekyll theme
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Col·lectivaT webpage with [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
 # How to use
 
