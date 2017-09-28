@@ -1,0 +1,15 @@
+---
+title: El Sol del Nord
+subtitle: Translation and subtitling
+layout: default
+modal-id: 1
+date: 2017-09-18
+img: ivardia.png
+thumbnail: ivardia-thumbnail.png
+alt: image-alt
+project-date: January 2017
+client: Ivardia
+category: Language
+description: The verkami funded documentary of El Sol del Nord explains the social movements in the Turkish Kurdistan and have been shot during the days of unrest. This production necessitated the translations of the interviews in Kurdish (Kurmanji) and Turkish, which have done and delivered as subtitles. Later we have worked closely with the producers during the editing for the correct placement of the subtitles and the advised them on cultural nuances within the material. 
+
+---

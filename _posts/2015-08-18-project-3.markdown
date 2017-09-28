@@ -1,0 +1,15 @@
+---
+title: Armas opacas
+subtitle: Cultural Consulting
+layout: default
+modal-id: 3
+date: 2015-08-18
+img: vice.png
+thumbnail: vice-thumbnail.png
+alt: image-alt
+project-date: August 2015
+client: Vice
+category: Consulting
+description: "A work of research and consulting that we undertook for writers of Vice España. The article ''Armas opacas: dudas sobre el destino del armamento que España vende a Arabia Saudí'' consisted of arms trafficking through Turkey and the writers needed to navigated their way through the complicated import/export legal structure and the institutions of Turkey. We not only directed the writers in their search for the necessary information but established their communication with the relevant channels and made all the necessary translations for the sources that were necessary for the article."
+
+---
