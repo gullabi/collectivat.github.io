@@ -1,6 +1,8 @@
 ---
 title: Armas opacas
 subtitle: Cultural Consulting
+ref: vice
+lang: en
 layout: default
 modal-id: 3
 date: 2015-08-18

@@ -1,31 +1,67 @@
 url: 
 baseurl: "" 
 
+index:
+  en:
+  ca: index_ca.html
+
 # Site settings
 title: Col·lectivaT
 email: info@collectivat.cat
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 header:
-  intro: We ensure your cultural and tecnological self sufficiency
+  intro:
+    en: We ensure your cultural and tecnological self sufficiency
+    ca: Garantim la vostra autosuficiència cultural i tecnològica
   services:
     en: Services
+    ca: Serveis
   portfolio:
     en: Portfolio
+    ca: Portfolio
   about:
     en: About
+    ca: Sobre Nosaltres
   team:
     en: Team
+    ca: L'equip
   contact:
     en: Contact
+    ca: Contacte
+
+# Services text
 services:
-  intro: We use our cultural knowledge and technological know-how to help your organization achive efficiency and tackle cultural barriers. 
+  intro:
+    en: We use our cultural knowledge and technological know-how to help your organization achive efficiency and tackle cultural barriers.
+    ca: Utilitzem els nostres coneixements culturals i els coneixements tecnològics per ajudar a la vostra organització a assolir eficients.
+  list:
+    name:
+      en: Productivity Stack
+      ca: Productivitat
+    description:
+      en: We offer ''data sovereing'' alternatives to the digital infrastructure you need, to build your business upon. Be it productivity tools like collaborative document editing, online calendar and file sharing or marketing tools like web analytics, resource planning and customer relations platforms; we setup and deliver your self-hosted open source applications to increase your productivity.
+      ca: Oferim alternatives de ''sobiranes'' a la infraestructura digital que necessiteu, per construir-ne el negoci. Sigui eines de productivitat com l'edició de documents col·laboratius, el calendari en línia i l'ús compartit de fitxers o eines de màrqueting, com ara l'anàlisi web, la planificació de recursos i les plataformes de relació amb els clients; configurem i lliurem les aplicacions de codi obert allotjades per autosuficients per augmentar la seva productivitat.
+    fa_icon: fa-calendar
+
+portfolio:
+  intro:
+    en: How do we help organizations in practice.
+    ca: Com ajudem a les organitzacions a la pràctica.
+
+# About text
+about:
+  intro:
+    en: "We are a non-profit cooperative of Catalunya and in addition to the cooperative principles we hold also these values in dear:"
+    ca: "Som una cooperativa sense ànim de lucre de Catalunya i, a més dels principis cooperatius, tenim també aquests valors en estimats:"
 
 
 # Team names, titles and social links
 people:
 - name: Özgür Güneş Öztürk Okumuş
   pic: 1
-  position: Dynamizer of Research and Consulting
+  position:
+    en: Dynamizer of Research and Consulting
+    ca: La Dinamitzadora de Recerca i Consultoria
   social:
     - title: twitter
       url: #
@@ -36,7 +72,9 @@ people:
 
 - name: Pelin Doğan
   pic: 2
-  position: Dynamizer of Language Services
+  position:
+    en: Dynamizer of Language Services
+    ca: La Dinamitzadora dels Serveis Lingüístics
   social:
     - title: twitter
       url: #
@@ -47,7 +85,9 @@ people:
 
 - name: Baybars Külebi
   pic: 3
-  position: Dynamizer of Technology
+  position:
+    en: Dynamizer of Technology
+    ca: El Dinamitzador de Tecnoligia
   social:
     - title: twitter
       url: #
@@ -58,7 +98,9 @@ people:
 
 - name: Federica Capranico
   pic: 4
-  position: Business Intelligence Expert
+  position:
+    en: Business Intelligence Expert
+    ca: Business Intelligence Expert
   social:
     - title: twitter
       url: #
@@ -69,7 +111,9 @@ people:
 
 - name: Alp Öktem
   pic: 5
-  position: Computational Linguistics Expert
+  position:
+    en: Computational Linguistics Expert
+    ca: Computational Linguistics Expert
   social:
     - title: twitter
       url: #

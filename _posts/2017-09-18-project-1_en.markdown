@@ -2,6 +2,8 @@
 title: El Sol del Nord
 subtitle: Translation and subtitling
 layout: default
+ref: ivardia
+lang: en
 modal-id: 1
 date: 2017-09-18
 img: ivardia.png

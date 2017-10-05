@@ -3,18 +3,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">{{site.header['services']['en']}}</h2>
-                    <h3 class="section-subheading text-muted">{{site.services['intro']}} </h3>
+                    <h2 class="section-heading">{{site.header['services'][page.lang]}}</h2>
+                    <h3 class="section-subheading text-muted">{{site.services['intro'][page.lang]}} </h3>
                 </div>
             </div>
             <div class="row text-center">
                 <div class="col-md-3">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
+                        <i class="fa {{site.services['list']['fa_icon']}} fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Productivity Stack</h4>
-                    <p class="text-muted">We offer "data sovereing" alternatives to the digital infrastructure you need, to build your business upon. Be it productivity tools like collaborative document editing, online calendar and file sharing or marketing tools like web analytics, resource planning and customer relations platforms; we setup and deliver your self-hosted open source applications to increase your productivity.</p>
+                    <h4 class="service-heading">{{site.services['list']['name'][page.lang]}}</h4>
+                    <p class="text-muted">{{site.services['list']['description'][page.lang]}}</p>
                 </div>
                 <div class="col-md-3">
                     <span class="fa-stack fa-4x">

@@ -1,6 +1,8 @@
 ---
 title: Decidim Barcelona
 subtitle: Data dashboards
+ref: decidim
+lang: en
 layout: default
 modal-id: 2
 date: 2016-10-27

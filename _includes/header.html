@@ -19,24 +19,31 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">{{site.header['services']['en']}}</a>
+                        <a class="page-scroll" href="#services">{{site.header['services'][page.lang]}}</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">{{site.header['portfolio']['en']}}</a>
+                        <a class="page-scroll" href="#portfolio">{{site.header['portfolio'][page.lang]}}</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">{{site.header['about']['en']}}</a>
+                        <a class="page-scroll" href="#about">{{site.header['about'][page.lang]}}</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#team">{{site.header['team']['en']}}</a>
+                        <a class="page-scroll" href="#team">{{site.header['team'][page.lang]}}</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">{{site.header['contact']['en']}}</a>
+                        <a class="page-scroll" href="#contact">{{site.header['contact'][page.lang]}}</a>
                     </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
-        </div>
+            <div class="wrapper" style="text-align: right; line-height: 2em">
+                <!-- {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+                {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %} -->
+
+                {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+            </div>
+      </div>
         <!-- /.container-fluid -->
     </nav>
 
@@ -44,11 +51,10 @@
     <header>
         <div class="container">
           <div class="intro-text">
-            <!-- <div class="intro-heading">Col·lectivaT</div> -->
             <div class="intro-heading">
                 <img class="logo" src="img/logo_wb.png" width="23%" height="23%" alt="Logo Col·lectivaT">
             </div>
-            <div class="intro-lead-in">{{site.header['intro']}}</div>
+            <div class="intro-lead-in">{{site.header['intro'][page.lang]}}</div>
             <!-- <a class="btn btn-xl js-scroll-trigger" href="#services">Tell Me More</a> -->
           </div>
         </div>
