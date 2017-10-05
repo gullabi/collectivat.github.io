@@ -8,38 +8,16 @@
                 </div>
             </div>
             <div class="row text-center">
-                <div class="col-md-3">
+                {% for service in site.services['list'] %}
+                <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa {{site.services['list']['fa_icon']}} fa-stack-1x fa-inverse"></i>
+                        <i class="fa {{ service.fa_icon }} fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">{{site.services['list']['name'][page.lang]}}</h4>
-                    <p class="text-muted">{{site.services['list']['description'][page.lang]}}</p>
+                    <h4 class="service-heading">{{ service.name[page.lang] }}</h4>
+                    <p class="text-muted">{{ service.description[page.lang] }}</p>
                 </div>
-                <div class="col-md-3">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-language fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Language Services</h4>
-                    <p class="text-muted">We are one of the very few organizations who can translate between catalan and turkish both directions, without the use of a bridge language. We ensure the correctness of our work with the cultural knowledge of both worlds, effectively enriching them. Thanks to our strong technological branch, we are able to work with any file format. We develop new and revolutionary ways of doing subtitling using the state-of-the-art open technologies for audio processing, computer aided translation and collective work.</p>
-                </div>
-                <div class="col-md-3">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-search fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Cultural Research and Consulting</h4>
-                    <p class="text-muted">We are formed by social scientists who actively work on Turkey/Kurdistan and Spain/Catalunya. We provide consulting for researchers, journalist or NGOs to prepare and manage their projects in the zone. We put you in contact with the key networks, organize the logistics if necessary, lifting the cultural and contextual boundaries so that your organization can focus on the impact and successful execution of your project. </p>
-                </div>
-                <div class="col-md-3">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-bar-chart-o fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Research Infrastructure</h4>
-                    <p class="text-muted">We setup your data infrasructure, facilitate access to it and enable its monitorization with visualizations and dashboards. We provide you with the tools to structure your information, and to protect/save your organizational memory.</p>
-                </div>
+                {% endfor %}
             </div>
         </div>
     </section>
