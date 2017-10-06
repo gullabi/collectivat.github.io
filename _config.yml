@@ -117,70 +117,63 @@ about:
 
 # Team names, titles and social links
 people:
-- name: Özgür Güneş Öztürk Okumuş
-  pic: 1
-  position:
-    en: Dynamizer of Research and Consulting
-    ca: La Dinamitzadora de Recerca i Consultoria
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Pelin Doğan
-  pic: 2
-  position:
-    en: Dynamizer of Language Services
-    ca: La Dinamitzadora dels Serveis Lingüístics
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Baybars Külebi
-  pic: 3
-  position:
-    en: Dynamizer of Technology
-    ca: El Dinamitzador de Tecnologia
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Federica Capranico
-  pic: 4
-  position:
-    en: Business Intelligence Expert
-    ca: Business Intelligence Expert
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Alp Öktem
-  pic: 5
-  position:
-    en: Computational Linguistics Expert
-    ca: Computational Linguistics Expert
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  intro:
+    en: We value interdisciplinary work and our expertise in diverse areas shows.
+    ca: Valorem el treball interdisciplinari i la nostra experiència en diversos àmbits.
+  list:
+    - name: Özgür Güneş Öztürk Okumuş
+      pic: 1
+      position:
+        en: Dynamizer of Research and Consulting
+        ca: La Dinamitzadora de Recerca i Consultoria
+      social:
+        - title: twitter
+          url: #
+        - title: stack-overflow
+          url: #
+    - name: Pelin Doğan
+      pic: 2
+      position:
+        en: Dynamizer of Language Services
+        ca: La Dinamitzadora dels Serveis Lingüístics
+      social:
+        - title: twitter
+          url: #
+        - title: linkedin
+          url: #
+    - name: Baybars Külebi
+      pic: 3
+      position:
+        en: Dynamizer of Technology
+        ca: El Dinamitzador de Tecnologia
+      social:
+        - title: twitter
+          url: #
+        - title: facebook
+          url: #
+    - name: Federica Capranico
+      pic: 4
+      position:
+        en: Business Intelligence Expert
+        ca: Business Intelligence Expert
+      social:
+        - title: twitter
+          url: #
+        - title: facebook
+          url: #
+    - name: Alp Öktem
+      pic: 5
+      position:
+        en: Computational Linguistics Expert
+        ca: Computational Linguistics Expert
+      social:
+        - title: twitter
+          url: #
+        - title: facebook
+          url: #
+  footer:
+    en: We also collaborate with many other professionals, not only in Catalunya but also in Turkey.
+    ca: També col·laborem amb molts altres professionals, no només a Catalunya, sinó també a Turquia.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
