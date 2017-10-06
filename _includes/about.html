@@ -7,57 +7,19 @@
                     <h3 class="section-subheading text-muted">{{site.about['intro'][page.lang]}}</h3>
                 </div>
             </div>
+            {% for row in site.about['list'] %}
             <div class="row text-center">
+                {% for about in row['row'] %}
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-hand-rock-o fa-stack-1x fa-inverse"></i>
+                        <i class="fa {{ about.fa_icon }} fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Self-empowerment</h4>
-                    <p class="text-muted">We believe that self-empowerment is the key in de-centralization of tasks and effective decision making. Through it, we strive for autonomy within our organization and also the autonomy of our partners in everything they do. This also entails technological sovereignty, i.e. the independence from proprietary software or technological services that are close, and also freedom from monopolistic knowledge channels. </p>
+                    <h4 class="service-heading">{{ about.name[page.lang] }}</h4>
+                    <p class="text-muted">{{ about.description[page.lang] }}</p>
                 </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-bomb fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Critical thinking</h4>
-                    <p class="text-muted">We believe that in order to provide our clients with the best and the most accurate information, we need to be critical not only with the mainstream information and practices, but also we need to be self-critical with ourselves and our work to aspire for better service for our partners. </p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-cogs fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Interdisciplinarity</h4>
-                    <p class="text-muted">We are firmly dedicated to providing integral services to our partners. This necessitates an environment which professionals from different disciplines can collaborate with ease. As a collective we are dedicated to provide the existence of a type of environment which facilitates this type of interdisciplinary development.</p>
-                </div>
+                {% endfor %}
             </div>
-            <div class="row text-center">
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-comments fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Empathy</h4>
-                    <p class="text-muted">We believe that competitive practices of the market infect the work practices and internal culture of organizations. However in order to provide the best service experience, understanding the needs of one’s partners should have the utmost importance. Our willingness to put ourselves in the shoes of our partners and colleagues set us apart.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-group fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Reverse hierarchy</h4>
-                    <p class="text-muted">We know that the person who is the main practitioner of a task has the best insight on it. That is why we believe that the person who will eventually do the work should have the last word over the admission or the execution of that task, and the rest of the members cannot oblige a colleague to undertake a project.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Protection of the commons</h4>
-                    <p class="text-muted">We are dedicated to create and maintain resources which are common to a community of knowledge workers. We take part in community driven projects whether it be informing the public through creation of open data repositories or development of free and open source tools.</p>
-                </div>
-            </div>
+            {% endfor %}
         </div>
     </section>

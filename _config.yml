@@ -57,7 +57,6 @@ services:
         ca: Som científics socials ı treballem activament a Turquia / Kurdistan i Espanya / Catalunya. Proporcionem assessorament a investigadors, periodistes o ONG per preparar i gestionar els seus projectes a la zona. Ens posem en contacte amb les xarxes clau, organitzem la logística si és necessari, aixecant els límits culturals i contextuals perquè la vostra organització pugui centrar-se en l'impacte i la correcta execució del projecte. Configurem la infraestructura de dades, facilitem l'accés i habilitem la seva monitorització amb visualitzacions i panells de dades. Us oferim les eines per estructurar la vostra informació i protegir / desar la memòria de l'organització.
       fa_icon: fa-bar-chart-o
 
-
 portfolio:
   intro:
     en: How do we help organizations in practice.
@@ -68,6 +67,52 @@ about:
   intro:
     en: "We are a non-profit cooperative of Catalunya and in addition to the cooperative principles we hold also these values in dear:"
     ca: "Som una cooperativa sense ànim de lucre de Catalunya i, a més dels principis cooperatius, tenim també aquests valors en estimats:"
+  list:
+    - row:
+        - name:
+            en: Self-empowerment 
+            ca: Auto-enfortiment
+          description:
+            en: We believe that self-empowerment is the key in de-centralization of tasks and effective decision making. Through it, we strive for autonomy within our organization and also the autonomy of our partners in everything they do. This also entails technological sovereignty, i.e. the independence from proprietary software or technological services that are close, and also freedom from monopolistic knowledge channels.
+            ca: Creiem que l'autodeterminació és la clau en la descentralització de tasques i en la presa de decisions efectives. A través d'ell, ens esforcem per l'autonomia dins de la nostra organització i també per l'autonomia dels nostres socis en tot el que fan. Això també implica la sobirania tecnològica, és a dir, la independència de programari propietari o serveis tecnològics que estan a prop, i també la llibertat dels canals de coneixement monopolístics.
+          fa_icon: fa-hand-rock-o
+        - name:
+            en: Critical thinking
+            ca: Pensament crític
+          description:
+            en: We believe that in order to provide our clients with the best and the most accurate information, we need to be critical not only with the mainstream information and practices, but also we need to be self-critical with ourselves and our work to aspire for better service for our partners.
+            ca: Creiem que per proporcionar als nostres clients la millor i més precisa informació, hem de ser crítics no només amb la informació i pràctiques principals, sinó que també hem de ser autocrítics amb nosaltres mateixos i amb la nostra feina per aspirar a millorar servei per als nostres socis.
+          fa_icon: fa-bomb
+        - name:
+            en: Interdisciplinarity
+            ca: Interdisciplinarietat
+          description:
+            en: We are firmly dedicated to providing integral services to our partners. This necessitates an environment which professionals from different disciplines can collaborate with ease. As a collective we are dedicated to provide the existence of a type of environment which facilitates this type of interdisciplinary development.
+            ca: Estem fermament dedicats a proporcionar serveis integrals als nostres socis. Això requereix un entorn que els professionals de diferents disciplines puguin col·laborar amb facilitat. Com a col·lectiu, ens dediquem a proporcionar l'existència d'un tipus d'entorn que faciliti aquest tipus de desenvolupament interdisciplinari.
+          fa_icon: fa-cogs
+    - row:
+        - name:
+            en: Empathy
+            ca: Empatia
+          description:
+            en: We believe that competitive practices of the market infect the work practices and internal culture of organizations. However in order to provide the best service experience, understanding the needs of one’s partners should have the utmost importance. Our willingness to put ourselves in the shoes of our partners and colleagues set us apart.
+            ca: Creiem que les pràctiques competitives del mercat infecten les pràctiques laborals i la cultura interna de les organitzacions. No obstant això, per tal de proporcionar la millor experiència en el servei, la comprensió de les necessitats dels socis hauria de tenir la màxima importància. La nostra voluntat de posar-nos a la pell dels nostres socis i companys ens separava.
+          fa_icon: fa-comments
+        - name:
+            en: Reverse hierarchy
+            ca: Jerarquia inversa
+          description:
+            en: We know that the person who is the main practitioner of a task has the best insight on it. That is why we believe that the person who will eventually do the work should have the last word over the admission or the execution of that task, and the rest of the members cannot oblige a colleague to undertake a project.
+            ca: Sabem que la persona que és la principal practicant d'una tasca té la millor informació sobre això. Per això, creiem que la persona que finalment farà el treball hauria de tenir l'última paraula sobre l'admissió o l'execució d'aquesta tasca, i la resta dels membres no poden obligar un col·lega a emprendre un projecte.
+          fa_icon: fa-group
+        - name: 
+            en: Protection of the commons
+            ca: Pro communs
+          description:
+            en: We are dedicated to create and maintain resources which are common to a community of knowledge workers. We take part in community driven projects whether it be informing the public through creation of open data repositories or development of free and open source tools.
+            ca: Ens dediquem a crear i mantenir recursos que són comuns a una comunitat de treballadors del coneixement. Participem en projectes dirigits per la comunitat ja sigui per informar al públic mitjançant la creació de repositoris de dades oberts o el desenvolupament d'eines de codi obert i lliure.
+          fa_icon: fa-globe
+
 
 
 # Team names, titles and social links
