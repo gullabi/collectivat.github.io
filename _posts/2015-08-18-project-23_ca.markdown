@@ -4,7 +4,7 @@ subtitle: Cultural Consulting
 ref: vice
 lang: ca
 layout: default
-modal-id: 4
+modal-id: 23
 date: 2015-08-18
 img: vice.png
 thumbnail: vice-thumbnail.png
