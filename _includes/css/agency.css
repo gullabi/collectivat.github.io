@@ -281,6 +281,13 @@ header .intro-text {
     padding-bottom: 50px;
 }
 
+header .intro-text .intro-subheading {
+    font-family: {{ site.data.template.font.primary }};
+    padding-top: 50px;
+    font-size: 20px;
+    font-style: italic;
+}
+
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
