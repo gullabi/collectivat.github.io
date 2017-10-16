@@ -11,10 +11,11 @@ email: info@collectivat.cat
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 header:
   intro_sub:
-    en: Col·lectivaT is a non-profit cooperative formed by knowledge workers that provides services of cultural translation, research and technological services for collaborative and linguistic work.
-    ca: Col·lectivaT és una cooperativa sense ànim de lucre formada per les treballadores de coneixement que proporciona serveis de traducció cultural, de recerca i serveis tecnològics per treball col·laboratiu i lingüístic.
+    en: "Col·lectivaT is a non-profit cooperative formed by knowledge workers that provides services of cultural translation, research and technological services for collaborative and linguistic work. To provide an all-around service, our work is based on three main axes: Language, Technology, Research and consultancy. The linguistic axis seeks to overcome language barriers, therefore, communication and access to information -for now- about Turkey and Kurdistan. The technological axis provides the necessary infrastructure for language work and facilitates repetitive tasks in this work, such as transcription or subtitling; and lastly, the consultation axis includes cultural translation jobs that respond to the demands of the most elaborate deep activities such as academic or journalistic research on the area."
+    ca: "Col·lectivaT és una cooperativa sense ànim de lucre formada per les treballadores de coneixement que proporciona serveis de traducció cultural, de recerca i serveis tecnològics per treball col·laboratiu i lingüístic. Per un servei integral, el nostre treball es basa en tres eixos principals: Llengua, Tecnologia, Recerca i consultoria. L’eix lingüístic pretén superar les barreres de llengua, per tant, la comunicació i l’accés a la informació -per ara- sobre Turquia i Kurdistan. L'eix tecnològic proporciona la infraestructura necessària per feines lingüístiques i facilitar tasques repetitives en aquesta feina, com la transcripció o la subtitulació; i per últim, l'eix de consultaria inclou feines de traducció cultural que respon a les demandes de les activitats més profundes com la recerca acadèmica o periodística sobre la zona."
+
   intro:
-    en: Remove your technical and cultural obstacles
+    en: Remove the technical and cultural obstacles
     ca: Elimina els obstacles culturals i tecnologics
   services:
     en: Services
@@ -121,8 +122,8 @@ about:
 # Team names, titles and social links
 people:
   intro:
-    en: "To provide an all-around service, our work is based on three main axes: Language, Technology, Research and consultancy. The linguistic axis seeks to overcome language barriers, therefore, communication and access to information -for now- about Turkey and Kurdistan. The technological axis provides the necessary infrastructure for language work and facilitates repetitive tasks in this work, such as transcription or subtitling; and lastly, the consultation axis includes cultural translation jobs that respond to the demands of the most elaborate deep activities such as academic or journalistic research on the area."
-    ca: "Per un servei integral, el nostre treball es basa en tres eixos principals: Llengua, Tecnologia, Recerca i consultoria. L’eix lingüístic pretén superar les barreres de llengua, per tant, la comunicació i l’accés a la informació -per ara- sobre Turquia i Kurdistan. L'eix tecnològic proporciona la infraestructura necessària per feines lingüístiques i facilitar tasques repetitives en aquesta feina, com la transcripció o la subtitulació; i per últim, l'eix de consultaria inclou feines de traducció cultural que respon a les demandes de les activitats més profundes com la recerca acadèmica o periodística sobre la zona."
+    en: We value interdisciplinary work and our expertise in diverse areas shows.
+    ca: Valorem el treball interdisciplinari i la nostra experiència en diversos àmbits. 
   list:
     - name: Özgür Güneş Öztürk Okumuş
       pic: 1
