@@ -10,9 +10,10 @@ img: ivardia.png
 thumbnail: ivardia-thumbnail.png
 alt: image-alt
 project-date: January 2017
-client: Ivardia
+client:
+  name: Ivardia
+  link: http://www.ivardia.org/portfolio/el-sol-del-nord/
 category: Language
-description: "El documental financiado vía Verkami de El Sol del Norte explica los movimientos sociales del Kurdistán Norte dentro de las fronteras del Estado turco y fue filmado durante los días de conflicto del 2015. Esta producción contó con las traducciones de las entrevistas hechas en la lengua kurda (Kurmanji) y en turca a la lengua catalana. También se realizó y se entregó la subtitulación aprovechando nuestra tecnología de transcripción. Más adelante trabajamos conjuntamente con los productores durante la edición de los subtítulos y dimos nuestra opinión sobre matices culturales dentro del material. Los detalles del documental son accesibles a: https://www.verkami.com/locale/ca/projects/15106-el-sol-del-nord-construint-lautonomia-a-bakur"
-
+description: "El documental financiado vía Verkami de El Sol del Norte explica los movimientos sociales del Kurdistán Norte dentro de las fronteras del Estado turco y fue filmado durante los días de conflicto del 2015. Esta producción contó con las traducciones de las entrevistas hechas en la lengua kurda (Kurmanji) y en turca a la lengua catalana. También se realizó y se entregó la subtitulación aprovechando nuestra tecnología de transcripción. Más adelante trabajamos conjuntamente con los productores durante la edición de los subtítulos y dimos nuestra opinión sobre matices culturales dentro del material. Los detalles del documental son accesibles <a href='https://www.verkami.com/locale/ca/projects/15106-el-sol-del-nord-construint-lautonomia-a-bakur'>aquí</a>"
 
 ---

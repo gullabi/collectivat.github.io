@@ -33,8 +33,8 @@ header:
     es: Sobre Nosotrxs
   team:
     en: Team
-    ca: L'equip
-    es: El Equipo
+    ca: Equip
+    es: Equipo
   contact:
     en: Contact
     ca: Contacte
@@ -77,9 +77,9 @@ services:
 
 portfolio:
   intro:
-    en: How do we help organizations in practice.
-    ca: Com ajudem a les organitzacions a la pràctica.
-    es: Como ayudamos a las organizaciones a la práctica.
+    en: "Selection of projects carried out by Col·lectivaT:"
+    ca: "Selecció dels projectes realitzats per Col·lectivaT:"
+    es: "Selección de los proyectos realizados por Col·lectivaT:"
 
 # About text
 about:
@@ -104,7 +104,7 @@ about:
             es: Pensamiento Crítico
           description:
             en: We believe that in order to provide our clients with the best and the most accurate information, we need to be critical not only with the mainstream information and practices, but also self-critical with ourselves and our work to aspire for better service for our partners.
-            ca: Creiem que per proporcionar als nostres clients la millor i més precisa informació, hem de ser crítiques no només amb la informació i pràctiques principals, sinó que també hem de ser autocrítiques amb nosaltres mateixes i amb la nostra feina per aspirar a millorar el servei per a les nostres clients.
+            ca: Creiem que per proporcionar als nostres clients la millor i més precisa informació, hem de ser crítiques no només amb la informació i les pràctiques principals, sinó que també hem de ser autocrítiques amb nosaltres mateixes i amb la nostra feina per aspirar a millorar el servei per a les nostres clients.
             es: Creemos que para proporcionar a nuestros clientes la mejor y más precisa información, debemos ser críticas no sólo con la información y prácticas principales, sino que también tenemos que ser autocríticas con nosotras mismas y con nuestro trabajo para aspirar a mejorar el servicio para nuestros clientes.
           fa_icon: fa-bomb
         - name:
@@ -113,8 +113,8 @@ about:
             es: Interdisciplinariedad
           description:
             en: We are firmly dedicated to providing integral services to our partners. This necessitates an environment which professionals from different disciplines can collaborate with ease. As a collective we are dedicated to provide the existence of a type of environment which facilitates this type of interdisciplinary development.
-            ca: Estem fermament dedicades a proporcionar serveis integrals als nostres clients. Això requereix un entorn on les professionals de diferents disciplines puguin col·laborar amb facilitat. Com a col·lectiu, ens dediquem a proporcionar l'existència d'un tipus d'entorn que faciliti aquest tipus de desenvolupament interdisciplinari.
-            es: Estamos firmemente dedicadas a proporcionar servicios integrales a nuestros clientes. Esto requiere un entorno donde las profesionales de diferentes disciplinas puedan colaborar con facilidad. Como colectivo, nos dedicamos a proporcionar la existencia de un tipo de entorno que facilite este tipo de desarrollo interdisciplinario.
+            ca: Estem fermament dedicades a proporcionar serveis integrals als nostres clients. Això requereix un entorn on les professionals de diferents disciplines puguin col·laborar amb facilitat. Com a col·lectiu, ens dediquem a crear un entorn que faciliti aquest tipus de desenvolupament interdisciplinari.
+            es: Estamos firmemente dedicadas a proporcionar servicios integrales a nuestros clientes. Esto requiere un entorno donde las profesionales de diferentes disciplinas puedan colaborar con facilidad. Como colectivo, nos dedicamos a crear un entorno que facilite este tipo de desarrollo interdisciplinario.
           fa_icon: fa-cogs
     - row:
         - name:
@@ -132,8 +132,8 @@ about:
             es: Jerarquía inversa
           description:
             en: We know that the person who is the main practitioner of a task has the best insight on it. That is why we believe that the person who will eventually do the work should have the last word over the admission or the execution of that task, and the rest of the members cannot oblige a colleague to undertake a project.
-            ca: Sabem que la persona que desenvolupa una tasca és qui té el millor coneixement sobre el que fa. Per això, creiem que la persona que finalment farà el treball hauria de tenir l'última paraula sobre l'admissió o l'execució d'aquesta tasca. També sostenim que la resta de les membres no poden obligar una companya a emprendre un projecte.
-            es: Sabemos que la persona que desarrolla una tarea es quien tiene el mejor conocimiento sobre lo que hace. Por ello, creemos que la persona que finalmente hará el trabajo debería tener la última palabra sobre la admisión o la ejecución de esta tarea. También sustentamos que el resto de las miembras no pueden obligar a una compañera a emprender un proyecto.
+            ca: Sabem que la persona que desenvolupa una tasca és qui té el millor coneixement sobre el que fa. Per això, creiem que aquella que finalment farà el treball hauria de tenir l'última paraula sobre l'admissió o l'execució d'aquesta tasca. També sostenim que la resta de les membres no poden obligar una companya a emprendre un projecte.
+            es: Sabemos que la persona que desarrolla una tarea es quien tiene el mejor conocimiento sobre lo que hace. Por ello, creemos que aquella que finalmente hará el trabajo debería tener la última palabra sobre la admisión o la ejecución de esta tarea. También sustentamos que el resto de las miembras no pueden obligar a una compañera a emprender un proyecto.
           fa_icon: fa-group
         - name: 
             en: Protection of the commons
@@ -141,8 +141,8 @@ about:
             es: Procomún
           description:
             en: We are dedicated to create and maintain resources which are common to a community of knowledge workers. We take part in community driven projects whether it be informing the public through creation of open data repositories or development of free and open source tools.
-            ca: Ens dediquem a crear i mantenir recursos que són comuns d’una comunitat de treballadores de coneixement. Participem en projectes dirigits per la comunitat, ja sigui per informar al públic mitjançant la creació de repositoris de dades obertes o el desenvolupament d'eines de codi obert i lliure.
-            es: Nos dedicamos a crear y mantener recursos que son comunes de una comunidad de trabajadores de conocimiento. Participamos en proyectos dirigidos por la comunidad, ya sea para informar al público mediante la creación de repositorios de datos abiertos o el desarrollo de herramientas de código abierto y libre.
+            ca: Ens dediquem a crear i mantenir recursos que són comuns d’una comunitat de treballadores de coneixement. Participem en projectes dirigits per la comunitat, sigui per informar al públic mitjançant la creació de repositoris de dades obertes o el desenvolupament d'eines de codi obert i lliure.
+            es: Nos dedicamos a crear y mantener recursos que son comunes de una comunidad de trabajadores de conocimiento. Participamos en proyectos dirigidos por la comunidad, sea para informar al público mediante la creación de repositorios de datos abiertos o el desarrollo de herramientas de código abierto y libre.
           fa_icon: fa-globe
 
 
@@ -189,8 +189,8 @@ people:
       pic: 4
       position:
         en: Business Intelligence Expert
-        ca: Business Intelligence Expert
-        es: Experta en Intelegencia de Negocio
+        ca: Experta de Intel·ligència Empresarial
+        es: Experta en Inteligencia Empresarial
       social:
         - title: linkedin
           url: https://www.linkedin.com/in/capranico-federica-61773263/
@@ -200,7 +200,7 @@ people:
       pic: 5
       position:
         en: Computational Linguistics Expert
-        ca: Computational Linguistics Expert
+        ca: Expert de Lingüística Computacional
         es: Experto en Lingüística Computacional
       social:
         - title: twitter
