@@ -183,8 +183,8 @@ people:
       social:
         - title: twitter
           url: https://twitter.com/gullabi
-        #- title: facebook
-        #  url: #
+        - title: bitbucket
+          url: https://bitbucket.org/bkulebi/
     - name: Federica Capranico
       pic: 4
       position:
@@ -216,12 +216,6 @@ people:
 social:
   - title: twitter
     url: http://twitter.com/collectivat
-  - title: facebook
-    url:
-  #- title: stack-overflow
-  #  url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/collectivat
   - title: github
     url: http://github.com/collectivat
 

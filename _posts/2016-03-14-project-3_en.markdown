@@ -1,15 +1,15 @@
 ---
-title: Armas opacas
-subtitle: Cultural Consulting
+title: "Explosives 'Made in Spain'"
+subtitle: Territorial Consulting
 ref: vice
 lang: en
 layout: default
 modal-id: 3
-date: 2015-08-18
+date: 2016-03-14
 img: vice.png
 thumbnail: vice-thumbnail.png
 alt: image-alt
-project-date: August 2015
+project-date: March 2016
 client: Vice
 category: Consulting
 description: "A work of research and consulting that we undertook for journalists of Vice España. The article ''Cómo explosivos 'Marca España' pudieron acabar en manos de yihadistas sirios'' consisted of arms trafficking through Turkey and the writers needed to navigate their way through the complicated import/export legal structure and the institutions of Turkey, regarding the trade of explosives. We not only directed the writers in their search for the necessary information but also established their communication with the relevant channels and made all the necessary translations of the sources that were needed for the article. The article is accessible on https://news.vice.com/es/article/como-explosivos-marca-espana-maxam-pudieron-acabar-en-manos-yihadistas-siria"
