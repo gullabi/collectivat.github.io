@@ -12,6 +12,7 @@ alt: image-alt
 project-date: August 2015
 client: Vice
 category: Consulting
-description: "Un treball de recerca i consultoria que vam dur a terme per a escriptors de Vice Espanya. L'article ''Armes opacas: dubtes sobre el destí de l'armament que Espanya ven a Saudi Arabia'' consistia en el tràfic d'armes a través de Turquia i els escriptors necessitaven navegar a través de la complicada estructura legal d'importació / exportació i les institucions de Turquia. No només vam dirigir els escriptors a la recerca de la informació necessària, sinó que van establir la seva comunicació amb els canals pertinents i van fer totes les traduccions necessàries per a les fonts necessàries per a l'article."
+description: "Un treball de recerca i consultoria que vam dur a terme per als periodistes de Vice Espanya. L'article ''Cómo explosivos 'Marca España' pudieron acabar en manos de yihadistas sirios'' consistia en el tràfic d'armes a través de Turquia i els periodistes haurien d’investigar la complicada estructura legal d'importació / exportació i les institucions de Turquia, pel que fa al comerç d'explosius. No només vam dirigir els redactors a la recerca de la informació necessària, sinó que també vam establir la seva comunicació amb els canals pertinents i vam fer totes les traduccions necessàries de les fonts requerides per a l'article. L'article és accessible a:
+https://news.vice.com/es/article/como-explosivos-marca-espana-maxam-pudieron-acabar-en-manos-yihadistas-siria"
  
 ---

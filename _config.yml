@@ -2,119 +2,147 @@ url:
 baseurl: "" 
 
 index:
-  en:
-  ca: index_ca.html
+  en: index_en.html
+  ca:
+  es: index_es.html
 
 # Site settings
 title: Col·lectivaT
 email: info@collectivat.cat
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Col·lectivaT is a research and technology consulting cooperative which works for the sector of language work. The cooperative provides services of translation, transcription, interpretation, territorial research and consulting on open-source technologies. "
 header:
   intro_sub:
-    en: "Col·lectivaT is a non-profit cooperative formed by knowledge workers that provides services of cultural translation, research and technological services for collaborative and linguistic work."
-    ca: "Col·lectivaT és una cooperativa sense ànim de lucre formada per les treballadores de coneixement que proporciona serveis de traducció cultural, de recerca i serveis tecnològics per treball col·laboratiu i lingüístic." 
-
+    en: "Col·lectivaT is a non-profit cooperative formed by knowledge workers that provides services of cultural translation, research and technological services for collaborative and linguistic work." #To provide an all-around service, our work is based on three main axes: Language, Technology, Research and consultancy. The linguistic axis seeks to overcome language barriers, thus, facilitate communication and access to information -for now- about Turkey and Kurdistan. The technological axis provides the necessary infrastructure for language work and facilitates repetitive tasks in this work, such as transcription or subtitling; and lastly, the consultation axis includes cultural translation jobs that respond to the demands of the most elaborate deep activities such as academic or journalistic research on the area.
+    ca: "Col·lectivaT és una cooperativa sense ànim de lucre formada per treballadores de coneixement que proporciona serveis de traducció cultural, de recerca i serveis tecnològics per al treball col·laboratiu i lingüístic." #Amb l’objectiu d’oferir un servei integral, la nostra tasca es basa en tres eixos principals: Llengua, Tecnologia, Recerca i consultoria. L’eix lingüístic pretén superar les barreres de llengua, per tant, facilitar la comunicació i l’accés a la informació -per ara- sobre Turquia i Kurdistan. L'eix tecnològic proporciona la infraestructura necessària per realitzar feines lingüístiques i facilitar tasques repetitives en aquesta feina, com la transcripció o la subtitulació; i per últim, l'eix de consultoria i de recerca inclou feines de traducció cultural que respon a les demandes d’activitats més elaborades, com la investigació acadèmica o periodística sobre la zona.
+    es: "Col·lectivaT es una cooperativa sin ánimo de lucro formada por trabajadoras de conocimiento que proporciona servicios de traducción cultural, de investigación y servicios tecnológicos para el trabajo colaborativo y lingüístico." #Con el objetivo de ofrecer un servicio integral, nuestro trabajo se basa en tres ejes principales: Lengua, Tecnología, Investigación y consultoría. El eje lingüístico pretende superar las barreras de lengua, es decir, facilitar la comunicación y el acceso a la información -por ahora- sobre Turquía y Kurdistán. El eje tecnológico proporciona la infraestructura necesaria para trabajos lingüísticos y facilitar tareas repetitivas en este trabajo, como la transcripción o la subtitulación; y por último, el eje de consultoría y de investigación incluye trabajos de traducción cultural que responde a las demandas de actividades más elaboradas, como la investigación académica o periodística sobre la zona.
   intro:
     en:
     ca:
+    es:
   services:
     en: Services
     ca: Serveis
+    es: Servicios
   portfolio:
     en: Portfolio
     ca: Portfolio
+    es: Portafolio
   about:
     en: About
     ca: Sobre Nosaltres
+    es: Sobre Nosotrxs
   team:
     en: Team
     ca: L'equip
+    es: El Equipo
   contact:
     en: Contact
     ca: Contacte
+    es: Contacto
 
 # Services text
 services:
   intro:
-    en: We use our cultural knowledge and technological know-how to help your organization achive efficiency and tackle cultural barriers.
-    ca: Utilitzem els nostres coneixements culturals i els coneixements tecnològics per ajudar a la vostra organització a assolir eficients.
+    en: "We use our linguistic, technological and territorial know-how to help your organization achieve efficiency and tackle cultural barriers."
+    ca: "Utilitzem els nostres coneixements lingüístics, territorials i tecnològics amb la finalitat de donar-vos suport per a assolir l'eficiència i superar les barreres."
+    es: "Utilizamos nuestros conocimientos lingüísticos, territoriales y tecnológicos con la finalidad de daros apoyo para lograr la eficiencia y superar las barreras."
   list:
     - name:
         en: Productivity Stack
         ca: Productivitat
+        es: Productividad
       description:
-        en: We offer ''data sovereing'' alternatives to the digital infrastructure you need, to build your business upon. Be it productivity tools like collaborative document editing, online calendar and file sharing or marketing tools like web analytics, resource planning and customer relations platforms; we setup and deliver your self-hosted open source applications to increase your productivity.
-        ca: Oferim alternatives de ''sobiranes'' a la infraestructura digital que necessiteu, per construir-ne el negoci. Sigui eines de productivitat com l'edició de documents col·laboratius, el calendari en línia i l'ús compartit de fitxers o eines de màrqueting, com ara l'anàlisi web, la planificació de recursos i les plataformes de relació amb els clients; configurem i lliurem les aplicacions de codi obert allotjades per autosuficients per augmentar la seva productivitat.
+        en: We offer ''technological sovereign'' alternatives to the digital infrastructure you need, to build your business upon. We offer be it productivity tools such as collaborative document editing, online calendar and file sharing or marketing tools including like web analytics, resource planning and customer relations platforms. In addition, we set up and deliver your self-hosted open source applications to increase your productivity.
+        ca: Oferim alternatives tecnològiques ''sobiranes'' a la infraestructura digital que necessiteu, per construir-ne el vostre negoci. Oferim eines de productivitat, com edició col·laborativa de documents, calendari en línia i ús compartit d’arxius, o bé eines de màrqueting com ara analítica de web, planificació de recursos i plataformes de relació amb els clients. A més, configurem i lliurem les aplicacions auto-allotjades de codi lliure i obert, per augmentar la vostra productivitat.
+        es: Ofrecemos alternativas tecnológicas ''soberanas'' en la infraestructura digital necesaria para construir su propio negocio. Ofrecemos herramientas de productividad, como la edición colaborativa de documentos, el calendario en línea y el uso compartido de archivos, o bien herramientas de marketing, como la analítica de web, la planificación de recursos y las plataformas de relación con los clientes. Además, configuramos y entregamos las aplicaciones auto-alojadas de código libre para aumentar su productividad.
       fa_icon: fa-calendar
     - name:
         en: Language Services
         ca: Serveis Lingüístics
+        es: Servicios Lingüísticos
       description:
         en: We are one of the very few organizations who can translate between catalan and turkish both directions, without the use of a bridge language. We ensure the correctness of our work with the cultural knowledge of both worlds, effectively enriching them. Thanks to our strong technological branch, we are able to work with any file format. We develop new and revolutionary ways of doing subtitling using the state-of-the-art open technologies for audio processing, computer aided translation and collective work.
-        ca: Som una de les poques organitzacions que poden traduir entre català i turc ambdós sentits, sense utilitzar un llenguatge pont. Garantim la correcció del nostre treball amb el coneixement cultural d'ambdós mons, enriquint-los amb eficàcia. Gràcies a la nostra forta branca tecnològica, podem treballar amb qualsevol format de fitxer. Desenvolupem formes noves i revolucionàries de subtitulació utilitzant les tecnologies obertes de l'última generació per al processament d'àudio, la traducció assistida per ordinador i el treball col·lectiu.
+        ca: Som una de les poques organitzacions que poden traduir entre català i turc en ambdós sentits, sense utilitzar una llengua pont. Garantim la qualitat del nostre treball amb el coneixement sociocultural i sociopolític d'ambdós móns, enriquint-los amb eficàcia. Gràcies a la nostra forta branca tecnològica, podem treballar amb qualsevol format de fitxer. Desenvolupem formes noves i revolucionàries de subtitulació utilitzant les tecnologies obertes de l'última generació per al reconeixement de veu, la traducció assistida per ordinador i el treball col·lectiu.
+        es: Somos una de las pocas organizaciones que pueden traducir entre catalán y turco en ambos sentidos, sin utilizar un idioma puente. Garantizamos la corrección de nuestro trabajo con el conocimiento sociocultural y sociopolítico de ambos mundos, enriqueciéndolos con eficacia. Gracias a nuestra fuerte rama tecnológica, podemos trabajar con cualquier formato de archivo. Desarrollamos formas nuevas y revolucionarias de subtitulación utilizando las tecnologías abiertas de la última generación para el reconocimiento de voz, la traducción asistida por ordenador y el trabajo colectivo.
       fa_icon: fa-language
     - name:
         en: Socio-Cultural Research and Consulting
         ca: Recerca i Consultoria Sociocultural
+        es: Investigación y Consultoría Sociocultural
       description:
-        en: We are social scientists who actively work on Turkey/Kurdistan and Spain/Catalunya. We provide consulting for researchers, journalist or NGOs to prepare and manage their projects in the zone. We put you in contact with the key networks, organize the logistics if necessary, lifting the cultural and contextual boundaries so that your organization can focus on the impact and successful execution of your project. We setup your data infrasructure, facilitate access to it and enable its monitorization with visualizations and dashboards. We provide you with the tools to structure your information, and to protect/save your organizational memory.
-        ca: Som científics socials ı treballem activament a Turquia / Kurdistan i Espanya / Catalunya. Proporcionem assessorament a investigadors, periodistes o ONG per preparar i gestionar els seus projectes a la zona. Ens posem en contacte amb les xarxes clau, organitzem la logística si és necessari, aixecant els límits culturals i contextuals perquè la vostra organització pugui centrar-se en l'impacte i la correcta execució del projecte. Configurem la infraestructura de dades, facilitem l'accés i habilitem la seva monitorització amb visualitzacions i panells de dades. Us oferim les eines per estructurar la vostra informació i protegir / desar la memòria de l'organització.
+        en: We are social scientists who actively work on Turkey/Kurdistan and Spain/Catalunya. We provide consulting for researchers, journalists and technical equips from the third sector to prepare and manage their projects in the zone. We put you in contact with the key networks, organize the logistics, lifting the cultural and contextual boundaries so that your organization can focus on the impact and successful execution of the project. We set your data infrastructure, facilitate access to it and enable its monitorization with visualizations and dashboards. We provide you with the tools to structure your information, and to protect/save your organizational memory.
+        ca: Som investigadors de ciències socials i treballem activament a Turquia / Kurdistan i Espanya / Catalunya. Proporcionem assessorament a investigadores, periodistes i tècniques del tercer sector per preparar i gestionar els seus projectes en aquests territoris. Estem en contacte amb les xarxes clau, organitzem la logística, aixecant els límits culturals i contextuals perquè la vostra organització pugui centrar-se en l'impacte i la correcta execució del projecte. Configurem la infraestructura de dades, facilitem l'accés i habilitem la seva monitorització amb visualitzacions i panells de dades. Us oferim les eines per estructurar la informació i protegir / desar la memòria de l'organització.
+        es: Somos investigadores de ciencias sociales y trabajamos activamente en Turquía / Kurdistán y España / Cataluña. Proporcionamos asesoramiento a investigadores, periodistas y técnicos del tercer sector para preparar y gestionar sus proyectos en estos territorios. Estamos en contacto con las redes clave, organizamos la logística, levantando los límites culturales y contextuales para que su organización pueda centrarse en el impacto y la correcta ejecución del proyecto. Configuramos la infraestructura de datos, facilitamos el acceso y habilitamos su monitorización con visualizaciones y paneles de datos. Os ofrecemos las herramientas para estructurar su información y proteger / guardar la memoria de la organización.
       fa_icon: fa-bar-chart-o
 
 portfolio:
   intro:
     en: How do we help organizations in practice.
     ca: Com ajudem a les organitzacions a la pràctica.
+    es: Como ayudamos a las organizaciones a la práctica.
 
 # About text
 about:
   intro:
-    en: "We are a non-profit cooperative of Catalunya and in addition to the cooperative principles we hold also these values in dear:"
-    ca: "Som una cooperativa sense ànim de lucre de Catalunya i, a més dels principis cooperatius, tenim també aquests valors en estimats:"
+    en: "We are a non-profit cooperative of Catalunya and in addition to the cooperative principles we hold these values (in dear):"
+    ca: "Som una cooperativa sense ànim de lucre a Catalunya i, a més dels principis cooperatius, tenim també aquests valors:"
+    es: "Somos una cooperativa sin ánimo de lucro a Cataluña y, además de los principios cooperativos, tenemos también estos valores:"
   list:
     - row:
         - name:
-            en: Self-empowerment 
+            en: Self-empowerment
             ca: Auto-enfortiment
+            es: Autoempoderamiento
           description:
-            en: We believe that self-empowerment is the key in de-centralization of tasks and effective decision making. Through it, we strive for autonomy within our organization and also the autonomy of our partners in everything they do. This also entails technological sovereignty, i.e. the independence from proprietary software or technological services that are close, and also freedom from monopolistic knowledge channels.
-            ca: Creiem que l'autodeterminació és la clau en la descentralització de tasques i en la presa de decisions efectives. A través d'ell, ens esforcem per l'autonomia dins de la nostra organització i també per l'autonomia dels nostres socis en tot el que fan. Això també implica la sobirania tecnològica, és a dir, la independència de programari propietari o serveis tecnològics que estan a prop, i també la llibertat dels canals de coneixement monopolístics.
+            en: We believe that self-empowerment is the key in de-centralization of tasks and effective decision making. Through it, we strive for autonomy within our organization and also the autonomy of our partners in everything they do. This also entails technological sovereignty, i.e. the independence from proprietary software or technological services that are close and freedom from monopolistic knowledge channels
+            ca: Creiem que l'auto-enfortiment és la clau per a la descentralització de tasques i en la presa de decisions efectiva. A través d'això, ens esforcem per tenir autonomia dins de la nostra organització i també perquè les nostres sòcies disposin d’autonomia en tot el que fan. Això també implica la sobirania tecnològica, és a dir, la independència dels software propietari o serveis tecnològics semblants, i també alliberament dels canals de coneixement monopolístics.
+            es: Creemos que la auto-empoderamiento es la clave para la descentralización de tareas y en la toma de decisiones efectiva. A través de eso, nos esforzamos para tener autonomía dentro de nuestra organización y también para que nuestras socias dispongan de autonomía en todo lo que hacen. Esto también implica la soberanía tecnológica, es decir, la independencia de software propietario o servicios tecnológicos parecidos, así como la liberación de los canales de conocimiento monopolísticos.
           fa_icon: fa-hand-rock-o
         - name:
             en: Critical thinking
             ca: Pensament crític
+            es: Pensamiento Crítico
           description:
-            en: We believe that in order to provide our clients with the best and the most accurate information, we need to be critical not only with the mainstream information and practices, but also we need to be self-critical with ourselves and our work to aspire for better service for our partners.
-            ca: Creiem que per proporcionar als nostres clients la millor i més precisa informació, hem de ser crítics no només amb la informació i pràctiques principals, sinó que també hem de ser autocrítics amb nosaltres mateixos i amb la nostra feina per aspirar a millorar servei per als nostres socis.
+            en: We believe that in order to provide our clients with the best and the most accurate information, we need to be critical not only with the mainstream information and practices, but also self-critical with ourselves and our work to aspire for better service for our partners.
+            ca: Creiem que per proporcionar als nostres clients la millor i més precisa informació, hem de ser crítiques no només amb la informació i pràctiques principals, sinó que també hem de ser autocrítiques amb nosaltres mateixes i amb la nostra feina per aspirar a millorar el servei per a les nostres clients.
+            es: Creemos que para proporcionar a nuestros clientes la mejor y más precisa información, debemos ser críticas no sólo con la información y prácticas principales, sino que también tenemos que ser autocríticas con nosotras mismas y con nuestro trabajo para aspirar a mejorar el servicio para nuestros clientes.
           fa_icon: fa-bomb
         - name:
             en: Interdisciplinarity
             ca: Interdisciplinarietat
+            es: Interdisciplinariedad
           description:
             en: We are firmly dedicated to providing integral services to our partners. This necessitates an environment which professionals from different disciplines can collaborate with ease. As a collective we are dedicated to provide the existence of a type of environment which facilitates this type of interdisciplinary development.
-            ca: Estem fermament dedicats a proporcionar serveis integrals als nostres socis. Això requereix un entorn que els professionals de diferents disciplines puguin col·laborar amb facilitat. Com a col·lectiu, ens dediquem a proporcionar l'existència d'un tipus d'entorn que faciliti aquest tipus de desenvolupament interdisciplinari.
+            ca: Estem fermament dedicades a proporcionar serveis integrals als nostres clients. Això requereix un entorn on les professionals de diferents disciplines puguin col·laborar amb facilitat. Com a col·lectiu, ens dediquem a proporcionar l'existència d'un tipus d'entorn que faciliti aquest tipus de desenvolupament interdisciplinari.
+            es: Estamos firmemente dedicadas a proporcionar servicios integrales a nuestros clientes. Esto requiere un entorno donde las profesionales de diferentes disciplinas puedan colaborar con facilidad. Como colectivo, nos dedicamos a proporcionar la existencia de un tipo de entorno que facilite este tipo de desarrollo interdisciplinario.
           fa_icon: fa-cogs
     - row:
         - name:
             en: Empathy
             ca: Empatia
+            es: Empatía 
           description:
-            en: We believe that competitive practices of the market infect the work practices and internal culture of organizations. However in order to provide the best service experience, understanding the needs of one’s partners should have the utmost importance. Our willingness to put ourselves in the shoes of our partners and colleagues set us apart.
-            ca: Creiem que les pràctiques competitives del mercat infecten les pràctiques laborals i la cultura interna de les organitzacions. No obstant això, per tal de proporcionar la millor experiència en el servei, la comprensió de les necessitats dels socis hauria de tenir la màxima importància. La nostra voluntat de posar-nos a la pell dels nostres socis i companys ens separava.
+            en: We believe that competitive practices of the market infect the work practices and internal culture of organizations. However, in order to provide the best service experience understanding the needs of one’s partners should have the utmost importance. Our willingness to put ourselves in the shoes of our partners and colleagues set us apart.
+            ca: Creiem que les pràctiques competitives del mercat contaminen les habilitats laborals i la cultura interna de les organitzacions. No obstant això, per tal de proporcionar la millor experiència en el servei, s’hauria de donar la màxima importància a la comprensió de les necessitats de les sòcies. I això, ho aconseguim posant-nos a la pell de les nostres sòcies i companyes.
+            es: Creemos que las prácticas competitivas del mercado contaminan las habilidades laborales y la cultura interna de las organizaciones. Sin embargo, a fin de proporcionar la mejor experiencia en el servicio, la comprensión de las necesidades de las socias debería tener la máxima importancia. I esto, lo conseguimos poniéndonos en la piel de nuestras socias y compañeras.
           fa_icon: fa-comments
         - name:
             en: Reverse hierarchy
             ca: Jerarquia inversa
+            es: Jerarquía inversa
           description:
             en: We know that the person who is the main practitioner of a task has the best insight on it. That is why we believe that the person who will eventually do the work should have the last word over the admission or the execution of that task, and the rest of the members cannot oblige a colleague to undertake a project.
-            ca: Sabem que la persona que és la principal practicant d'una tasca té la millor informació sobre això. Per això, creiem que la persona que finalment farà el treball hauria de tenir l'última paraula sobre l'admissió o l'execució d'aquesta tasca, i la resta dels membres no poden obligar un col·lega a emprendre un projecte.
+            ca: Sabem que la persona que desenvolupa una tasca és qui té el millor coneixement sobre el que fa. Per això, creiem que la persona que finalment farà el treball hauria de tenir l'última paraula sobre l'admissió o l'execució d'aquesta tasca. També sostenim que la resta de les membres no poden obligar una companya a emprendre un projecte.
+            es: Sabemos que la persona que desarrolla una tarea es quien tiene el mejor conocimiento sobre lo que hace. Por ello, creemos que la persona que finalmente hará el trabajo debería tener la última palabra sobre la admisión o la ejecución de esta tarea. También sustentamos que el resto de las miembras no pueden obligar a una compañera a emprender un proyecto.
           fa_icon: fa-group
         - name: 
             en: Protection of the commons
-            ca: Pro communs
+            ca: Procomú
+            es: Procomún
           description:
             en: We are dedicated to create and maintain resources which are common to a community of knowledge workers. We take part in community driven projects whether it be informing the public through creation of open data repositories or development of free and open source tools.
-            ca: Ens dediquem a crear i mantenir recursos que són comuns a una comunitat de treballadors del coneixement. Participem en projectes dirigits per la comunitat ja sigui per informar al públic mitjançant la creació de repositoris de dades oberts o el desenvolupament d'eines de codi obert i lliure.
+            ca: Ens dediquem a crear i mantenir recursos que són comuns d’una comunitat de treballadores de coneixement. Participem en projectes dirigits per la comunitat, ja sigui per informar al públic mitjançant la creació de repositoris de dades obertes o el desenvolupament d'eines de codi obert i lliure.
+            es: Nos dedicamos a crear y mantener recursos que son comunes de una comunidad de trabajadores de conocimiento. Participamos en proyectos dirigidos por la comunidad, ya sea para informar al público mediante la creación de repositorios de datos abiertos o el desarrollo de herramientas de código abierto y libre.
           fa_icon: fa-globe
 
 
@@ -124,72 +152,82 @@ people:
   intro:
     en: We value interdisciplinary work and our expertise in diverse areas shows.
     ca: Valorem el treball interdisciplinari i la nostra experiència en diversos àmbits. 
+    es: Valoramos el trabajo interdisciplinario y nuestra experiencia en áreas variadas.
   list:
     - name: Özgür Güneş Öztürk Okumuş
       pic: 1
       position:
         en: Dynamizer of Research and Consulting
         ca: La Dinamitzadora de Recerca i Consultoria
+        es: La Dinamizadora de Investigación y Consultoría
       social:
         - title: twitter
-          url: #
-        - title: stack-overflow
-          url: #
+          url: https://twitter.com/okumus_gunes
     - name: Pelin Doğan
       pic: 2
       position:
         en: Dynamizer of Language Services
         ca: La Dinamitzadora dels Serveis Lingüístics
-      social:
-        - title: twitter
-          url: #
-        - title: linkedin
-          url: #
+        es: La Dinamizadora de los Servicios Lingüísticos
+      #social:
+      #  - title: twitter
+      #    url: #
+      #  - title: linkedin
+      #    url: #
     - name: Baybars Külebi
       pic: 3
       position:
         en: Dynamizer of Technology
         ca: El Dinamitzador de Tecnologia
+        es: El Dinamizador de Tecnología
       social:
         - title: twitter
-          url: #
-        - title: facebook
-          url: #
+          url: https://twitter.com/gullabi
+        #- title: facebook
+        #  url: #
     - name: Federica Capranico
       pic: 4
       position:
         en: Business Intelligence Expert
         ca: Business Intelligence Expert
+        es: Experta en Intelegencia de Negocio
       social:
-        - title: twitter
-          url: #
-        - title: facebook
-          url: #
+        - title: linkedin
+          url: https://www.linkedin.com/in/capranico-federica-61773263/
+      #  - title: facebook
+      #    url: #
     - name: Alp Öktem
       pic: 5
       position:
         en: Computational Linguistics Expert
         ca: Computational Linguistics Expert
+        es: Experto en Lingüística Computacional
       social:
         - title: twitter
-          url: #
-        - title: facebook
-          url: #
+          url: https://twitter.com/AlpBarna
+        - title: linkedin
+          url: www.linkedin.com/in/alp-oktem
   footer:
     en: We also collaborate with many other professionals, not only in Catalunya but also in Turkey.
     ca: També col·laborem amb molts altres professionals, no només a Catalunya, sinó també a Turquia.
+    es: También colaboramos con muchos otros profesionales, no sólo en Cataluña, sino también en Turquía.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/collectivat
+  - title: facebook
+    url:
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/collectivat
   - title: github
     url: http://github.com/collectivat
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Barcelona
-  - line: Catalunya, 08012
 
 # Build settings
 markdown: kramdown

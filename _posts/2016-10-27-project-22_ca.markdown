@@ -12,6 +12,6 @@ alt: image-alt
 project-date: November 2015
 client: "#Metadecidim Hackathon"
 category: Technology
-description: "The hackathon of decidim.barcelona took place on the 25th and 26th of November 2016 in the Convent dels Àngels i Auditori del MACBA. It put the interested parties together, in order to work collaboratively on decidim.barcelona, the digital participation platform of the Barcelona Municipality. We have categorized the rejection messages to the proposals in the pla d’acció municipal (PAM) and put the relevant data in a visually accessible dashboard, including our own categorizations. The dashboard is accessible in http://decidim.collectivat.cat"
+description: "El hackató de decidim.barcelona va tenir lloc els dies 25 i 26 de novembre de 2016 al Convent dels Àngels i l'Auditori del MACBA. Va reunir els interessats, amb la finalitat de treballar en col·laboració amb decidim.barcelona, la plataforma de participació digital del Municipi de Barcelona. Vam categoritzar els missatges de rebuig a les propostes del pla d'acció municipal (PAM) i vam posar les dades rellevants en un panell de dades visualment accessible, incloent-hi les nostres pròpies categoritzacions. El tauler de control és accessible a: http://decidim.collectivat.cat"
 
 ---

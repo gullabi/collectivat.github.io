@@ -1,0 +1,17 @@
+---
+title: Armas opacas
+subtitle: Cultural Consulting
+ref: vice
+lang: es
+layout: default
+modal-id: 33
+date: 2015-08-18
+img: vice.png
+thumbnail: vice-thumbnail.png
+alt: image-alt
+project-date: August 2015
+client: Vice
+category: Consulting
+description: "Un trabajo de investigación y consultoría que llevamos a cabo para los periodistas de Vice España. El artículo ''Cómo explosivos 'Marca España' pudieron acabar en manos de yihadistas sirios'' consistía en el tráfico de armas a través de Turquía y los periodistas tenían que hacerse camino por la complicada estructura legal de importación / exportación y las instituciones de Turquía, con respecto al comercio de explosivos. No sólo dirigimos los redactores en busca de la información necesaria, sino que también establecimos su comunicación con los canales pertinentes y realicemos todas las traducciones necesarias de las fuentes requeridas para el artículo. El artículo es accesible en: https://news.vice.com/es/article/como-explosivos-marca-espana-maxam-pudieron-acabar-en-manos-yihadistas-siria"
+ 
+---

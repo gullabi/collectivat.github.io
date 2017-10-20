@@ -19,8 +19,8 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 
-    <!-- {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}{% for post in posts %}
-    <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />{% endfor %}-->
+    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}{% for post in posts %}
+    <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />{% endfor %}
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
     <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />{% endfor %}
 

@@ -12,6 +12,7 @@ alt: image-alt
 project-date: January 2017
 client: Ivardia
 category: Language
-description: The verkami funded documentary of El Sol del Nord explains the social movements in the Turkish Kurdistan and have been shot during the days of unrest. This production necessitated the translations of the interviews in Kurdish (Kurmanji) and Turkish, which have done and delivered as subtitles. Later we have worked closely with the producers during the editing for the correct placement of the subtitles and the advised them on cultural nuances within the material. 
+description: "El documental finançat via Verkami de El Sol del Nord explica els moviments socials del Kurdistan Nord dins de les fronteres de l’Estat turc i va ser filmat durant els dies de conflicte l'any 2015. Aquesta producció va comptar amb les traduccions de les entrevistes fetes en la llengua kurda (Kurmanji) i en turca a la llengua catalana. També es van realitzar i lliurar subtítols aprofitant la nostra tecnologia de transcripció. Més endavant vam treballar conjuntament amb els productors durant l'edició dels subtítols i vam donar la nostra opinió sobre matisos culturals dins del material. Els detalls del documental són accessibles a: https://www.verkami.com/locale/ca/projects/15106-el-sol-del-nord-construint-lautonomia-a-bakur"
+
 
 ---
