@@ -6,6 +6,11 @@ index:
   ca:
   es: index_es.html
 
+technology:
+  en: technology_en.html
+  ca: technology.html
+  es: technology_es.html
+
 # Site settings
 title: Col·lectivaT
 email: info@collectivat.cat
