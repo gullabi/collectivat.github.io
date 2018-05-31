@@ -1,4 +1,4 @@
-url: 
+url: "collectivat.github.io"
 baseurl: "" 
 
 index:
@@ -32,6 +32,10 @@ header:
     en: Portfolio
     ca: Portfolio
     es: Portafolio
+  products:
+    en: Products
+    ca: Products
+    es: Productos
   about:
     en: About
     ca: Sobre Nosaltres
@@ -53,27 +57,39 @@ services:
     es: "Utilizamos nuestros conocimientos lingüísticos, territoriales y tecnológicos con la finalidad de daros apoyo para lograr la eficiencia y superar las barreras."
   list:
     - name:
-        en: Productivity Stack
-        ca: Productivitat
-        es: Productividad
-      description:
-        en: We offer ''technological sovereign'' alternatives to the digital infrastructure you need, to build your business upon. We offer be it productivity tools such as collaborative document editing, online calendar and file sharing or marketing tools including like web analytics, resource planning and customer relations platforms. In addition, we set up and deliver your self-hosted open source applications to increase your productivity.
-        ca: Oferim alternatives tecnològiques ''sobiranes'' a la infraestructura digital que necessiteu, per construir-ne el vostre negoci. Oferim eines de productivitat, com edició col·laborativa de documents, calendari en línia i ús compartit d’arxius, o bé eines de màrqueting com ara analítica de web, planificació de recursos i plataformes de relació amb els clients. A més, configurem i lliurem les aplicacions auto-allotjades de codi lliure i obert, per augmentar la vostra productivitat.
-        es: Ofrecemos alternativas tecnológicas ''soberanas'' en la infraestructura digital necesaria para construir su propio negocio. Ofrecemos herramientas de productividad, como la edición colaborativa de documentos, el calendario en línea y el uso compartido de archivos, o bien herramientas de marketing, como la analítica de web, la planificación de recursos y las plataformas de relación con los clientes. Además, configuramos y entregamos las aplicaciones auto-alojadas de código libre para aumentar su productividad.
-      fa_icon: fa-calendar
-    - name:
         en: Language Services
         ca: Serveis Lingüístics
         es: Servicios Lingüísticos
+      link:
+        en: lang_en
+        ca: lang
+        es: lang_es
       description:
         en: We are one of the very few organizations who can translate between catalan and turkish both directions, without the use of a bridge language. We ensure the correctness of our work with the cultural knowledge of both worlds, effectively enriching them. Thanks to our strong technological branch, we are able to work with any file format. We develop new and revolutionary ways of doing subtitling using the state-of-the-art open technologies for audio processing, computer aided translation and collective work.
         ca: Som una de les poques organitzacions que poden traduir entre català i turc en ambdós sentits, sense utilitzar una llengua pont. Garantim la qualitat del nostre treball amb el coneixement sociocultural i sociopolític d'ambdós móns, enriquint-los amb eficàcia. Gràcies a la nostra forta branca tecnològica, podem treballar amb qualsevol format de fitxer. Desenvolupem formes noves i revolucionàries de subtitulació utilitzant les tecnologies obertes de l'última generació per al reconeixement de veu, la traducció assistida per ordinador i el treball col·lectiu.
         es: Somos una de las pocas organizaciones que pueden traducir entre catalán y turco en ambos sentidos, sin utilizar un idioma puente. Garantizamos la corrección de nuestro trabajo con el conocimiento sociocultural y sociopolítico de ambos mundos, enriqueciéndolos con eficacia. Gracias a nuestra fuerte rama tecnológica, podemos trabajar con cualquier formato de archivo. Desarrollamos formas nuevas y revolucionarias de subtitulación utilizando las tecnologías abiertas de la última generación para el reconocimiento de voz, la traducción asistida por ordenador y el trabajo colectivo.
       fa_icon: fa-language
     - name:
+        en: Language Technologies
+        ca: Tecnologies Llingüistiques
+        es: Tecnologías Lingüisticas
+      link:
+        en: tech_en
+        ca: tech
+        es: tech_es
+      description:
+        en: We are computational linguists, developers and data scientists who work with technologies of automated translation, speech recognition and natural language understanding. These technologies have wide applications, from assisting the work of language workers in translation and transcription, to building human-machine interfaces and extracting analytics from any kind of digital conversational content. We focus our work in developing open tools and technologies for the minority languages which are in threat of digital extinction.
+        ca: Som lingüistes computacionals, desenvolupadors i investigadors que treballen amb tecnologies de traducció automàtica, reconeixement de veu i comprensió del llenguatge natural. Aquestes tecnologies tenen àmplies aplicacions, des d'ajudar a la feina dels treballadors del llenguatge en la traducció i transcripció, fins a construir interfícies d'humà-màquina i extreure anàlisi de qualsevol tipus de contingut conversacional digital. Enfoquem el nostre treball a desenvolupar eines i tecnologies obertes per a les llengües minoritàries que estan en perill d'extinció digital.
+        es: Somos lingüistas computacionales, desarrolladores y investigadores que trabajan con tecnologías de traducción automática, reconocimiento de voz y comprensión del lenguaje natural. Estas tecnologías tienen amplias aplicaciones, desde ayudar al trabajo de los trabajadores del lenguaje en la traducción y transcripción, hasta construir interfaces de humano-máquina y extraer análisis de cualquier tipo de contenido conversacional digital. Enfocamos nuestro trabajo en desarrollar herramientas y tecnologías abiertas para las lenguas minoritarias que están en peligro de extinción digital.
+      fa_icon: fa-microphone
+    - name:
         en: Socio-Cultural Research and Consulting
         ca: Recerca i Consultoria Sociocultural
         es: Investigación y Consultoría Sociocultural
+      link:
+        en: research_en
+        ca: research
+        es: research_es
       description:
         en: We are social scientists who actively work on Turkey/Kurdistan and Spain/Catalunya. We provide consulting for researchers, journalists and technical equips from the third sector to prepare and manage their projects in the zone. We put you in contact with the key networks, organize the logistics, lifting the cultural and contextual boundaries so that your organization can focus on the impact and successful execution of the project. We set your data infrastructure, facilitate access to it and enable its monitorization with visualizations and dashboards. We provide you with the tools to structure your information, and to protect/save your organizational memory.
         ca: Som investigadors de ciències socials i treballem activament a Turquia / Kurdistan i Espanya / Catalunya. Proporcionem assessorament a investigadores, periodistes i tècniques del tercer sector per preparar i gestionar els seus projectes en aquests territoris. Estem en contacte amb les xarxes clau, organitzem la logística, aixecant els límits culturals i contextuals perquè la vostra organització pugui centrar-se en l'impacte i la correcta execució del projecte. Configurem la infraestructura de dades, facilitem l'accés i habilitem la seva monitorització amb visualitzacions i panells de dades. Us oferim les eines per estructurar la informació i protegir / desar la memòria de l'organització.
@@ -85,6 +101,134 @@ portfolio:
     en: "Selection of projects carried out by Col·lectivaT:"
     ca: "Selecció dels projectes realitzats per Col·lectivaT:"
     es: "Selección de los proyectos realizados por Col·lectivaT:"
+
+products:
+  tech:
+    title:
+      en: Language Technologies
+      ca: Tecnologies Llingüistiques
+      es: Tecnologías Lingüisticas
+    subtitle:
+      en: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+      ca: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+      es: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+    description:
+      en: 
+      ca:
+      es:
+    list:
+      - name:
+          en: ASR development
+          ca: Desenvolupament de RdV
+          es: Desarollo de RdV
+        subheading:
+          en: Automatic Speech Recognition, open and free for your language 
+          ca: Reconeixement de Veu, obert i lliure per la seva llengüe
+          es: Reconocimiento de Voz, abierto y libre por su idioma
+        description:
+          en: If you need an open ASR system for your language, we can do it for you. We have our own language agnostic innovative solution to build ASR models, using publicly available audios and their transcriptions. 
+          ca: Si necessita un sistema ASR obert per a la seva llengua, podem fer-ho. Tenim la nostra pròpia solució innovadora, llenguatge agnòstica per construir models de ASR, fent servir àudios disponibles públicament i les seves transcripcions.
+          es: Si necesita un sistema ASR abierto para su idioma, podemos hacerlo. Tenemos nuestra propia solución innovativa, lenguaje agnostico para construir modelos de ASR, usando audios disponibles públicamente y sus transcripciones.
+      - name:
+          en: ASR integration 
+          ca: Integració de RdV
+          es: Integración de RdV
+        subheading:
+          en: Automatic Speech Recognition offline private and secure
+          ca: Reconeixement de Veu offline, privat i segur 
+          es: Reconocimiento de Voz offline, privado y seguro
+        description:
+          en: If you want to integrate voice command functionality to your products or speed up your monotonous transcription work flow, we can integrate ASR to your on-premise system or your products for offline processing, for maximum security and data privacy.  
+          ca: Si voleu integrar la funcionalitat d'ordres de veu als seus productes o accelerar el seu flux de treball de transcripció rutinari, podem integrar RdV a la xarxa local o els seus productes per al processament fora de línia, per la màxima seguretat i privacitat de dades.
+          es: Si desea integrar la funcionalidad de comandos de voz a sus productos o acelerar su flujo de trabajo de transcripción rutinario, podemos integrar RdV a su red local o sus productos para el procesamiento fuera de línea, para la máxima seguridad y privacidad de datos.
+      - name:
+          en: MT integration
+          ca: Integració de TA
+          es: Integración de TA
+        subheading:
+          en: Integrate offline machine translation to your work pipeline
+          ca: Integra traducción automàtica a su flujo de trabajo
+          es: Integra traducció automàtica al seu flux de treball
+        description:
+          en: Whether you have are a content creator or translator, we can help you integrate machine translation technologies to your work pipeline. Due to the open nature of the technologies we work with, you can take advantage of MT offline, without delivering your data to third party services. 
+          ca: Que sigui un creador de contingut o un traductor, podem ajudar-li a integrar tecnologies de traducció automàtica al seu flux de treball. A causa de la característica oberta de les tecnologies amb les que treballem, pot aprofitar MT sense connexió, sense lliurar les seves dades a serveis de tercers.
+          es: Que sea un creador de contenido o un traductor, podemos ayudarle a integrar tecnologías de traducción automática a su flujo de trabajo. Debido a la característica abierta de las tecnologías con las que trabajamos, puede aprovechar MT sin conexión, sin entregar sus datos a servicios de terceros.
+  lang:
+    title:
+      en: Language Services
+      ca: Serveis Lingüístics
+      es: Servicios Lingüísticos
+    subtitle:
+      en: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+      ca: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+      es: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+    description:
+      en:
+      ca:
+      es:
+    list:
+      - name:
+          en: Product 1
+          ca: Product 1
+          es: Producto 1
+        subheading:
+          en: Subheading
+          ca: Subheading
+          es: Subheading
+        description:
+          en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          ca: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      - name:
+          en: Product 2
+          ca: Product 2
+          es: Producto 2
+        subheading:
+          en: Subheading
+          ca: Subheading
+          es: Subheading
+        description:
+          en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          ca: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  res:
+    title:
+      en: Socio-Cultural Research and Consulting
+      ca: Recerca i Consultoria Sociocultural
+      es: Investigación y Consultoría Sociocultural
+    subtitle:
+      en: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+      ca: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+      es: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+    description:
+      en:
+      ca:
+      es:
+    list:
+      - name:
+          en: Product 1
+          ca: Product 1
+          es: Producto 1
+        subheading:
+          en: Subheading
+          ca: Subheading
+          es: Subheading
+        description:
+          en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          ca: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      - name:
+          en: Product 2
+          ca: Product 2
+          es: Producto 2
+        subheading:
+          en: Subheading
+          ca: Subheading
+          es: Subheading
+        description:
+          en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          ca: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # About text
 about:
@@ -149,8 +293,6 @@ about:
             ca: Ens dediquem a crear i mantenir recursos que són comuns d’una comunitat de treballadores de coneixement. Participem en projectes dirigits per la comunitat, sigui per informar al públic mitjançant la creació de repositoris de dades obertes o el desenvolupament d'eines de codi obert i lliure.
             es: Nos dedicamos a crear y mantener recursos que son comunes de una comunidad de trabajadores de conocimiento. Participamos en proyectos dirigidos por la comunidad, sea para informar al público mediante la creación de repositorios de datos abiertos o el desarrollo de herramientas de código abierto y libre.
           fa_icon: fa-globe
-
-
 
 # Team names, titles and social links
 people:

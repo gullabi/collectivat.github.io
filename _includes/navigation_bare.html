@@ -1,0 +1,24 @@
+<!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="{{ site.url }}">{{site.title}}</a>
+            </div>
+
+            <div class="wrapper" style="text-align: right; line-height: 2em">
+                {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+                {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+
+                {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+            </div>
+      </div>
+        <!-- /.container-fluid -->
+    </nav>

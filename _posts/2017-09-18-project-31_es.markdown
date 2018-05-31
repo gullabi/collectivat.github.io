@@ -1,6 +1,6 @@
 ---
 title: El Sol del Nord
-subtitle: Translation and subtitling
+subtitle: Traducción y subtitulación    
 layout: default
 ref: ivardia
 lang: es

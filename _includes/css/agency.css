@@ -867,3 +867,22 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+.thumbnail {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    transition: 0.3s;
+    min-width: 40%;
+    border-radius: 5px;
+    color: #000;
+}
+
+.thumbnail-description {
+    min-height: 40px;
+    color: #000;
+}
+
+.thumbnail:hover {
+    /*cursor: pointer;*/
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
+}
+
