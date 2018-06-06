@@ -1,0 +1,19 @@
+---
+title: Taller de privacitat de dades
+subtitle: Consultoria digital
+ref: adi
+lang: ca
+layout: default
+modal-id: 26
+date: 2018-05-08
+img: aditaller.png
+thumbnail: aditaller-thumbnail.png
+alt: image-alt
+project-date: May 2018
+client:
+  name: Aula d'Idiomes
+  link: https://auladidiomes.wordpress.com/
+category: Consulting
+description: "Aula d'idiomes és una cooperativa de treball associat que ofereix serveis lingüístics, com cursos i traduccions. Tant la seva organització interna com el seu treball de traducció es depèn en eines i infraestructures digitals. Necessitaven entendre els fonaments de la privacitat d'Internet i la seguretat de les dades, a més avaluar els riscos involucrats en el seu flux de treball. Els hem proporcionat una sessió informativa personalitzada de quatre hores perquè no només els expliquin sobre la seguretat de les dades, sinó que hagin presentat alternatives segures i sòlides a les eines de les empreses multinacionals que estaven usant diàriament, amb exemples pràctics."
+
+---

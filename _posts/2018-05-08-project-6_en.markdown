@@ -6,14 +6,14 @@ lang: en
 layout: default
 modal-id: 6
 date: 2018-05-08
-img: template.png
-thumbnail: template-thumbnail.png
+img: aditaller.png
+thumbnail: aditaller-thumbnail.png
 alt: image-alt
 project-date: May 2018
 client:
   name: Aula d'Idiomes
   link: https://auladidiomes.wordpress.com/
 category: Consulting
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.  <a href='https://news.vice.com/es/article/como-explosivos-marca-espana-maxam-pudieron-acabar-en-manos-yihadistas-siria'>here</a>"
+description: "Aula d'idiomes is a workers' cooperative which provide language services such as courses and translations. Both their internal organization and translation work rely on digital tools and infrastructure. They needed to understand the fundamentals of internet privacy and data security, furthermore based on that asses the risks involved in their workflow. We provided them with a four hour personalized informative session to not only explain them about data security but presented safe and soverign alternatives to the tools of multinational giants that they were using daily, with hands-on examples."
 
 ---

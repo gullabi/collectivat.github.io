@@ -1,0 +1,19 @@
+---
+title: RdV Abierto en catalán
+subtitle: Tecnología
+ref: softcatala
+lang: es
+layout: default
+modal-id: 35
+date: 2018-04-01
+img: sphinx.png
+thumbnail: sphinx-thumbnail.png
+alt: image-alt
+project-date: April 2018
+client:
+  name: Softcatalà
+  link: https://www.softcatala.org 
+category: Technology
+description: "Softcatalà es una asociación que proporciona y publica herramientas informáticas abiertas para catalanoparlantes y querían tener un sistema de reconocimiento de voz (RdV) abierto destinados a desarrolladores, makers y posiblemente por proveedores tecnológicos que querrán integrar catalán en sus servicios. Para construir una versión inicial de RdV en catalán, construimos un corpus de grabaciones con su transcripción, aprovechando los videos subtitulados públicamente disponibles de la televisión catalana. Luego con la tecnología CMUSphinx entrenamos los modelos de RdV. Cerramos esta fase de desarrollo con la publicación de los modelos de RdV y los escripts necesarios para compilarlos en <a href='https://github.com/collectivat/cmusphinx-models'>github</a> para el uso de la comunidad."
+
+---

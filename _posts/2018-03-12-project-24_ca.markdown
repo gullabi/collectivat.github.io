@@ -4,7 +4,7 @@ subtitle: Traducció literaria
 ref: periscopi
 lang: ca
 layout: default
-modal-id: 4
+modal-id: 24
 date: 2018-03-12
 img: template.png
 thumbnail: template-thumbnail.png
