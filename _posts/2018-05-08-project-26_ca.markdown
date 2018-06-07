@@ -14,6 +14,6 @@ client:
   name: Aula d'Idiomes
   link: https://auladidiomes.wordpress.com/
 category: Consulting
-description: "Aula d'idiomes és una cooperativa de treball associat que ofereix serveis lingüístics, com cursos i traduccions. Tant la seva organització interna com el seu treball de traducció es depèn en eines i infraestructures digitals. Necessitaven entendre els fonaments de la privacitat d'Internet i la seguretat de les dades, a més avaluar els riscos involucrats en el seu flux de treball. Els hem proporcionat una sessió informativa personalitzada de quatre hores perquè no només els expliquin sobre la seguretat de les dades, sinó que hagin presentat alternatives segures i sòlides a les eines de les empreses multinacionals que estaven usant diàriament, amb exemples pràctics."
+description: "Aula d'idiomes és una cooperativa de treball associat que ofereix serveis lingüístics, com cursos d’idiomes i traduccions. Tant la seva organització interna com el seu treball de traducció depenen de les eines i infraestructures digitals. Les membres d'AdI necessitaven entendre els fonaments de la privacitat d'Internet i de la seguretat de dades, a més d’avaluar els riscos involucrats al seu flux de treball. Els hem proporcionat una sessió informativa personalitzada de quatre hores amb exemples pràctics per explicar-los la seguretat de dades així com presentar alternatives segures i sòlides a les eines de les empreses multinacionals que feien servir diàriament."
 
 ---
