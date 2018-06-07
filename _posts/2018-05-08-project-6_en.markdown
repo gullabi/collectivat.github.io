@@ -14,6 +14,6 @@ client:
   name: Aula d'Idiomes
   link: https://auladidiomes.wordpress.com/
 category: Consulting
-description: "Aula d'idiomes is a workers' cooperative which provide language services such as courses and translations. Both their internal organization and translation work rely on digital tools and infrastructure. They needed to understand the fundamentals of internet privacy and data security, furthermore based on that asses the risks involved in their workflow. We provided them with a four hour personalized informative session to not only explain them about data security but presented safe and soverign alternatives to the tools of multinational giants that they were using daily, with hands-on examples."
+description: "Aula d'idiomes is a workers' cooperative which provides language services such as courses and translations. Both their internal organization and translation work rely on digital tools and infrastructure. They needed to understand the fundamentals of internet privacy and data security, furthermore based on that asses the risks involved in their workflow. We provided them with a four-hour personalized informative session with hands-on examples not only to explain them about data security but also we presented safe and soverign alternatives to the tools of multinational giants that they were using on daily basis."
 
 ---
