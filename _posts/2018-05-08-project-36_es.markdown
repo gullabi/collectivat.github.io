@@ -14,6 +14,6 @@ client:
   name: Aula d'Idiomes
   link: https://auladidiomes.wordpress.com/
 category: Consulting
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.  <a href='https://news.vice.com/es/article/como-explosivos-marca-espana-maxam-pudieron-acabar-en-manos-yihadistas-siria'>here</a>"
+description: "Aula d'idiomes es una cooperativa de trabajo asociado que ofrece servicios lingüísticos, como cursos de idiomas y traducciones. Tanto su organización interna como su trabajo de traducción dependen de las herramientas e infraestructuras digitales. Necesitaban entender los fundamentos de la privacidad de Internet y la seguridad de datos, además de evaluar los riesgos involucrados en su flujo de trabajo. Les hemos proporcionado una sesión informativa personalizada de cuatro horas con ejemplos prácticos, en que no solo les explicamos la seguridad de datos sino también les presentamos alternativas seguras y sólidas a las herramientas de las empresas multinacionales que usaban diariamente."
 
 ---
