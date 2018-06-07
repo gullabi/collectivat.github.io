@@ -1,6 +1,6 @@
 ---
 title: Istanbul Istanbul
-subtitle: Traducció literaria
+subtitle: Traducció literària
 ref: periscopi
 lang: ca
 layout: default
@@ -11,9 +11,10 @@ thumbnail: template-thumbnail.png
 alt: image-alt
 project-date: March 2018
 client:
-  name: Periscopi
-  link: http://periscopi.cat/antipoda/item/istanbul-istanbul
+  name: Edicions del Periscopi
+  link: http://periscopi.cat/
 category: Language 
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.  <a href='http://periscopi.cat/antipoda/item/istanbul-istanbul'>here</a>"
+description: "Traduït del turc al català a quatre mans de la membre de Col.lectivaT, Pelin Doğan, i del traductor i corrector, Miquel Saumell, i publicat per Edicions del Periscopi, <a href='http://periscopi.cat/antipoda/item/istanbul-istanbul'> <i>Istanbul Istanbul</i></a> de Burhan Sönmez ens presenta quatre homes tancats en una cel.la subterrània d’un centre d’interrogatoris secret, que expliquen contes, les seves vivències, els seus somnis i malsons, i les seves esperances sobre diverses Istanbuls, per tal de curar-se de les ferides físiques i emocionals de la tortura.
+Edicions del Periscopi és una editorial independent, jove i valenta que publica bona literatura en català. Aposta tant per autors catalans com per traduccions d’altres llengües, i tenen clar que aquesta aposta consisteix a incorporar a la cultura catalana noms que aportin atreviment, modernitat i novetat."
 
 ---
