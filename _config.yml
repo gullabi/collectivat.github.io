@@ -160,7 +160,7 @@ products:
       es: Servicios Lingüísticos
     subtitle:
       en: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
-      ca: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+      ca: en construcció.
       es: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
     description:
       en:
@@ -169,7 +169,7 @@ products:
     list:
       - name:
           en: Product 1
-          ca: Product 1
+          ca: Traducció d'articles
           es: Producto 1
         subheading:
           en: Subheading
@@ -177,11 +177,11 @@ products:
           es: Subheading
         description:
           en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          ca: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          ca: en construcció
           es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       - name:
           en: Product 2
-          ca: Product 2
+          ca: Traducció literària
           es: Producto 2
         subheading:
           en: Subheading
@@ -189,7 +189,19 @@ products:
           es: Subheading
         description:
           en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          ca: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          ca: en construcció
+          es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      - name:
+          en: Product 3
+          ca: Traducció & Subtitulació
+          es: Producto 3
+        subheading:
+          en: Subheading
+          ca: Subheading
+          es: Subheading
+        description:
+          en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          ca: en construcció
           es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   res:
     title:
