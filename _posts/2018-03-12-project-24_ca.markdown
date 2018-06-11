@@ -6,8 +6,8 @@ lang: ca
 layout: default
 modal-id: 24
 date: 2018-03-12
-img: istanbul_img_trans.png
-thumbnail: istanbul_img_trans_thumb.png
+img: istanbul.png
+thumbnail: istanbul_thumbnail.png
 alt: image-alt
 project-date: March 2018
 client:
