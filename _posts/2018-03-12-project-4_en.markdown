@@ -6,14 +6,14 @@ lang: en
 layout: default
 modal-id: 4
 date: 2018-03-12
-img: template.png
-thumbnail: template-thumbnail.png
+img: istanbul.png
+thumbnail: istanbul_thumbnail.png
 alt: image-alt
 project-date: March 2018
 client:
-  name: Periscopi
-  link: http://periscopi.cat/antipoda/item/istanbul-istanbul
+  name: Edicions del Periscopi
+  link: http://periscopi.cat/
 category: Language
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.  <a href='http://periscopi.cat/antipoda/item/istanbul-istanbul'>here</a>"
+description: "Traduït del turc al català a quatre mans de la membre de Col·lectivaT, <b>Pelin Doğan</b>, i del traductor i corrector, <b>Miquel Saumell</b>, i publicat per <b>Edicions del Periscopi</b>, <a href='http://periscopi.cat/antipoda/item/istanbul-istanbul'><i>Istanbul Istanbul</i></a> de Burhan Sönmez ens presenta quatre homes tancats en una cel·la subterrània d’un centre d’interrogatoris secret, que expliquen contes, les seves vivències, els seus somnis i malsons, i les seves esperances sobre diverses Istanbuls, per tal de curar-se de les ferides físiques i emocionals de la tortura. <p>\"<i><b>Istanbul Istanbul</b> és una obra colpidora i punyent perquè sacseja la sensibilitat del lector; però alhora és una obra tendra, emotiva i lluminosa perquè converteix l’esperança i la imaginació en els pilars de l’enteniment.</i>\" Marta Vilà, <a href='http://www.nuvol.com/critica/istanbul-entre-el-decamero-i-dostoievski-foto/'>Núvol</a>.</p> <p>\"<i>Molt poètica i alhora molt a prop de la narrativa oral, el lector d’<b>Istanbul Istanbul</b> trobarà unes planes molt ben escrites i així mateix molt ben traduïdes.</i>\" Xavier Cortadellas, <a href='http://www.elpuntavui.cat/cultura/article/19-cultura/1382883-la-ciutat-de-les-ciutats.html'>el Punt avui</a>. <p>\"<i>L’agresta bellesa d’aquest llibre es veu subratllada amb l’encert de la traducció. Doğan i Saumell transmeten una llunyania pròxima. És comparable i comprensible aquest dia a dia enyorat dels protagonistes. Però, alhora, aquesta Istanbul somiada és desconeguda, fa venir ganes de conèixer-la, de saber-ne el sabor exacte. Com aquella boirina que flota damunt el mar, la Istanbul es fa present, desconeguda i familiar alhora. La ciutat del terror i del desig ens fa examinar els nostres propis valors.</i>\" Simona Škrabec, <a href='http://llegim.ara.cat/ficcio/Davant-dolor-Dels-altres_0_2009199093.html'>Ara Llegim, Diari Ara</a>.</p> <p> </p> <p><b>Edicions del Periscopi</b> és una editorial independent, jove i valenta que publica bona literatura en català. Aposta tant per autors catalans com per traduccions d’altres llengües, i tenen clar que aquesta aposta consisteix a incorporar a la cultura catalana noms que aportin atreviment, modernitat i novetat.</p>"
 
 ---
