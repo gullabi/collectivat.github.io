@@ -56,6 +56,9 @@ h6 {
     font-weight: 700;
 }
 
+#headlink:hover { color: #{{ site.data.template.color.primary }}; }
+#headlink { color: #222}
+
 .img-centered {
     margin: 0 auto;
 }
