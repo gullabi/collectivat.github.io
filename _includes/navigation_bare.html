@@ -1,5 +1,5 @@
 <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top" style="background-color: #222">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
@@ -11,6 +11,30 @@
                 </button>
                 <a class="navbar-brand page-scroll" href="{{ site.url }}">{{site.title}}</a>
             </div>
+           <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="{{site.url}}#page-top"></a>
+                    </li>
+                    <li>
+                        <a href="{{site.url}}#services">{{site.header['services'][page.lang]}}</a>
+                    </li>
+                    <li>
+                        <a href="{{site.url}}#portfolio">{{site.header['portfolio'][page.lang]}}</a>
+                    </li>
+                    <li>
+                        <a href="{{site.url}}#about">{{site.header['about'][page.lang]}}</a>
+                    </li>
+                    <li>
+                        <a href="{{site.url}}#team">{{site.header['team'][page.lang]}}</a>
+                    </li>
+                    <li>
+                        <a href="{{site.url}}#contact">{{site.header['contact'][page.lang]}}</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
 
             <div class="wrapper" style="text-align: right; line-height: 2em">
                 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
