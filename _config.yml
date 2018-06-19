@@ -71,7 +71,7 @@ services:
       fa_icon: fa-language
     - name:
         en: Language Technologies
-        ca: Tecnologies Llingüistiques
+        ca: Tecnologies Lingüístiques
         es: Tecnologías Lingüisticas
       link:
         en: tech_en
@@ -106,7 +106,7 @@ products:
   tech:
     title:
       en: Language Technologies
-      ca: Tecnologies Llingüistiques
+      ca: Tecnologies Lingüístiques
       es: Tecnologías Lingüisticas
     subtitle:
       en: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
@@ -127,8 +127,8 @@ products:
           es: Reconocimiento de Voz, abierto y libre por su idioma
         description:
           en: If you need an open ASR system for your language, we can do it for you. We have our own language agnostic innovative solution to build ASR models, using publicly available audios and their transcriptions. 
-          ca: Si necessita un sistema ASR obert per a la seva llengua, podem fer-ho. Tenim la nostra pròpia solució innovadora, llenguatge agnòstica per construir models de ASR, fent servir àudios disponibles públicament i les seves transcripcions.
-          es: Si necesita un sistema ASR abierto para su idioma, podemos hacerlo. Tenemos nuestra propia solución innovativa, lenguaje agnostico para construir modelos de ASR, usando audios disponibles públicamente y sus transcripciones.
+          ca: Si necessiteu un sistema de RdV obert per a la vostra llengua, podem fer-ho. Tenim la pròpia solució innovadora, llenguatge agnòstic per construir models de RdV, fent servir àudios públicament disponibles i les transcripcions.
+          es: Si necesita un sistema RdV abierto para vuestro idioma, podemos hacerlo. Tenemos nuestra propia solución innovativa, lenguaje agnóstico para construir modelos de RdV, usando audios públicamente disponibles y sus transcripciones.
       - name:
           en: ASR integration 
           ca: Integració de RdV
@@ -139,7 +139,7 @@ products:
           es: Reconocimiento de Voz offline, privado y seguro
         description:
           en: If you want to integrate voice command functionality to your products or speed up your monotonous transcription work flow, we can integrate ASR to your on-premise system or your products for offline processing, for maximum security and data privacy.  
-          ca: Si voleu integrar la funcionalitat d'ordres de veu als seus productes o accelerar el seu flux de treball de transcripció rutinari, podem integrar RdV a la xarxa local o els seus productes per al processament fora de línia, per la màxima seguretat i privacitat de dades.
+          ca: Si voleu integrar la funcionalitat d'ordres de veu als vostres productes o accelerar el flux de treball de transcripció rutinària, podem integrar RdV a la xarxa local o als vostres productes per a processar fora de línia, per la màxima seguretat i privacitat de dades.
           es: Si desea integrar la funcionalidad de comandos de voz a sus productos o acelerar su flujo de trabajo de transcripción rutinario, podemos integrar RdV a su red local o sus productos para el procesamiento fuera de línea, para la máxima seguridad y privacidad de datos.
       - name:
           en: MT integration
@@ -151,7 +151,7 @@ products:
           es: Integra traducció automàtica al seu flux de treball
         description:
           en: Whether you have are a content creator or translator, we can help you integrate machine translation technologies to your work pipeline. Due to the open nature of the technologies we work with, you can take advantage of MT offline, without delivering your data to third party services. 
-          ca: Que sigui un creador de contingut o un traductor, podem ajudar-li a integrar tecnologies de traducció automàtica al seu flux de treball. A causa de la característica oberta de les tecnologies amb les que treballem, pot aprofitar MT sense connexió, sense lliurar les seves dades a serveis de tercers.
+          ca: Sigueu un creador de contingut o un traductor, podem ajudar-vos a integrar tecnologies de traducció automàtica al vostre flux de treball. A causa de la característica oberta de les tecnologies amb les que treballem, pot aprofitar MT sense connexió, sense lliurar les seves dades a serveis de tercers.
           es: Que sea un creador de contenido o un traductor, podemos ayudarle a integrar tecnologías de traducción automática a su flujo de trabajo. Debido a la característica abierta de las tecnologías con las que trabajamos, puede aprovechar MT sin conexión, sin entregar sus datos a servicios de terceros.
   lang:
     title:
