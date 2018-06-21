@@ -109,24 +109,24 @@ products:
       ca: Tecnologies Lingüístiques
       es: Tecnologías Lingüisticas
     subtitle:
-      en: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
-      ca: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
-      es: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
-    description:
       en: 
-      ca:
-      es:
+      ca: 
+      es: 
+    description:
+      en: We are computational linguists, developers and data scientists who work with technologies of automated translation, speech recognition and natural language understanding. These technologies have wide applications, from assisting the work of language workers in translation and transcription, to building human-machine interfaces and extracting analytics from any kind of digital conversational content. We focus our work in developing open tools and technologies for the minority languages which are in threat of digital extinction.
+      ca: Som lingüistes computacionals, desenvolupadors i investigadors que treballen amb tecnologies de traducció automàtica, reconeixement de veu i comprensió del llenguatge natural. Aquestes tecnologies tenen àmplies aplicacions, des d'ajudar a la feina dels treballadors del llenguatge en la traducció i transcripció, fins a construir interfícies d'humà-màquina i extreure anàlisi de qualsevol tipus de contingut conversacional digital. Enfoquem el nostre treball a desenvolupar eines i tecnologies obertes per a les llengües minoritàries que estan en perill d'extinció digital.
+      es: Somos lingüistas computacionales, desarrolladores y investigadores que trabajan con tecnologías de traducción automática, reconocimiento de voz y comprensión del lenguaje natural. Estas tecnologías tienen amplias aplicaciones, desde ayudar al trabajo de los trabajadores del lenguaje en la traducción y transcripción, hasta construir interfaces de humano-máquina y extraer análisis de cualquier tipo de contenido conversacional digital. Enfocamos nuestro trabajo en desarrollar herramientas y tecnologías abiertas para las lenguas minoritarias que están en peligro de extinción digital.
     list:
       - name:
           en: ASR development
           ca: Desenvolupament de RdV
           es: Desarollo de RdV
         subheading:
-          en: Automatic Speech Recognition, open and free for your language 
+          en: Automatic Speech Recognition, open and free for your language
           ca: Reconeixement de Veu, obert i lliure per la seva llengüe
           es: Reconocimiento de Voz, abierto y libre por su idioma
         description:
-          en: If you need an open ASR system for your language, we can do it for you. We have our own language agnostic innovative solution to build ASR models, using publicly available audios and their transcriptions. 
+          en: If you need an open ASR system for your language, we can do it for you. We have our own language agnostic innovative solution to build ASR models, using publicly available audios and their transcriptions.
           ca: Si necessiteu un sistema de RdV obert per a la vostra llengua, podem fer-ho. Tenim la pròpia solució innovadora, llenguatge agnòstic per construir models de RdV, fent servir àudios públicament disponibles i les transcripcions.
           es: Si necesita un sistema RdV abierto para vuestro idioma, podemos hacerlo. Tenemos nuestra propia solución innovativa, lenguaje agnóstico para construir modelos de RdV, usando audios públicamente disponibles y sus transcripciones.
       - name:
@@ -135,10 +135,10 @@ products:
           es: Integración de RdV
         subheading:
           en: Automatic Speech Recognition offline private and secure
-          ca: Reconeixement de Veu offline, privat i segur 
+          ca: Reconeixement de Veu offline, privat i segur
           es: Reconocimiento de Voz offline, privado y seguro
         description:
-          en: If you want to integrate voice command functionality to your products or speed up your monotonous transcription work flow, we can integrate ASR to your on-premise system or your products for offline processing, for maximum security and data privacy.  
+          en: If you want to integrate voice command functionality to your products or speed up your monotonous transcription work flow, we can integrate ASR to your on-premise system or your products for offline processing, for maximum security and data privacy.
           ca: Si voleu integrar la funcionalitat d'ordres de veu als vostres productes o accelerar el flux de treball de transcripció rutinària, podem integrar RdV a la xarxa local o als vostres productes per a processar fora de línia, per la màxima seguretat i privacitat de dades.
           es: Si desea integrar la funcionalidad de comandos de voz a sus productos o acelerar su flujo de trabajo de transcripción rutinario, podemos integrar RdV a su red local o sus productos para el procesamiento fuera de línea, para la máxima seguridad y privacidad de datos.
       - name:
@@ -159,13 +159,13 @@ products:
       ca: Serveis Lingüístics
       es: Servicios Lingüísticos
     subtitle:
-      en: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
-      ca: en construcció.
-      es: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+      en: 
+      ca: 
+      es: 
     description:
-      en:
-      ca:
-      es:
+      en: We are one of the very few organizations who can translate between catalan and turkish both directions, without the use of a bridge language. We ensure the correctness of our work with the cultural knowledge of both worlds, effectively enriching them. Thanks to our strong technological branch, we are able to work with any file format. We develop new and revolutionary ways of doing subtitling using the state-of-the-art open technologies for audio processing, computer aided translation and collective work.
+      ca: Som una de les poques organitzacions que poden traduir entre català i turc en ambdós sentits, sense utilitzar una llengua pont. Garantim la qualitat del nostre treball amb el coneixement sociocultural i sociopolític d'ambdós móns, enriquint-los amb eficàcia. Gràcies a la nostra forta branca tecnològica, podem treballar amb qualsevol format de fitxer. Desenvolupem formes noves i revolucionàries de subtitulació utilitzant les tecnologies obertes de l'última generació per al reconeixement de veu, la traducció assistida per ordinador i el treball col·lectiu.
+      es: Somos una de las pocas organizaciones que pueden traducir entre catalán y turco en ambos sentidos, sin utilizar un idioma puente. Garantizamos la corrección de nuestro trabajo con el conocimiento sociocultural y sociopolítico de ambos mundos, enriqueciéndolos con eficacia. Gracias a nuestra fuerte rama tecnológica, podemos trabajar con cualquier formato de archivo. Desarrollamos formas nuevas y revolucionarias de subtitulación utilizando las tecnologías abiertas de la última generación para el reconocimiento de voz, la traducción asistida por ordenador y el trabajo colectivo.
     list:
       - name:
           en: Product 1
@@ -209,13 +209,13 @@ products:
       ca: Recerca i Consultoria Sociocultural
       es: Investigación y Consultoría Sociocultural
     subtitle:
-      en: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
-      ca: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
-      es: Velit ut tortor pretium viverra suspendisse potenti nullam ac.
+      en: 
+      ca: 
+      es: 
     description:
-      en:
-      ca:
-      es:
+      en: We are social scientists who actively work on Turkey/Kurdistan and Spain/Catalunya. We provide consulting for researchers, journalists and technical equips from the third sector to prepare and manage their projects in the zone. We put you in contact with the key networks, organize the logistics, lifting the cultural and contextual boundaries so that your organization can focus on the impact and successful execution of the project. We set your data infrastructure, facilitate access to it and enable its monitorization with visualizations and dashboards. We provide you with the tools to structure your information, and to protect/save your organizational memory.
+      ca: Som investigadors de ciències socials i treballem activament a Turquia / Kurdistan i Espanya / Catalunya. Proporcionem assessorament a investigadores, periodistes i tècniques del tercer sector per preparar i gestionar els seus projectes en aquests territoris. Estem en contacte amb les xarxes clau, organitzem la logística, aixecant els límits culturals i contextuals perquè la vostra organització pugui centrar-se en l'impacte i la correcta execució del projecte. Configurem la infraestructura de dades, facilitem l'accés i habilitem la seva monitorització amb visualitzacions i panells de dades. Us oferim les eines per estructurar la informació i protegir / desar la memòria de l'organització.
+      es: Somos investigadores de ciencias sociales y trabajamos activamente en Turquía / Kurdistán y España / Cataluña. Proporcionamos asesoramiento a investigadores, periodistas y técnicos del tercer sector para preparar y gestionar sus proyectos en estos territorios. Estamos en contacto con las redes clave, organizamos la logística, levantando los límites culturales y contextuales para que su organización pueda centrarse en el impacto y la correcta ejecución del proyecto. Configuramos la infraestructura de datos, facilitamos el acceso y habilitamos su monitorización con visualizaciones y paneles de datos. Os ofrecemos las herramientas para estructurar su información y proteger / guardar la memoria de la organización.
     list:
       - name:
           en: Product 1
