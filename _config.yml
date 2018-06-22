@@ -178,7 +178,7 @@ products:
         description:
           en: academic articles, essays, news
           ca: artícles acadèmics, assaig, notícies
-          es: artículos: academicos, ensayos, notícias
+          es: "artículos: academicos, ensayos, notícias"
       - name:
           en: Book translation
           ca: Traducció de llibres
@@ -196,12 +196,12 @@ products:
           ca: Traducció & Subtitulació
           es: Traducción & subtitulación
         subheading:
-          en: -
+          en: 
           ca: Traducció i subtitulació dels audiovisuals
-          es: -
+          es: 
         description:
           en: in construction
-          ca: audiovisuals: entrevistes, documentals, pel.liculas
+          ca: "audiovisuals: entrevistes, documentals, pel·liculas"
           es: en construcción
   res:
     title:
@@ -222,9 +222,9 @@ products:
           ca: Recerca social
           es: Investigación social
         subheading:
-          en: -
-          ca: -
-          es: -
+          en:
+          ca:
+          es:
         description:
           en: We do social research with the objective of creating critical collective knowledge independent from hegemonic orders. Our fields of study are the social and political movements of Turkey, Kurdistan, Iran, Iraq and Syria; their state policies, and migration flows. The main purpose of our research activity is to displace a type of knowledge in which the social phenomena of these countries are presented as intrinsic attributes.
           ca: Fem recerca social amb l’objectiu de crear coneixement crític de forma col·lectiva i independent dels ordres hegemònics. Els nostres camps d’estudis són els moviments socials i polítics de Turquia, Kurdistan, Iran, Iraq i Síria; les seves polítiques estatals, i els fluxos migratoris. La finalitat principal de la nostra activitat de recerca és desplaçar un tipus de saber en què els fenòmens socials d’aquests països es presenten com a atributs intrínsecs.
@@ -234,13 +234,13 @@ products:
           ca: Consultoria sociocultural
           es: consultoría sociocultural
         subheading:
-          en: -
-          ca: -
-          es: -
+          en:
+          ca:
+          es:
         description:
           en: We conceive sociocultural consulting as an instrument of social intervention that offers transformative diagnoses on issues and situations in countries such as Turkey, Kurdistan, Iran, Iraq and Syria. We are interested in cooperating with public and third sector entities who want to carry out research, cooperation or artistic projects in these countries, by sharing our academic and linguistic knowledge together with our experience. We offer our service in all phases of projects, such as diagnosis, identification, data collection, impact analysis, action plan and evaluation.
-          ca: Concebem la consultoria sociocultural com un instrument d’intervenció social que ofereix diagnòstics transformadors sobre temes i situacions dels països com Turquia, Kurdistan, Iran, Iraq i Síria. Ens interessa cooperar amb entitats públiques i del tercer sector que volen realitzar projectes de recerca, de cooperació o projectes artístics en aquests països, compartint el nostre coneixement acadèmic i lingüístic juntament amb la nostra experiència. Oferim el nostre servei en totes les fases dels projectes: diagnòstic, identificació, recollida de dades, anàlisi d’impacte, pla d’acció i avaluació.
-          es: Concebimos la consultoría sociocultural como un instrumento de intervención social que ofrece diagnósticos transformadores sobre temas y situaciones de los países como Turquía, Kurdistán, Irán, Irak y Siria. Nos interesa cooperar con entidades públicas y del tercer sector que quieren realizar proyectos de investigación, de cooperación o proyectos artísticos en estos países, compartiendo nuestro conocimiento académico y lingüístico junto con nuestra experiencia. Ofrecemos nuestro servicio en todas las fases de los proyectos: diagnóstico, identificación, recogida de datos, análisis de impacto, plan de acción y evaluación.
+          ca: "Concebem la consultoria sociocultural com un instrument d’intervenció social que ofereix diagnòstics transformadors sobre temes i situacions dels països com Turquia, Kurdistan, Iran, Iraq i Síria. Ens interessa cooperar amb entitats públiques i del tercer sector que volen realitzar projectes de recerca, de cooperació o projectes artístics en aquests països, compartint el nostre coneixement acadèmic i lingüístic juntament amb la nostra experiència. Oferim el nostre servei en totes les fases dels projectes: diagnòstic, identificació, recollida de dades, anàlisi d'impacte, pla d'acció i avaluació."
+          es: "Concebimos la consultoría sociocultural como un instrumento de intervención social que ofrece diagnósticos transformadores sobre temas y situaciones de los países como Turquía, Kurdistán, Irán, Irak y Siria. Nos interesa cooperar con entidades públicas y del tercer sector que quieren realizar proyectos de investigación, de cooperación o proyectos artísticos en estos países, compartiendo nuestro conocimiento académico y lingüístico junto con nuestra experiencia. Ofrecemos nuestro servicio en todas las fases de los proyectos: diagnóstico, identificación, recogida de datos, análisis de impacto, plan de acción y evaluación."
 
 # About text
 about:
