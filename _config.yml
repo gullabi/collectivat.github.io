@@ -92,7 +92,7 @@ services:
         es: research_es
       description:
         en: We are social scientists who actively work on Turkey/Kurdistan and Spain/Catalunya. We provide consulting for researchers, journalists and technical equips from the third sector to prepare and manage their projects in the zone. We have close contact with the key networks, we organize the logistics, lifting the cultural and contextual boundaries so that your organization can focus on the impact and successful execution of the project. We set your data infrastructure, facilitate access to it and enable its monitorization with visualizations and dashboards. We provide you with the tools to structure your information, and to protect-save your organizational memory.
-        ca: Som investigadors de ciències socials i treballem activament a Turquia/Kurdistan i Espanya/Catalunya. Proporcionem assessorament a investigadores, periodistes i tècniques del tercer sector per preparar i gestionar els seus projectes en aquests territoris. Estem en contacte amb les xarxes clau, organitzem la logística, aixecant els límits culturals i contextuals perquè la vostra organització pugui centrar-se en l'impacte i la correcta execució del projecte. Configurem la infraestructura de dades, facilitem l'accés i habilitem la seva monitorització amb visualitzacions i panells de dades. Us oferim les eines per estructurar la informació i protegir-desar la memòria de l'organització.
+        ca: "Som investigadors de ciències socials i treballem activament a Turquia/Kurdistan i Espanya/Catalunya. Proporcionem assessorament a investigadores, periodistes i tècniques del tercer sector per preparar i gestionar els seus projectes en aquests territoris. Estem en contacte amb les xarxes clau, organitzem la logística, aixecant els límits culturals i contextuals perquè la vostra organització pugui centrar-se en l'impacte i la correcta execució del projecte. Configurem la infraestructura de dades, facilitem l'accés i habilitem la seva monitorització amb visualitzacions i panells de dades. Us oferim les eines per estructurar la informació i protegir-desar la memòria de l'organització."
         es: Somos investigadores de ciencias sociales y trabajamos activamente en Turquía/Kurdistán y España/Cataluña. Proporcionamos asesoramiento a investigadores, periodistas y técnicos del tercer sector para preparar y gestionar sus proyectos en estos territorios. Estamos en contacto con las redes clave, organizamos la logística, levantando los límites culturales y contextuales para que su organización pueda centrarse en el impacto y la correcta ejecución del proyecto. Configuramos la infraestructura de datos, facilitamos el acceso y habilitamos su monitorización con visualizaciones y paneles de datos. Os ofrecemos las herramientas para estructurar su información y proteger-guardar la memoria de la organización.
       fa_icon: fa-bar-chart-o
 
@@ -114,7 +114,7 @@ products:
       es: 
     description:
       en: We are computational linguists, developers and data scientists who work with technologies of automated translation, speech recognition and natural language understanding. These technologies have wide applications, from assisting the work of language workers in translation, transcription and/or subtitling, to building human-machine interfaces and extracting analytics from any kind of digital conversational content. We focus our work in developing open tools and technologies for the minority languages which are in threat of digital extinction.
-      ca: Som lingüistes computacionals, desenvolupadors i investigadors que treballen amb tecnologies de traducció automàtica, reconeixement de veu i comprensió del llenguatge natural. Aquestes tecnologies tenen àmplies aplicacions, des d'ajudar els treballadors llingüístics amb la seva feina de traducció, transcripció i/o subtitulació, fins a construir interfícies d'humà-màquina i extreure anàlisi de qualsevol tipus de contingut digital conversacional. Enfoquem el nostre treball en desenvolupar eines i tecnologies obertes per a les llengües minoritzadess que estan en perill d'extinció digital.
+      ca: "Som lingüistes computacionals, desenvolupadors i investigadors que treballen amb tecnologies de traducció automàtica, reconeixement de veu i comprensió del llenguatge natural. Aquestes tecnologies tenen àmplies aplicacions, des d'ajudar els treballadors llingüístics amb la seva feina de traducció, transcripció i/o subtitulació, fins a construir interfícies d'humà-màquina i extreure anàlisi de qualsevol tipus de contingut digital conversacional. Enfoquem el nostre treball en desenvolupar eines i tecnologies obertes per a les llengües minoritzadess que estan en perill d'extinció digital."
       es: Somos lingüistas computacionales, desarrolladores y investigadores que trabajan con tecnologías de traducción automática, reconocimiento de voz y comprensión del lenguaje natural. Estas tecnologías tienen amplias aplicaciones, desde ayudar a los trabajadores lingüisticos con su trabajo traducción, transcripción y/o subtitulación, hasta construir interfaces de humano-máquina y extraer análisis de cualquier tipo de contenido digital conversacional. Enfocamos nuestro trabajo en desarrollar herramientas y tecnologías abiertas para las lenguas minorizadas que están en peligro de extinción digital.
     list:
       - name:
@@ -139,7 +139,7 @@ products:
           es: Reconocimiento de voz offline, privado y seguro
         description:
           en: If you want to integrate voice command functionality to your products or speed up your monotonous transcription work flow, we can integrate ASR to your on-premise system or your products for offline processing, for maximum security and data privacy.
-          ca: Si voleu integrar la funcionalitat d'ordres de veu als vostres productes o accelerar el flux de treball de transcripció rutinària, podem integrar RdV a la xarxa local o als vostres productes per a processar fora de línia, per la màxima seguretat i privacitat de dades.
+          ca: "Si voleu integrar la funcionalitat d'ordres de veu als vostres productes o accelerar el flux de treball de transcripció rutinària, podem integrar RdV a la xarxa local o als vostres productes per a processar fora de línia, per la màxima seguretat i privacitat de dades."
           es: Si deseáis integrar la funcionalidad de comandos de voz a vuestros productos o acelerar el flujo de trabajo de transcripción rutinaria, podemos integrar RdV a vuestra red local o a los productos para el procesamiento fuera de línea, para la máxima seguridad y privacidad de datos.
       - name:
           en: MT integration
@@ -169,24 +169,24 @@ products:
     list:
       - name:
           en: Article translation
-          ca: Traducció d'articles
+          ca: "Traducció d'articles"
           es: Traducción de artículos
         subheading:
-          en: Translation, correction, proof-reading
-          ca: Traducció, correcció, revisió
-          es: Traducción, corrección, revisión
+          en: Academic texts, essays, journalistic material
+          ca: Artícles acadèmics, assajos, fonts periodístics
+          es: Artículos académicos, ensayos, fuentes periodísticas
         description:
-          en: academic articles, essays, news
-          ca: artícles acadèmics, assaig, notícies
-          es: "artículos: academicos, ensayos, notícias"
+          en: #We do translation, correction and proof-reading of your texts academic content
+          ca: #Fem traducció, correcció i revisió dels vostres textos de contingut acadèmic, els assajos i tota mena de fonts periodístiques o contextuals necessàries per al vostre projecte. Gràcies a la caracterísca interdisciplinar del nostre equip i col·laboradors, podem treballar amb textos sobre un ampli camp d'estudis, com ara, abc, psicologia,
+          es: #"artículos: academicos, ensayos, notícias"
       - name:
           en: Book translation
           ca: Traducció de llibres
           es: Traducción de libros
         subheading:
           en: Literature or essays
-          ca: Literatura o assaig
-          es: Literatura o ensayo
+          ca: Literatura o assajos
+          es: Literatura o ensayos
         description:
           en: in construction
           ca: en construcció
@@ -201,7 +201,7 @@ products:
           es: 
         description:
           en: in construction
-          ca: "audiovisuals: entrevistes, documentals, pel·liculas"
+          ca: en construcció #"audiovisuals: entrevistes, documentals, pel·lículas"
           es: en construcción
   res:
     title:
@@ -214,7 +214,7 @@ products:
       es: 
     description:
       en: We are social scientists who actively work on Turkey/Kurdistan and Spain/Catalunya. We provide consulting for researchers, journalists and technical equips from the third sector to prepare and manage their projects in the zone. We have close contact with the key networks, we organize the logistics, lifting the cultural and contextual boundaries so that your organization can focus on the impact and successful execution of the project. We set your data infrastructure, facilitate access to it and enable its monitorization with visualizations and dashboards. We provide you with the tools to structure your information, and to protect-save your organizational memory.
-      ca: Som investigadors de ciències socials i treballem activament a Turquia/Kurdistan i Espanya/Catalunya. Proporcionem assessorament a investigadores, periodistes i tècniques del tercer sector per preparar i gestionar els seus projectes en aquests territoris. Estem en contacte amb les xarxes clau, organitzem la logística, aixecant els límits culturals i contextuals perquè la vostra organització pugui centrar-se en l'impacte i la correcta execució del projecte. Configurem la infraestructura de dades, facilitem l'accés i habilitem la seva monitorització amb visualitzacions i panells de dades. Us oferim les eines per estructurar la informació i protegir-desar la memòria de l'organització.
+      ca: "Som investigadors de ciències socials i treballem activament a Turquia/Kurdistan i Espanya/Catalunya. Proporcionem assessorament a investigadores, periodistes i tècniques del tercer sector per preparar i gestionar els seus projectes en aquests territoris. Estem en contacte amb les xarxes clau, organitzem la logística, aixecant els límits culturals i contextuals perquè la vostra organització pugui centrar-se en l'impacte i la correcta execució del projecte. Configurem la infraestructura de dades, facilitem l'accés i habilitem la seva monitorització amb visualitzacions i panells de dades. Us oferim les eines per estructurar la informació i protegir-desar la memòria de l'organització."
       es: Somos investigadores de ciencias sociales y trabajamos activamente en Turquía/Kurdistán y España/Cataluña. Proporcionamos asesoramiento a investigadores, periodistas y técnicos del tercer sector para preparar y gestionar sus proyectos en estos territorios. Estamos en contacto con las redes clave, organizamos la logística, levantando los límites culturales y contextuales para que su organización pueda centrarse en el impacto y la correcta ejecución del proyecto. Configuramos la infraestructura de datos, facilitamos el acceso y habilitamos su monitorización con visualizaciones y paneles de datos. Os ofrecemos las herramientas para estructurar su información y proteger-guardar la memoria de la organización.
     list:
       - name:
