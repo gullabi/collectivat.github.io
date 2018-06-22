@@ -168,41 +168,41 @@ products:
       es: Somos una de las pocas entidades que ofrecen traducciones entre el catalán y el turco en ambos sentidos, sin utilizar un idioma puente. Garantizamos la corrección de nuestro trabajo con el conocimiento sociocultural y sociopolítico de ambos mundos, enriqueciéndolos con eficacia. Gracias a nuestra fuerte rama tecnológica, podemos trabajar con cualquier formato de archivo. Desarrollamos nuevas formas nuevas revolucionarias de transcripción y subtitulación utilizando las tecnologías abiertas de la última generación para el reconocimiento de voz, la traducción asistida por ordenador y el trabajo colectivo.
     list:
       - name:
-          en: Product 1
+          en: Article translation
           ca: Traducció d'articles
-          es: Producto 1
+          es: Traducción de artículos
         subheading:
-          en: Subheading
-          ca: Subheading
-          es: Subheading
+          en: Translation, correction, proof-reading
+          ca: Traducció, correcció, revisió
+          es: Traducción, corrección, revisión
         description:
-          en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          ca: en construcció
-          es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          en: academic articles, essays, news
+          ca: artícles acadèmics, assaig, notícies
+          es: artículos: academicos, ensayos, notícias
       - name:
-          en: Product 2
-          ca: Traducció literària
-          es: Producto 2
+          en: Book translation
+          ca: Traducció de llibres
+          es: Traducción de libros
         subheading:
-          en: Subheading
-          ca: Subheading
-          es: Subheading
+          en: Literature or essays
+          ca: Literatura o assaig
+          es: Literatura o ensayo
         description:
-          en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          en: in construction
           ca: en construcció
-          es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          es: en construcción
       - name:
-          en: Product 3
+          en: Translation & Subtitling
           ca: Traducció & Subtitulació
-          es: Producto 3
+          es: Traducción & subtitulación
         subheading:
-          en: Subheading
-          ca: Subheading
-          es: Subheading
+          en: -
+          ca: Traducció i subtitulació dels audiovisuals
+          es: -
         description:
-          en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          ca: en construcció
-          es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          en: in construction
+          ca: audiovisuals: entrevistes, documentals, pel.liculas
+          es: en construcción
   res:
     title:
       en: Socio-Cultural Research and Consulting
@@ -218,29 +218,29 @@ products:
       es: Somos investigadores de ciencias sociales y trabajamos activamente en Turquía/Kurdistán y España/Cataluña. Proporcionamos asesoramiento a investigadores, periodistas y técnicos del tercer sector para preparar y gestionar sus proyectos en estos territorios. Estamos en contacto con las redes clave, organizamos la logística, levantando los límites culturales y contextuales para que su organización pueda centrarse en el impacto y la correcta ejecución del proyecto. Configuramos la infraestructura de datos, facilitamos el acceso y habilitamos su monitorización con visualizaciones y paneles de datos. Os ofrecemos las herramientas para estructurar su información y proteger-guardar la memoria de la organización.
     list:
       - name:
-          en: Product 1
-          ca: Product 1
-          es: Producto 1
+          en: Social Research
+          ca: Recerca social
+          es: Investigación social
         subheading:
-          en: Subheading
-          ca: Subheading
-          es: Subheading
+          en: -
+          ca: -
+          es: -
         description:
-          en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          ca: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          en: We do social research with the objective of creating critical collective knowledge independent from hegemonic orders. Our fields of study are the social and political movements of Turkey, Kurdistan, Iran, Iraq and Syria; their state policies, and migration flows. The main purpose of our research activity is to displace a type of knowledge in which the social phenomena of these countries are presented as intrinsic attributes.
+          ca: Fem recerca social amb l’objectiu de crear coneixement crític de forma col·lectiva i independent dels ordres hegemònics. Els nostres camps d’estudis són els moviments socials i polítics de Turquia, Kurdistan, Iran, Iraq i Síria; les seves polítiques estatals, i els fluxos migratoris. La finalitat principal de la nostra activitat de recerca és desplaçar un tipus de saber en què els fenòmens socials d’aquests països es presenten com a atributs intrínsecs.
+          es: Hacemos investigación social con el objetivo de crear conocimiento crítico de forma colectiva e independiente de los órdenes hegemónicos. Nuestros campos de estudios son los movimientos sociales y políticos de Turquía, Kurdistán, Irán, Irak y Siria; sus políticas estatales, y los flujos migratorios. La finalidad principal de nuestra actividad de investigación es desplazar un tipo de saber en que los fenómenos sociales de estos países se presentan como atributos intrínsecos.
       - name:
-          en: Product 2
-          ca: Product 2
-          es: Producto 2
+          en: Sociocultural Consulting
+          ca: Consultoria sociocultural
+          es: consultoría sociocultural
         subheading:
-          en: Subheading
-          ca: Subheading
-          es: Subheading
+          en: -
+          ca: -
+          es: -
         description:
-          en: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          ca: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          es: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          en: We conceive sociocultural consulting as an instrument of social intervention that offers transformative diagnoses on issues and situations in countries such as Turkey, Kurdistan, Iran, Iraq and Syria. We are interested in cooperating with public and third sector entities who want to carry out research, cooperation or artistic projects in these countries, by sharing our academic and linguistic knowledge together with our experience. We offer our service in all phases of projects, such as diagnosis, identification, data collection, impact analysis, action plan and evaluation.
+          ca: Concebem la consultoria sociocultural com un instrument d’intervenció social que ofereix diagnòstics transformadors sobre temes i situacions dels països com Turquia, Kurdistan, Iran, Iraq i Síria. Ens interessa cooperar amb entitats públiques i del tercer sector que volen realitzar projectes de recerca, de cooperació o projectes artístics en aquests països, compartint el nostre coneixement acadèmic i lingüístic juntament amb la nostra experiència. Oferim el nostre servei en totes les fases dels projectes: diagnòstic, identificació, recollida de dades, anàlisi d’impacte, pla d’acció i avaluació.
+          es: Concebimos la consultoría sociocultural como un instrumento de intervención social que ofrece diagnósticos transformadores sobre temas y situaciones de los países como Turquía, Kurdistán, Irán, Irak y Siria. Nos interesa cooperar con entidades públicas y del tercer sector que quieren realizar proyectos de investigación, de cooperación o proyectos artísticos en estos países, compartiendo nuestro conocimiento académico y lingüístico junto con nuestra experiencia. Ofrecemos nuestro servicio en todas las fases de los proyectos: diagnóstico, identificación, recogida de datos, análisis de impacto, plan de acción y evaluación.
 
 # About text
 about:
