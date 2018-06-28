@@ -188,21 +188,33 @@ products:
           ca: "Literatura, recopilació d'articles/assajos, llibres acadèmics"
           es: Literatura, recopilación de artículos/ensayos, libros académicos
         description:
-          en: "If you have a greater volume of text material to be translated without a bridge language, such as compilation of articles, academic books or literature (novels, short stories) we can work with you. Our areas of specialization are mainly political science, social movements, peoples' movements, feminism, LGBTI+, political ecology, among others."
-          ca: "Si teniu un gran volum de text per a traduir sense una llengua pont, com per exemple recompilació d'articles, llibres acadèmics o literatura (novel·les, contes) podem treballar amb vosaltres. Les nostres àrees d'especialització són principalment ciències polítiques, moviments socials, moviments populars, feminisme, LGBTI +, ecologia política, entre d'altres."
-          es: Si tenéis un volumen grande de texto para traducir sin un idioma puente, como recompilación de artículos, libros académicos o literatura (novelas, cuentos) podemos trabajar con vosotros. Nuestras áreas de especialización son principalmente ciencias políticas, movimientos sociales, movimientos populares, feminismo, LGBTI +, ecología política, entre otros.
+          en: "If you have a greater volume of text material to be translated without a bridge language, such as compilation of articles, academic books or literature (novels, short stories) we can work with you. Our areas of specialization are mainly political science, social movements, peoples' movements, feminisms, LGBTI+, political ecology, among others."
+          ca: "Si teniu un gran volum de text per a traduir sense una llengua pont, com per exemple recompilació d'articles, llibres acadèmics o literatura (novel·les, contes) podem treballar amb vosaltres. Les nostres àrees d'especialització són principalment ciències polítiques, moviments socials i populars, feminismes, LGBTI+, ecologia política, entre altres."
+          es: Si tenéis un volumen grande de texto para traducir sin un idioma puente, como recompilación de artículos, libros académicos o literatura (novelas, cuentos) podemos trabajar con vosotros. Nuestras áreas de especialización son principalmente ciencias políticas, movimientos sociales y populares, feminismos, LGBTI+, ecología política, entre otros.
       - name:
-          en: Translation & Subtitling
-          ca: Traducció & Subtitulació
-          es: Traducción & subtitulación
+          en: Audiovisual Translation
+          ca: "Traducció d'audiovisuals"
+          es: Traducción de audiovisuales
         subheading:
-          en: 
-          ca: Traducció i subtitulació dels audiovisuals
-          es: 
+          en: Transcription, translation, subtitling
+          ca: Transcripció, traducció, subtitulació
+          es: Transcripción, traducción, subtitulación
         description:
-          en: in construction
-          ca: en construcció #"audiovisuals: entrevistes, documentals, pel·lículas"
-          es: en construcción
+          en: A part from translation we can simply transcribe your audio/visual material (such as interviews for your research/investigation) as well as subtitling of your final audiovisual product (documentary, informative/educative spots, etc). We use our own technological tools and platforms for precision, speed, and above all, to guarantee the privacy and security of your material.
+          ca: "A part de la traducció, podem simplement transcriure el vostre material audiovisual (com entrevistes per a la investigacióo recerca) així com fer els subtítols del vostre producte audiovisual final (documentals, vídeos informatius/educatius, etc.). Utilitzem les nostres pròpies eines i plataformes tecnològiques per a la precisió, la velocitat i, sobretot, per garantir la privacitat i seguretat del vostre material."
+          es: A parte de la traducción, podemos simplemente transcribir vuestro material audiovisual (como entrevistas para la investigación) así como subtítulos de vuestro producto audiovisual final (documentales, videos informativos/educativos, etc.). Utilizamos nuestras propias herramientas y plataformas tecnológicas para la precisión, la velocidad y, sobre todo, para garantizar la privacidad y seguridad de vuestro material.
+      - name:
+          en: Language courses
+          ca: "Cursos d'idiomes"
+          es: Cursos de idiomas
+        subheading:
+          en: Turkish #, Kurdish, Arabic
+          ca: Turc
+          es: Turco
+        description:
+          en: We believe that language is not only a communication tool but also a medium to learn and understand cultural, contextual and political characteristics of the people who speak that language. Learning a language, in this era, also helps to build autonomy in searching, accessing and following the information, which allows us to create our own critical knowledge about the topics we are interested in. So why not come and learn Turkish with us!
+          ca: "Creiem que la llengua no és només una eina de comunicació, sinó també un mitjà per aprendre i comprendre les característiques culturals, contextuals i polítiques de les persones que parlen tal idioma. Aprendre un idioma, en aquesta època, també ajuda a desenvolupar l'autonomia en la recerca, l'accés i el seguiment de la informació, cosa que ens permet crear el nostre propi coneixement crític sobre els temes que ens interessen. Llavors, per què no veniu a aprendre turc amb nosaltres?"
+          es: Creemos que la lengua no es solo una herramienta de comunicación, sino también un medio para aprender y comprender las características culturales, contextuales y políticas de las personas que hablan tal idioma. Aprender un idioma, en esta época, también ayuda a desarrollar la autonomía en la búsqueda, el acceso y el seguimiento de la información, cosa que nos permite crear nuestro propio conocimiento crítico sobre los temas que nos interesan. ¿Entonces, por qué no venís a aprender turco con nosotros?
   res:
     title:
       en: Socio-Cultural Research and Consulting
@@ -256,7 +268,7 @@ about:
             es: Autoempoderamiento
           description:
             en: We believe that self-empowerment is the key in de-centralization of tasks and effective decision making. Through it, we strive for autonomy within our organization and also the autonomy of our partners in everything they do. This also entails technological sovereignty, i.e. the independence from proprietary software or technological services that are close and freedom from monopolistic knowledge channels
-            ca: Creiem que l'auto-enfortiment és la clau per a la descentralització de tasques i en la presa de decisions efectiva. A través d'això, ens esforcem per tenir autonomia dins de la nostra organització i també perquè les nostres sòcies disposin d’autonomia en tot el que fan. Això també implica la sobirania tecnològica, és a dir, la independència dels software propietari o serveis tecnològics semblants, i també alliberament dels canals de coneixement monopolístics.
+            ca: "Creiem que l'auto-enfortiment és la clau per a la descentralització de tasques i en la presa de decisions efectiva. A través d'això, ens esforcem per tenir autonomia dins de la nostra organització i també perquè les nostres sòcies disposin d’autonomia en tot el que fan. Això també implica la sobirania tecnològica, és a dir, la independència dels software propietari o serveis tecnològics semblants, i també alliberament dels canals de coneixement monopolístics."
             es: Creemos que la auto-empoderamiento es la clave para la descentralización de tareas y en la toma de decisiones efectiva. A través de eso, nos esforzamos para tener autonomía dentro de nuestra organización y también para que nuestras socias dispongan de autonomía en todo lo que hacen. Esto también implica la soberanía tecnológica, es decir, la independencia de software propietario o servicios tecnológicos parecidos, así como la liberación de los canales de conocimiento monopolísticos.
           fa_icon: fa-hand-rock-o
         - name:
@@ -302,7 +314,7 @@ about:
             es: Procomún
           description:
             en: We are dedicated to create and maintain resources which are common to a community of knowledge workers. We take part in community driven projects whether it be informing the public through creation of open data repositories or development of free and open source tools.
-            ca: Ens dediquem a crear i mantenir recursos que són comuns d’una comunitat de treballadores de coneixement. Participem en projectes dirigits per la comunitat, sigui per informar al públic mitjançant la creació de repositoris de dades obertes o el desenvolupament d'eines de codi obert i lliure.
+            ca: "Ens dediquem a crear i mantenir recursos que són comuns d’una comunitat de treballadores de coneixement. Participem en projectes dirigits per la comunitat, sigui per informar al públic mitjançant la creació de repositoris de dades obertes o el desenvolupament d'eines de codi obert i lliure."
             es: Nos dedicamos a crear y mantener recursos que son comunes de una comunidad de trabajadores de conocimiento. Participamos en proyectos dirigidos por la comunidad, sea para informar al público mediante la creación de repositorios de datos abiertos o el desarrollo de herramientas de código abierto y libre.
           fa_icon: fa-globe
 
