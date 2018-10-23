@@ -1,5 +1,5 @@
 ---
-title: RdV Abierto en catalán
+title: RAH Abierto en catalán
 subtitle: Tecnología
 ref: softcatala
 lang: es
