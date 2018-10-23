@@ -1,4 +1,4 @@
-url: "collectivat.github.io"
+url: "collectivat.cat"
 baseurl: "" 
 
 index:
@@ -356,7 +356,7 @@ people:
         - title: twitter
           url: https://twitter.com/gullabi
         - title: bitbucket
-          url: https://bitbucket.org/bkulebi/
+          url: https://bitbucket.org/bkulebi
         - title: github
           url: https://github.com/gullabi
         - title: linkedin
@@ -380,11 +380,11 @@ people:
         es: Experto en Lingüística Computacional
       social:
         - title: twitter
-          url: https://twitter.com/AlpBarna
+          url: https://twitter.com/OktemAlp
         - title: github
           url: https://github.com/alpoktem
         - title: linkedin
-          url: www.linkedin.com/in/alp-oktem
+          url: https://www.linkedin.com/in/alp-oktem
   footer:
     en: We also collaborate with many other professionals, not only in Catalunya but also in Turkey.
     ca: També col·laborem amb molts altres professionals, no només a Catalunya, sinó també a Turquia.
@@ -393,9 +393,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/collectivat
+    url: https://twitter.com/collectivat
   - title: github
-    url: http://github.com/collectivat
+    url: https://github.com/collectivat
 
 # Postal address (add as many lines as necessary)
 address:
