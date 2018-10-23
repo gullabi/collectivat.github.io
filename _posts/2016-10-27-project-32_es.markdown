@@ -14,6 +14,6 @@ client:
   name: "#Metadecidim Hackathon"
   link: http://decidim.collectivat.cat
 category: Technology
-description: "El hackathón de decidim.barcelona tuvo lugar los días 25 y 26 de noviembre de 2016 en el Convento de los Ángeles y el Auditorio del MACBA. Juntó los interesados, con el fin de trabajar en colaboración con decidim.barcelona, la plataforma de participación digital del Municipio de Barcelona. Categorizamos los mensajes de rechazo a las propuestas del plan de acción municipal (PAM) y pusimos los datos relevantes en un panel de dados visualmente accesible, incluyendo nuestras propias categorizaciones. El panel de dados es accesible <a href='http://decidim.collectivat.cat'>aquí</a>"
+description: "El hackathón de decidim.barcelona tuvo lugar los días 25 y 26 de noviembre de 2016 en el Convento de los Ángeles y en el Auditorio del MACBA. Reunió a varias personas interesadas en trabajar en colaboración con decidim.barcelona, la plataforma de participación digital del municipio de Barcelona. Categorizamos los mensajes de rechazo a las propuestas del plan de acción municipal (PAM) y pusimos los datos relevantes en un panel de datos, incluyendo nuestras propias categorizaciones. El panel de datos es accesible <a href='http://decidim.collectivat.cat'>aquí</a>."
 
 ---
