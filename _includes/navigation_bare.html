@@ -37,6 +37,7 @@
                     <li>
                         <a href="http://{{site.url}}/#contact">{{site.header['contact'][page.lang]}}</a>
                     </li>
+
                     {% else %}
                     <li class="hidden">
                         <a href="http://{{site.url}}/{{page.lang}}#page-top"></a>
@@ -58,6 +59,10 @@
                     </li>
 
                     {% endif %}
+                    <li>
+                        <a href="http://{{site.url}}/{{site.resources[page.lang]}}">{{site.header['resources'][page.lang]}}</a>
+                    </li>
+
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

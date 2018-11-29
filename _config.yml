@@ -1,4 +1,4 @@
-url: "collectivat.cat"
+url: "collectivat.github.io"
 baseurl: "" 
 
 index:
@@ -10,6 +10,11 @@ technology:
   en: technology_en.html
   ca: technology.html
   es: technology_es.html
+
+resources:
+  en: asr_en
+  ca: asr
+  es: asr_es
 
 # Site settings
 title: Col·lectivaT
@@ -48,6 +53,11 @@ header:
     en: Contact
     ca: Contacte
     es: Contacto
+  resources:
+    en: Resources
+    ca: Recursos
+    es: Recursos
+
 
 # Services text
 services:
