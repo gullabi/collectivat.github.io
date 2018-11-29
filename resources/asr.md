@@ -55,7 +55,7 @@ Per als dos projectes que vam executar amb èxit, hem recollir enregistraments d
 
 Aquí teniu els models de RAP que vam entrenar nosaltres a partir dels corpora mencionats abans. Per ara vam utilitzar el toolkit de reconeixement de la parla, [CMUSphinx](https://cmusphinx.github.io/) que és el resultat de més de 20 anys d'investigació a la Universitat Carnegie Mellon. Tot i que actualment l'estat-de-l'art és la tecnologia híbrida de Hidden Markov Models (HMM) i les xarxes neuronals (NN) com Kaldi, l'eina `pocketsphinx` encara és rellevant per descoficar fora de línia en entorns limitats de recursos com els móbils. Seguim el nostre treball de manteniment i millora dels models al nostre [repositori](https://github.com/collectivat/cmusphinx-models). Podeu trobar guies d'instal·lació i configuració, i també tutorials dels casos d'ús bàsic al nostre [wiki][wiki].
 
-Aquí la llista dels nostres models de CMUSphinx més recents:
+Aquí teniu la llista dels nostres models de CMUSphinx més recents:
 
 * [TV3Parla v0.3](): `sphinxtrain` 5pre-alpha continous model
 * [TV3Parla+ParlamentParla v0.2](): `sphinxtrain` 5pre-alpha continous model
