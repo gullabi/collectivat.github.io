@@ -49,7 +49,7 @@ For the two projects we finished successfully, we have gathered publicly availab
   The corpus can be reached [here]() under a [CC BY 4.0][ccby] license. In addition to the segmented audio files and the transcriptions, the corpus also includes per intervention full text vs audio links. In the near future we will also publish the structured form of the parliamentary sessions (session id, speaker, intervention text, intervention duration etc.).  
   <br/>
 
-  This project was supported by the Department of Culture ([Departament de Cultura](http://cultura.gencat.cat/)) of the Catalan autonomous government.
+  This project was supported by the [Department of Culture](http://cultura.gencat.cat/)) of the Catalan autonomous government.
 
 ## ASR models
 
@@ -57,8 +57,8 @@ These are the ASR models that we trained, using the aforementioned corpora. For 
 
 Here is a list of latest CMUSphinx models:
 
-* [TV3Parla v0.3](): `sphinxtrain` 5pre-alpha continous models
-* [TV3Parla+ParlamentParla v0.2](): `sphinxtrain` 5pre-alpha continous models
+* [TV3Parla v0.3](): `sphinxtrain` 5pre-alpha continous model
+* [TV3Parla+ParlamentParla v0.2](): `sphinxtrain` 5pre-alpha continous model
   <br/>  
   <br/> 
   <br/>
