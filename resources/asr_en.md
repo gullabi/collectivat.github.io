@@ -4,6 +4,12 @@ ref: asr
 lang: en
 permalink: asr_en
 ---
+<style>
+table {
+    width:100%;
+}
+</style>
+
 # Resource for Speech Technologies
 
 As a part of our mission we provide open data and resources to the public 
@@ -36,7 +42,7 @@ handheld devices.
 Throughout different projects we have gathered data and trained CMUSphinx models with them, you can download the latest models and related files from the following list:
 
 * [TV3Parla (continous) v0.3]()
-* [TV3Parla+ParlamentParla v0.2 (continous]()
+* [TV3Parla+ParlamentParla v0.2 (continous)]()
 
 ## Acoustic corpus
 
@@ -51,7 +57,7 @@ varying open licences.
 
   This project was supported by the [Softcatalà Foundation]().
 
-  * [TV3Parla audio corpus]() ([CC BY-NC 4.0][ccbync])  
+  * [TV3Parla Corpus]() ([CC BY-NC 4.0][ccbync])  
   <br/>
 
 
@@ -61,7 +67,7 @@ varying open licences.
 
   The ParlamentParla project and the preparation of this page was supported by the Culture Department ([Departament de Cultura](http://cultura.gencat.cat/)) of the Catalan autonomous government.
 
-  * [ParlamentParla audio corpus]() ([CC BY 4.0][ccby])  
+  * [ParlamentParla Corpus]() ([CC BY 4.0][ccby])  
   <br/>
 
 [ccby]: https://creativecommons.org/licenses/by/4.0/
