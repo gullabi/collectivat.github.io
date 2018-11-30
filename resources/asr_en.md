@@ -12,7 +12,7 @@ table {
 
 # Resources for Speech Technologies
 
-As a part of our mission we provide open data and resources to the public concerning speech technologies. You can find a detailed list here with short explanations and further references to get more information. Also for more details on speech technologies and the models we maintain, please visit our [wiki][wiki].
+As a part of our mission we provide open data and resources to the public concerning speech technologies. You can find a detailed list here with short explanations and further references to get more information. Also, please visit our [wiki][wiki] for more details on speech technologies and the models we maintain.
   
 <br /> 
 
@@ -34,22 +34,22 @@ For the two projects we finished successfully, we have gathered publicly availab
 
 * **TV3Parla**
 
-  This corpus includes 240 hours of Catalan speech from broadcast material. The details of segmentation, data processing and also model training is explained in detail in [Külebi, Öktem; 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/abstracts/IberS18_P1-2_Kulebi.html). The content is owned by Corporació Catalana de Mitjans Audiovisuals, SA (CCMA); we processed their material and hereby making it available under their [terms of use](http://www.ccma.cat/avis-legal/condicions-utilitzacio-del-portal/).
+  This corpus includes 240 hours of Catalan speech from broadcast material. The details of segmentation, data processing and also model training are explained in [Külebi, Öktem; 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/abstracts/IberS18_P1-2_Kulebi.html). The content is owned by Corporació Catalana de Mitjans Audiovisuals, SA (CCMA); we processed their material and hereby making it available under their [terms of use](http://www.ccma.cat/avis-legal/condicions-utilitzacio-del-portal/).
 
   The corpus can be reached [here]() under a [CC BY-NC 4.0][ccbync] license.  
   <br/>
 
-  This project was supported by the [Softcatalà Foundation](https://www.softcatala.org/).
-
+  This project was supported by the [Softcatalà Association](https://www.softcatala.org/).
+  <br/>
 
 * **ParlamentParla**
 
-  We have gathered this audio corpus from the recordings and the transcripts of the Catalan Parliament([Parlament de Catalunya](https://www.parlament.cat/)) plenary sessions. We have aligned the transcriptions with the recordings and extracted the cleanest 320 hours for training speech models. The content belongs to the Catalan Parliament and the data is released conforming their [terms of use](https://www.parlament.cat/pcat/serveis-parlament/avis-legal/).
+  We have gathered this audio corpus from the recordings and the transcripts of the Catalan Parliament ([Parlament de Catalunya](https://www.parlament.cat/)) plenary sessions. We have aligned the transcriptions with the recordings and extracted the cleanest 320 hours to train speech models. The content belongs to the Catalan Parliament and the data is released conforming their [terms of use](https://www.parlament.cat/pcat/serveis-parlament/avis-legal/).
 
   The corpus can be reached [here]() under a [CC BY 4.0][ccby] license. In addition to the segmented audio files and the transcriptions, the corpus also includes per intervention full text vs audio links. In the near future we will also publish the structured form of the parliamentary sessions (session id, speaker, intervention text, intervention duration etc.).  
   <br/>
 
-  This project was supported by the [Department of Culture](http://cultura.gencat.cat/)) of the Catalan autonomous government.
+  This project was supported by the [Department of Culture](http://cultura.gencat.cat/) of the Catalan autonomous government.
 
 ## ASR models
 
@@ -57,8 +57,8 @@ These are the ASR models that we trained, using the aforementioned corpora. For 
 
 Here is a list of latest CMUSphinx models:
 
-* [TV3Parla v0.3](): `sphinxtrain` 5pre-alpha continous model
-* [TV3Parla+ParlamentParla v0.2](): `sphinxtrain` 5pre-alpha continous model
+* [TV3Parla v0.3](): `sphinxtrain` 5pre-alpha continuous model
+* [TV3Parla+ParlamentParla v0.2](): `sphinxtrain` 5pre-alpha continuous model
   <br/>  
   <br/> 
   <br/>
