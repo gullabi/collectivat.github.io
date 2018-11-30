@@ -23,7 +23,6 @@ Com a part de la nostra missió, proporcionem dades i recursos oberts al públic
 | [TV3Parla Corpus][1]         v0.3 | català  | corpus d'àudio | CC-BY-NC 4.0  | [enllaç][Ctv3] |
 | [ParlamentParla Corpus][1]   v0.3 | català  | corpus d'àudio |  CC-BY 4.0    | [enllaç][Cpar] |
 | OpenSubtitles LM             v1.0 | català  | model d'idioma |  CC-BY 4.0    | [enllaç][LMos] |
-| Viquipèdia LM                v1.0 | català  | model d'idioma |  CC-BY 4.0    | [enllaç][LMvq] | 
  
 <br/>
 <br/>
@@ -77,5 +76,5 @@ La preparació d'aquesta pàgina va ser possible amb el suport del [Departament 
 [M0.4]: https://cloud.laklak.eu/s/4o2b5MrHckMYCXo
 [LMos]: https://cloud.laklak.eu/s/zY7J2jGD8Hgnzpj
 [LMvq]: https://cloud.laklak.eu/s/dXCsjqSfjk6Eo7R
-[2]: #asr-models
-[1]: #acoustic-corpora
+[2]: #models-de-rap
+[1]: #corpora-acústics

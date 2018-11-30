@@ -23,7 +23,6 @@ As a part of our mission we provide open data and resources to the public concer
 | [TV3Parla Corpus][1]         v0.3 | Catalan  | audio corpus   | CC-BY-NC 4.0  | [link][Ctv3] |
 | [ParlamentParla Corpus][1]   v0.3 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][Cpar] |
 | OpenSubtitles LM             v1.0 | Catalan  | language model |  CC-BY 4.0    | [link][LMos] |
-| Viquipèdia LM                v1.0 | Catalan  | language model |  CC-BY 4.0    | [link][LMvq] | 
  
 <br/>
 <br/>
