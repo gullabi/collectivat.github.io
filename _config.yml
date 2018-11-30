@@ -12,9 +12,9 @@ technology:
   es: technology_es.html
 
 resources:
-  en: asr_en
-  ca: asr
-  es: asr_es
+  en: asr
+  ca: rap
+  es: rah
 
 # Site settings
 title: Col·lectivaT

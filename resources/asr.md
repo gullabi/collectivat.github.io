@@ -1,7 +1,7 @@
 ---
 layout: asr_base
 ref: asr
-lang: ca
+lang: en
 permalink: asr
 ---
 <style>
@@ -10,65 +10,72 @@ table {
 }
 </style>
 
-# Recursos per les tecnologies de la parla
+# Resources for Speech Technologies
 
-Com a part de la nostra missió, proporcionem dades i recursos oberts al públic sobre tecnologies de parla. Podeu trobar una llista detallada aquí amb explicacions breus i altres referències per obtenir més informació. També, visiteu la nostra [wiki][wiki] per a més informació sobre les tecnologies de la parla i els models que mantenim.
+As a part of our mission we provide open data and resources to the public concerning speech technologies. You can find a detailed list here with short explanations and further references to get more information. Also, please visit our [wiki][wiki] for more details on speech technologies and the models we maintain.
   
-<br /> 
+<br/> 
 
-| Nom                              | Llengua | Tipus           | Llicència    | Descarregar |
-|---------------------------------  | -------- | -----------    | --------   | -------- |
-| [TV3Parla][2]                v0.3 | català  | model acústic  |  AGPL-3.0  | [enllaç]() |
-| [TV3Parla+ParlamentParla][2] v0.2 | català  | model acústic  |  AGPL-3.0  | [enllaç]() |
-| [TV3Parla Corpus][1]         v0.3 | català  | corpus d'àudio | CC-BY-NC 4.0 | [enllaç]() |
-| [ParlamentParla Corpus][1]   v0.3 | català  | corpus d'àudio |  CC-BY 4.0 | [enllaç]() |
-| OpenSubtitles LM             v1.0 | català  | model d'idioma |  CC-BY 4.0 | [enllaç]() |
-| Viquipèdia LM                v1.0 | català  | model d'idioma |  CC-BY 4.0 | [enllaç]() | 
+| Name                              | Language | Type           | License       | Download |
+|---------------------------------  | -------- | -----------    | --------      | -------- |
+| [TV3Parla][2]                v0.3 | Catalan  | acoustic model | GNU AGPL-3.0  | [link][M0.3] |
+| [TV3Parla+ParlamentParla][2] v0.2 | Catalan  | acoustic model | GNU AGPL-3.0  | [link][M0.4] |
+| [TV3Parla Corpus][1]         v0.3 | Catalan  | audio corpus   | CC-BY-NC 4.0  | [link][Ctv3] |
+| [ParlamentParla Corpus][1]   v0.3 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][Cpar] |
+| OpenSubtitles LM             v1.0 | Catalan  | language model |  CC-BY 4.0    | [link][LMos] |
+| Viquipèdia LM                v1.0 | Catalan  | language model |  CC-BY 4.0    | [link][LMvq] | 
  
-<br />
-<br />
+<br/>
+<br/>
 
-## Corpora acústics
+## Acoustic corpora
 
-Per als dos projectes que vam dur a terme amb èxit, vam recollir enregistraments de veu disponibles públicament i els vam convertir en corpora acústics per entrenament dels sistemes de RAP. Aquests conjunts de dades estan disponibles per descarregar amb diverses llicències obertes.
+For the two projects we finished successfully, we have gathered publicly available speech data and converted them into acoustic training corpora. These data sets are available for download with varying open licenses.
 
 * **TV3Parla**
 
-  Aquest corpus inclou 240 hores de parla catalana de material audiovisual. Els detalls de la segmentació, el processament de dades i l'entrenament del model s'expliquen en [Külebi, Öktem; 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/abstracts/IberS18_P1-2_Kulebi.html). El propietari del contingut original és la Corporació Catalana de Mitjans Audiovisuals, SA (CCMA); vam processar el seu material i estem fent-lo disponible aquí sota els seus [termes d'ús](http://www.ccma.cat/avis-legal/condicions-utilitzacio-del-portal/).
+  This corpus includes 240 hours of Catalan speech from broadcast material. The details of segmentation, data processing and also model training are explained in [Külebi, Öktem; 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/abstracts/IberS18_P1-2_Kulebi.html). The content is owned by Corporació Catalana de Mitjans Audiovisuals, SA (CCMA); we processed their material and hereby making it available under their [terms of use](http://www.ccma.cat/avis-legal/condicions-utilitzacio-del-portal/).
 
-  El corpus es pot trobar [aquí]() sota la llicència [CC BY-NC 4.0][ccbync].  
+  The corpus can be reached [here][Ctv3] under a [CC BY-NC 4.0][ccbync] license.  
   <br/>
 
-  Aquest projecte va ser possible gràcies al suport [d'Associació Softcatalà](https://www.softcatala.org/).
-
+  This project was supported by the [Softcatalà Association](https://www.softcatala.org/).
+  <br/>
 
 * **ParlamentParla**
 
-  Vam recollir aquest corpus a partir dels enregistraments i les transcripcions dels plens del [Parlament de Catalunya](https://www.parlament.cat/). Vam alinear les transcripcions amb els enregistraments i vam extreure les 320 hores més netes per a entrenar els models de parla. El contingut pertany al Parlament de Catalunya i les dades es publiquen conforme a les seves [condicions d'ús](https://www.parlament.cat/pcat/serveis-parlament/avis-legal/).
+  We have gathered this audio corpus from the recordings and the transcripts of the Catalan Parliament ([Parlament de Catalunya](https://www.parlament.cat/)) plenary sessions. We have aligned the transcriptions with the recordings and extracted the cleanest 320 hours to train speech models. The content belongs to the Catalan Parliament and the data is released conforming their [terms of use](https://www.parlament.cat/pcat/serveis-parlament/avis-legal/).
 
-  Podeu trobar el corpus [aquí]() sota la llicència [CC BY-NC 4.0][ccbync]. A més dels fitxers d'àudio segmentats i les transcripcions, el corpus inclou els enllaços del text sencer i l'àudio, per intervenció. En un futur proper publicarem també la forma estructurada de les sessions del Parlament (id sessió, intervinent, text d'intervenció, durada d'intervenció, etc.).  
+  The corpus can be reached [here][Cpar] under a [CC BY 4.0][ccby] license. In addition to the segmented audio files and the transcriptions, the corpus also includes per intervention full text vs audio links. In the near future we will also publish the structured form of the parliamentary sessions (session id, speaker, intervention text, intervention duration etc.).  
   <br/>
 
-  Aquest projecte va ser possible gràcies al suport del [Departament de Cultura](http://cultura.gencat.cat/) de la Generalitat.
+  This project was supported by the [Department of Culture](http://cultura.gencat.cat/) of the Catalan autonomous government.
 
-## Models de RAP
+## ASR models
 
-Aquí teniu els models de RAP que vam entrenar nosaltres a partir dels corpora mencionats abans. Per ara vam utilitzar el toolkit de reconeixement de la parla, [CMUSphinx](https://cmusphinx.github.io/), que és el resultat de més de 20 anys de recerca a la Universitat Carnegie Mellon. Encara que actualment l'estat-de-l'art és la tecnologia híbrida de Hidden Markov Models (HMM) i les xarxes neuronals (NN) com Kaldi, l'eina `pocketsphinx` segueix sent rellevant per descodificar offline en entorns limitats de recursos, com els dispositius mòbils. Continuem el nostre treball de manteniment i millora dels models en el nostre [repositori](https://github.com/collectivat/cmusphinx-models). Podeu trobar guies d'instal·lació i configuració, i tutorials dels casos d'ús bàsic al nostre [wiki][wiki].
+These are the ASR models that we trained, using the aforementioned corpora. For now we used the [CMUSphinx](https://cmusphinx.github.io/) speech recognition toolkit, that is the result of over 20 years of research in Carnegie Mellon University. Although currently the state-of-the-art is hybrid Hidden Markov Model (HMM) and Neural Networks (NN) technologies such as Kaldi, `pocketsphinx` tool is still the leader in offline decoding for resource limited environments such as hand-held devices. We continue our work on maintaining and bettering the models in our [repository](https://github.com/collectivat/cmusphinx-models). You can find installation and configuration guides, including tutorials on basic use-cases in the [wiki][wiki].
 
-Aquí teniu la llista dels nostres models de CMUSphinx més recents:
+Here is a list of latest CMUSphinx models:
 
-* [TV3Parla v0.3](): `sphinxtrain` 5pre-alpha continuous model
-* [TV3Parla+ParlamentParla v0.2](): `sphinxtrain` 5pre-alpha continuous model
+* [TV3Parla v0.3][M0.3]: `sphinxtrain` 5pre-alpha continuous model
+* [TV3Parla+ParlamentParla v0.2][M0.4]: `sphinxtrain` 5pre-alpha continuous model
   <br/>  
   <br/> 
   <br/>
 
-La preparació d'aquesta pàgina va ser possible amb el suport del [Departament de Cultura](http://cultura.gencat.cat/) de la Generalitat.
+The preparation of this page was supported by the [Culture Department](http://cultura.gencat.cat/) of the Catalan autonomous government.
 
 <img src="/img/logo_generalitat.png" width="400"/>
 
 [wiki]: https://github.com/collectivat/cmusphinx-models/wiki
 [ccby]: https://creativecommons.org/licenses/by/4.0/
 [ccbync]: https://creativecommons.org/licenses/by-nc/4.0/
+[gapgl]: https://www.gnu.org/licenses/agpl-3.0.html
+[Ctv3]: http://laklak.eu/share/tv3_0.3.tar.gz
+[Cpar]: http://laklak.eu/share/parlament_0.2.tar.gz
+[M0.3]: https://cloud.laklak.eu/s/MY0SYpTap8w0WuK
+[M0.4]: https://cloud.laklak.eu/s/4o2b5MrHckMYCXo
+[LMos]: https://cloud.laklak.eu/s/zY7J2jGD8Hgnzpj
+[LMvq]: https://cloud.laklak.eu/s/dXCsjqSfjk6Eo7R
 [2]: #asr-models
 [1]: #acoustic-corpora
