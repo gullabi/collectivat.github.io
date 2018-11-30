@@ -16,14 +16,14 @@ Com a part de la nostra missió, proporcionem dades i recursos oberts al públic
   
 <br /> 
 
-| Nom                              | Llengua | Tipus           | Llicència    | Descàrregar |
+| Nom                              | Llengua | Tipus           | Llicència    | Descarregar |
 |---------------------------------  | -------- | -----------    | --------   | -------- |
-| [TV3Parla][2]                v0.3 | Catalan  | model acústic  |  AGPL-3.0  | [link]() |
-| [TV3Parla+ParlamentParla][2] v0.2 | Catalan  | model acústic  |  AGPL-3.0  | [link]() |
-| [TV3Parla Corpus][1]         v0.3 | Catalan  | corpus d'àudio | CC-BY-NC 4.0 | [link]() |
-| [ParlamentParla Corpus][1]   v0.3 | Catalan  | corpus d'àudio |  CC-BY 4.0 | [link]() |
-| OpenSubtitles LM             v1.0 | Catalan  | model d'idioma |  CC-BY 4.0 | [link]() |
-| Viquipèdia LM                v1.0 | Catalan  | model d'idioma |  CC-BY 4.0 | [link]() | 
+| [TV3Parla][2]                v0.3 | català  | model acústic  |  AGPL-3.0  | [enllaç]() |
+| [TV3Parla+ParlamentParla][2] v0.2 | català  | model acústic  |  AGPL-3.0  | [enllaç]() |
+| [TV3Parla Corpus][1]         v0.3 | català  | corpus d'àudio | CC-BY-NC 4.0 | [enllaç]() |
+| [ParlamentParla Corpus][1]   v0.3 | català  | corpus d'àudio |  CC-BY 4.0 | [enllaç]() |
+| OpenSubtitles LM             v1.0 | català  | model d'idioma |  CC-BY 4.0 | [enllaç]() |
+| Viquipèdia LM                v1.0 | català  | model d'idioma |  CC-BY 4.0 | [enllaç]() | 
  
 <br />
 <br />
@@ -44,7 +44,7 @@ Per als dos projectes que vam dur a terme amb èxit, vam recollir enregistrament
 
 * **ParlamentParla**
 
-  Vam recollir aquest corpus a partir dels enregistraments i les transcipcions dels plens del [Parlament de Catalunya](https://www.parlament.cat/). Vam alinear les transcripcions amb els enregistraments i vam extreure les 320 hores més netes per a entrenar els models de parla. El contingut pertany al Parlament de Catalunya i les dades es publiquen conforme a les seves [condicions d'ús](https://www.parlament.cat/pcat/serveis-parlament/avis-legal/).
+  Vam recollir aquest corpus a partir dels enregistraments i les transcripcions dels plens del [Parlament de Catalunya](https://www.parlament.cat/). Vam alinear les transcripcions amb els enregistraments i vam extreure les 320 hores més netes per a entrenar els models de parla. El contingut pertany al Parlament de Catalunya i les dades es publiquen conforme a les seves [condicions d'ús](https://www.parlament.cat/pcat/serveis-parlament/avis-legal/).
 
   Podeu trobar el corpus [aquí]() sota la llicència [CC BY-NC 4.0][ccbync]. A més dels fitxers d'àudio segmentats i les transcripcions, el corpus inclou els enllaços del text sencer i l'àudio, per intervenció. En un futur proper publicarem també la forma estructurada de les sessions del Parlament (id sessió, intervinent, text d'intervenció, durada d'intervenció, etc.).  
   <br/>
@@ -53,7 +53,7 @@ Per als dos projectes que vam dur a terme amb èxit, vam recollir enregistrament
 
 ## Models de RAP
 
-Aquí teniu els models de RAP que vam entrenar nosaltres a partir dels corpora mencionats abans. Per ara vam utilitzar el toolkit de reconeixement de la parla, [CMUSphinx](https://cmusphinx.github.io/), que és el resultat de més de 20 anys de recerca a la Universitat Carnegie Mellon. Encara que actualment l'estat-de-l'art és la tecnologia híbrida de Hidden Markov Models (HMM) i les xarxes neuronals (NN) com Kaldi, l'eina `pocketsphinx` segueix sent rellevant per descodificar offline en entorns limitats de recursos, com els dispositius móbils. Continuem el nostre treball de manteniment i millora dels models en el nostre [repositori](https://github.com/collectivat/cmusphinx-models). Podeu trobar guies d'instal·lació i configuració, i tutorials dels casos d'ús bàsic al nostre [wiki][wiki].
+Aquí teniu els models de RAP que vam entrenar nosaltres a partir dels corpora mencionats abans. Per ara vam utilitzar el toolkit de reconeixement de la parla, [CMUSphinx](https://cmusphinx.github.io/), que és el resultat de més de 20 anys de recerca a la Universitat Carnegie Mellon. Encara que actualment l'estat-de-l'art és la tecnologia híbrida de Hidden Markov Models (HMM) i les xarxes neuronals (NN) com Kaldi, l'eina `pocketsphinx` segueix sent rellevant per descodificar offline en entorns limitats de recursos, com els dispositius mòbils. Continuem el nostre treball de manteniment i millora dels models en el nostre [repositori](https://github.com/collectivat/cmusphinx-models). Podeu trobar guies d'instal·lació i configuració, i tutorials dels casos d'ús bàsic al nostre [wiki][wiki].
 
 Aquí teniu la llista dels nostres models de CMUSphinx més recents:
 
