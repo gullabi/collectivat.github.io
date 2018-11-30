@@ -16,7 +16,7 @@ Com a part de la nostra missió, proporcionem dades i recursos oberts al públic
   
 <br /> 
 
-| Name                              | Language | Type           | License    | Download |
+| Nom                              | Llengua | Tipus           | Llicència    | Descàrregar |
 |---------------------------------  | -------- | -----------    | --------   | -------- |
 | [TV3Parla][2]                v0.3 | Catalan  | model acústic  |  AGPL-3.0  | [link]() |
 | [TV3Parla+ParlamentParla][2] v0.2 | Catalan  | model acústic  |  AGPL-3.0  | [link]() |
