@@ -12,7 +12,7 @@ table {
 
 # Recursos per les tecnologies de la parla
 
-Com a part de la nostra missió, proporcionem dades i recursos oberts al públic sobre tecnologies de parla. Podeu trobar una llista detallada aquí amb explicacions breus i altres referències per obtenir més informació. També per obtenir més informació sobre les tecnologies de veu i els models que mantenim, visiteu la nostra [wiki][wiki].
+Com a part de la nostra missió, proporcionem dades i recursos oberts al públic sobre tecnologies de parla. Podeu trobar una llista detallada aquí amb explicacions breus i altres referències per obtenir més informació. També, visiteu la nostra [wiki][wiki] per a més informació sobre les tecnologies de la parla i els models que mantenim.
   
 <br /> 
 
@@ -30,13 +30,13 @@ Com a part de la nostra missió, proporcionem dades i recursos oberts al públic
 
 ## Corpora acústics
 
-Per als dos projectes que vam executar amb èxit, hem recollir enregistraments de parla disponibles públicament i los convertim en corpora acústic per entrenament dels sistemes de RAP. Aquests conjunts de dades estan disponibles per descarregar amb diverses llicències obertes.
+Per als dos projectes que vam dur a terme amb èxit, vam recollir enregistraments de veu disponibles públicament i els vam convertir en corpora acústics per entrenament dels sistemes de RAP. Aquests conjunts de dades estan disponibles per descarregar amb diverses llicències obertes.
 
 * **TV3Parla**
 
-  Aquest corpus inclou 240 hores de parla catalana de material audiovisual. Els detalls de la segmentació, el processament de dades i l'entrenament del model s'expliquen detalladament a [Külebi, Öktem; 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/abstracts/IberS18_P1-2_Kulebi.html). El propietari del contingut original és la Corporació Catalana de Mitjans Audiovisuals, SA (CCMA); vam processar el seu material i estem fent-lo disponible aquí sota els seus [termes d'ús](http://www.ccma.cat/avis-legal/condicions-utilitzacio-del-portal/).
+  Aquest corpus inclou 240 hores de parla catalana de material audiovisual. Els detalls de la segmentació, el processament de dades i l'entrenament del model s'expliquen en [Külebi, Öktem; 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/abstracts/IberS18_P1-2_Kulebi.html). El propietari del contingut original és la Corporació Catalana de Mitjans Audiovisuals, SA (CCMA); vam processar el seu material i estem fent-lo disponible aquí sota els seus [termes d'ús](http://www.ccma.cat/avis-legal/condicions-utilitzacio-del-portal/).
 
-  Es pot trobar el corpus [aquí]() sota d'una llicencia de [CC BY-NC 4.0][ccbync].  
+  Es pot trobar el corpus [aquí]() sota la llicència [CC BY-NC 4.0][ccbync].  
   <br/>
 
   Aquest projecte va ser possible gràcies al suport [d'Associació Softcatalà](https://www.softcatala.org/).
@@ -44,9 +44,9 @@ Per als dos projectes que vam executar amb èxit, hem recollir enregistraments d
 
 * **ParlamentParla**
 
-  Vam recollir aquest corpus a partir dels enregistraments i les transcipcions de les sessions del [Parlament de Catalunya](https://www.parlament.cat/). Vam alinear les transcripcions amb els enregistraments i vam extreure les 320 hores més netes per l'entrenament dels models de parla. El contingut pertany al Parlament de Catalunya i les dades es publiquen conforme a les seves [condicions d'ús](https://www.parlament.cat/pcat/serveis-parlament/avis-legal/).
+  Vam recollir aquest corpus a partir dels enregistraments i les transcipcions dels plens del [Parlament de Catalunya](https://www.parlament.cat/). Vam alinear les transcripcions amb els enregistraments i vam extreure les 320 hores més netes per a entrenar els models de parla. El contingut pertany al Parlament de Catalunya i les dades es publiquen conforme a les seves [condicions d'ús](https://www.parlament.cat/pcat/serveis-parlament/avis-legal/).
 
-  A més dels fitxers d'àudio segmentats i les transcripcions, el corpus també inclou informació enllaçant el text amb l'àudio complet, per intervenció. En un futur proper també publicarem la forma estructurada de les sessions parlamentàries (identificador de sessió, intervinent, text d'intervenció, durada d'intervenció, etc.).  
+  The corpus can be reached here under a CC BY 4.0 license. A més dels fitxers d'àudio segmentats i les transcripcions, el corpus també inclou informació enllaçant el text amb l'àudio complet, per intervenció. En un futur proper també publicarem la forma estructurada de les sessions parlamentàries (identificador de sessió, intervinent, text d'intervenció, durada d'intervenció, etc.).  
   <br/>
 
   Aquest projecte va ser possible gràcies al suport del [Departament de Cultura](http://cultura.gencat.cat/) de Generalitat.
