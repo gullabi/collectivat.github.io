@@ -21,9 +21,9 @@ Com a part de la nostra missió, proporcionem dades i recursos oberts al públic
 | [TV3Parla][2]                      v0.3 | català  | model acústic  | GNU AGPL-3.0  | [enllaç][M0.3] |
 | [TV3Parla+ParlamentParla][2]       v0.2 | català  | model acústic  | GNU AGPL-3.0  | [enllaç][M0.4] |
 | [TV3Parla Corpus][1]               v0.3 | català  | corpus d'àudio | CC-BY-NC 4.0  | [enllaç][Ctv3] |
-| [ParlamentParla Corpus - clean][1] v1.0 | català  | audio corpus   |  CC-BY 4.0    | [link][CpC]    |
-| [ParlamentParla Corpus - other][1] v1.0 | català  | audio corpus   |  CC-BY 4.0    | [link][CpO]    |
-| [ParlamentParla Corpus - old][1]   v0.3 | català  | corpus d'àudio |  CC-BY 4.0    | [enllaç][Cpar] |
+| [ParlamentParla Corpus - clean][1] v1.0 | català  | audio corpus   |  CC-BY 4.0    | [enllaç][CpC]  |
+| [ParlamentParla Corpus - other][1] v1.0 | català  | audio corpus   |  CC-BY 4.0    | [enllaç][CpO]  |
+| [ParlamentParla Corpus - old][1]   v0.3 | català  | corpus d'àudio |  CC-BY 4.0    | [enllaç][Cp0.3]|
 | OpenSubtitles LM                   v1.0 | català  | model d'idioma |  CC-BY 4.0    | [enllaç][LMos] |
  
 <br/>
