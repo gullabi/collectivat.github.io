@@ -16,13 +16,15 @@ Com a part de la nostra missió, proporcionem dades i recursos oberts al públic
   
 <br /> 
 
-| Nom                               | Llengua | Tipus          | Llicència     | Descarregar |
-|---------------------------------  | ------- | -----------    | --------      | --------    |
-| [TV3Parla][2]                v0.3 | català  | model acústic  | GNU AGPL-3.0  | [enllaç][M0.3] |
-| [TV3Parla+ParlamentParla][2] v0.2 | català  | model acústic  | GNU AGPL-3.0  | [enllaç][M0.4] |
-| [TV3Parla Corpus][1]         v0.3 | català  | corpus d'àudio | CC-BY-NC 4.0  | [enllaç][Ctv3] |
-| [ParlamentParla Corpus][1]   v0.3 | català  | corpus d'àudio |  CC-BY 4.0    | [enllaç][Cpar] |
-| OpenSubtitles LM             v1.0 | català  | model d'idioma |  CC-BY 4.0    | [enllaç][LMos] |
+| Nom                                     | Llengua | Tipus          | Llicència     | Descarregar    |
+|---------------------------------------- | ------- | -----------    | --------      | -----------    |
+| [TV3Parla][2]                      v0.3 | català  | model acústic  | GNU AGPL-3.0  | [enllaç][M0.3] |
+| [TV3Parla+ParlamentParla][2]       v0.2 | català  | model acústic  | GNU AGPL-3.0  | [enllaç][M0.4] |
+| [TV3Parla Corpus][1]               v0.3 | català  | corpus d'àudio | CC-BY-NC 4.0  | [enllaç][Ctv3] |
+| [ParlamentParla Corpus - clean][1] v1.0 | català  | audio corpus   |  CC-BY 4.0    | [link][CpC]    |
+| [ParlamentParla Corpus - other][1] v1.0 | català  | audio corpus   |  CC-BY 4.0    | [link][CpO]    |
+| [ParlamentParla Corpus - old][1]   v0.3 | català  | corpus d'àudio |  CC-BY 4.0    | [enllaç][Cpar] |
+| OpenSubtitles LM                   v1.0 | català  | model d'idioma |  CC-BY 4.0    | [enllaç][LMos] |
  
 <br/>
 <br/>
@@ -36,6 +38,19 @@ Per als dos projectes que vam dur a terme amb èxit, vam recollir enregistrament
   Aquest corpus inclou 240 hores de parla catalana de material audiovisual. Els detalls de la segmentació, el processament de dades i l'entrenament del model s'expliquen en [Külebi, Öktem; 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/abstracts/IberS18_P1-2_Kulebi.html). El propietari del contingut original és la Corporació Catalana de Mitjans Audiovisuals, SA (CCMA); vam processar el seu material i estem fent-lo disponible aquí sota els seus [termes d'ús](http://www.ccma.cat/avis-legal/condicions-utilitzacio-del-portal/).
 
   El corpus es pot trobar [aquí][Ctv3] sota la llicència [CC BY-NC 4.0][ccbync].  
+
+  Podeu citar les dades mitjançant BibTeX:
+  ```
+  @inproceedings{Külebi2018,
+    author={Baybars Külebi and Alp Öktem},
+    title={{Building an Open Source Automatic Speech Recognition System for Catalan}},
+    year=2018,
+    booktitle={Proc. IberSPEECH 2018},
+    pages={25--29},
+    doi={10.21437/IberSPEECH.2018-6},
+    url={http://dx.doi.org/10.21437/IberSPEECH.2018-6}
+  }
+  ```
   <br/>
 
   Aquest projecte va ser possible gràcies al suport [d'Associació Softcatalà](https://www.softcatala.org/).
@@ -45,7 +60,7 @@ Per als dos projectes que vam dur a terme amb èxit, vam recollir enregistrament
 
   Vam recollir aquest corpus a partir dels enregistraments i les transcripcions dels plens del [Parlament de Catalunya](https://www.parlament.cat/). Vam alinear les transcripcions amb els enregistraments i vam extreure les 320 hores més netes per a entrenar els models de parla. El contingut pertany al Parlament de Catalunya i les dades es publiquen conforme a les seves [condicions d'ús](https://www.parlament.cat/pcat/serveis-parlament/avis-legal/).
 
-  Podeu trobar el corpus [aquí][Cpar] sota la llicència [CC BY-NC 4.0][ccbync]. A més dels fitxers d'àudio segmentats i les transcripcions, el corpus inclou els enllaços del text sencer i l'àudio, per intervenció. En un futur proper publicarem també la forma estructurada de les sessions del Parlament (id sessió, intervinent, text d'intervenció, durada d'intervenció, etc.).  
+  A partir de la versió 1.0 actual, podeu trobar el corpus en dues parts; 90 hores de qualitat [neta][CpC] i 230 hores de qualitat [altra][CpO], ambdues sota la llicència [CC BY 4.0][ccbync]. A més dels fitxers d'àudio segmentats i les transcripcions, el [corpus antic de la v0.3][Cp0.3] inclou els enllaços del text sencer i l'àudio, per intervenció. En un futur proper publicarem també la forma estructurada de les sessions del Parlament (id sessió, intervinent, text d'intervenció, durada d'intervenció, etc.).
   <br/>
 
   Aquest projecte va ser possible gràcies al suport del [Departament de Cultura](http://cultura.gencat.cat/) de la Generalitat.
@@ -67,11 +82,13 @@ La preparació d'aquesta pàgina va ser possible amb el suport del [Departament 
 <img src="/img/logo_generalitat.png" width="400"/>
 
 [wiki]: https://github.com/collectivat/cmusphinx-models/wiki
-[ccby]: https://creativecommons.org/licenses/by/4.0/
-[ccbync]: https://creativecommons.org/licenses/by-nc/4.0/
+[ccby]: https://creativecommons.org/licenses/by/4.0/deed.ca
+[ccbync]: https://creativecommons.org/licenses/by-nc/4.0/deed.ca
 [gapgl]: https://www.gnu.org/licenses/agpl-3.0.html
 [Ctv3]: http://laklak.eu/share/tv3_0.3.tar.gz
-[Cpar]: http://laklak.eu/share/parlament_0.2.tar.gz
+[CpC]: http://laklak.eu/share/parlament_v1.0_clean.tar.gz
+[CpO]: http://laklak.eu/share/parlament_v1.0_other.tar.gz
+[Cp0.3]: http://laklak.eu/share/parlament_0.2.tar.gz
 [M0.3]: https://cloud.laklak.eu/s/MY0SYpTap8w0WuK
 [M0.4]: https://cloud.laklak.eu/s/4o2b5MrHckMYCXo
 [LMos]: https://cloud.laklak.eu/s/zY7J2jGD8Hgnzpj
