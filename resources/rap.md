@@ -43,7 +43,7 @@ Per als dos projectes que vam dur a terme amb èxit, vam recollir enregistrament
   ```
   @inproceedings{Külebi2018,
     author={Baybars Külebi and Alp Öktem},
-    title={{Building an Open Source Automatic Speech Recognition System for Catalan}},
+    title={Building an Open Source Automatic Speech Recognition System for Catalan},
     year=2018,
     booktitle={Proc. IberSPEECH 2018},
     pages={25--29},
