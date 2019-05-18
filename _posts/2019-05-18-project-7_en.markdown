@@ -1,11 +1,11 @@
 ---
 title: Arrestados
-subtitle: Literary Trasnlation
+subtitle: Literary Translation
 ref: Descontrol
 lang: en
 layout: default
 modal-id: 7
-date: 2019-05-19
+date: 2019-05-18
 img: Arrestados.png
 thumbnail: Arrestados-thumbnail.png
 alt: image-alt
