@@ -2,7 +2,7 @@
 title: Arrestados
 subtitle: Traducció literària
 ref: Descontrol
-lang: en
+lang: ca
 layout: default
 modal-id: 27
 date: 2019-05-18
