@@ -6,10 +6,25 @@ index:
   ca:
   es: index_es.html
 
+language:
+  en: lang_en
+  ca: lang
+  es: lang_es
+
+research:
+  en: research_en
+  ca: research
+  es: research_es
+
 technology:
-  en: technology_en.html
-  ca: technology.html
-  es: technology_es.html
+  en: tech_en
+  ca: tech
+  es: tech_es
+
+about_page:
+  en: about
+  ca: sobre_ca
+  es: sobre_es
 
 resources:
   en: asr
@@ -57,7 +72,28 @@ header:
     en: Resources
     ca: Recursos
     es: Recursos
+  language:
+    en: Language Services
+    ca: Serveis Lingüístics
+    es: Servicios Lingüísticos
+  technology:
+    en: Technology
+    ca: Tecnologia
+    es: Tecnología
+  research:
+    en: Research and Consulting
+    ca: Recerca i Consultoria
+    es: Investigación y Consultoría
 
+footer:
+  ess:
+    en: We are a part of the solidarity economy
+    ca: Formem part de l'economia solidaria
+    es: Formamos parte de la economía solidaria
+  seals:
+    en: Seals of solidarity economy
+    ca: Segells de l'economia solidaria
+    es: Sellos de la economía solidaria
 
 # Services text
 services:
@@ -338,9 +374,9 @@ people:
     - name: Özgür Güneş Öztürk Okumuş
       pic: 1
       position:
-        en: Dynamizer of Research and Consulting
-        ca: Dinamitzadora de Recerca i Consultoria
-        es: Dinamizadora de Investigación y Consultoría
+        en: Sociologist, investigator
+        ca: Sociòloga, investigadora
+        es: Socióloga, investigadora
       social:
         - title: twitter
           url: https://twitter.com/okumus_gunes
@@ -348,9 +384,9 @@ people:
     - name: Pelin Doğan
       pic: 2
       position:
-        en: Dynamizer of Language Services
-        ca: Dinamitzadora dels Serveis Lingüístics
-        es: Dinamizadora de los Servicios Lingüísticos
+        en: Translator, teacher of Turkish
+        ca: Traductora, professora de turc
+        es: Traductora, professora de turco
       #social:
       #  - title: twitter
       #    url: #
@@ -359,9 +395,9 @@ people:
     - name: Baybars Külebi
       pic: 3
       position:
-        en: Dynamizer of Technology
-        ca: Dinamitzador de Tecnologia
-        es: Dinamizador de Tecnología
+        en: Data Engineer
+        ca: Enginyer de dades
+        es: Ingeniero de datos
       social:
         - title: twitter
           url: https://twitter.com/gullabi
@@ -374,9 +410,9 @@ people:
     - name: Federica Capranico
       pic: 4
       position:
-        en: Business Intelligence Expert
-        ca: Experta de Intel·ligència Empresarial
-        es: Experta en Inteligencia Empresarial
+        en: Data Scientist
+        ca: Científica de dades
+        es: Científica de datos
       social:
         - title: linkedin
           url: https://www.linkedin.com/in/capranico-federica-61773263/

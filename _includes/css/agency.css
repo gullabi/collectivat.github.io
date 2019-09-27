@@ -730,20 +730,26 @@ section#contact .text-danger {
 
 footer {
     padding: 25px 0;
-    text-align: center;
+    text-align: left;
 }
 
+footer p.footer {
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 15px;
+}
 footer span.copyright {
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
+    font-size: 15px
 }
 
 footer ul.quicklinks {
+    margin-top: 10px;
     margin-bottom: 0;
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
-    line-height: 40px;
+    line-height: 25px;
 }
 
 ul.social-buttons {

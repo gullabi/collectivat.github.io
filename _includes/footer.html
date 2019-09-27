@@ -1,16 +1,47 @@
   <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Built by {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+                <div class="col-md-2">
+                    <span class="copyright">Site Map:</span>
+                    <p class="footer">
+                        <a href="{{ site.language[page.lang] }}"> {{site.header['language'][page.lang]}}</a> <br>
+                        <a href="{{ site.research[page.lang] }}"> {{site.header['research'][page.lang]}}</a> <br> 
+                        <a href="{{ site.technology[page.lang] }}"> {{site.header['technology'][page.lang]}}</a> <br> 
+
+                        <a href="{{ site.resources[page.lang] }}"> {{site.header['resources'][page.lang]}}</a>
+                   </p>
                 </div>
                 <div class="col-md-4">
-                    <span class="copyright">Creative Commons <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a></span>
+                    <span class="copyright"> {{site.footer['ess'][page.lang]}} </span>
+                    <p class="footer">
+                        <a href="https://www.cooperativestreball.coop/">
+                            <img src="img/logos/somcoop.png" style="height: 56px;">
+                        </a>
+                        <a href="https://bcn.coop">
+                            <img src="img/logos/coopolis.png" style="height: 56px;">
+                        </a>
+                        <a href="http://xes.cat/comissions/balanc-social/">
+                            <img src="img/logos/bs.png" style="height: 56px;">
+                        </a>
+                    <p>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
+                    <span class="copyright"> {{site.footer['seals'][page.lang]}} </span>
+                    <p class="footer">
+                        <a href="https://pamapam.org/">
+                            <img src="img/logos/pamapam-logo-bn.png" style="height: 25px; margin-top: 10px;">
+                        </a>
+                    <p>
+                </div>
+                <div class="col-md-3">
                     <ul class="list-inline quicklinks">
                         <li>Powered by Jekyll
                         </li>
+                        <li>
+                            Built by {{ site.title }} {{ 'now' | date: "%Y" }}
+                        </li>
+                        <li>
+                            Creative Commons <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>
                     </ul>
                 </div>
             </div>
