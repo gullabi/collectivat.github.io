@@ -10,9 +10,9 @@
                     <span class="icon-bar"></span>
                 </button>
                 {% if page.lang == 'ca' %}
-                <a class="navbar-brand page-scroll" href="http://{{ site.url }}">{{site.title}}</a>
+                <a class="navbar-brand page-scroll" href="{{ site.url }}">{{site.title}}</a>
                 {% else %}
-                <a class="navbar-brand page-scroll" href="http://{{ site.url }}/{{ page.lang }}">{{site.title}}</a>
+                <a class="navbar-brand page-scroll" href="{{ site.url }}/{{ page.lang }}">{{site.title}}</a>
                 {% endif %}
             </div>
            <!-- Collect the nav links, forms, and other content for toggling -->
@@ -67,6 +67,7 @@
 
                     {% endif %}
                     <li>
+                      <div class="custom-select">
                       <select name="" onchange="javascript:location.href = this.value;">
                         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
                         {% for post in posts %}
@@ -85,6 +86,7 @@
                             <option value="{{ loop_page.url | prepend: site.baseurl}}"> {{ loop_page.lang }}</option>
                             {% endif %}
                             {% endfor %}
+                       </div>
                        </select>
                     </li>
 

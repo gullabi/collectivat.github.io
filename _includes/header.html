@@ -39,13 +39,13 @@
 
                     <li>
                       <div class="custom-select">
-                      <select name="" onchange="javascript:location.href = this.value;">
+                      <select name="" onchange="javascript:location.href = this.value; ">
                         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
                         {% for post in posts %}
                             {% if post.lang == page.lang %}
-                            <option value="{{ post.url | prepend: site.baseurl}}" selected> {{ post.lang }}</option> 
+                            <option value="{{ post.url | prepend: site.baseurl}}" selected> {{ post.lang }} </option> 
                             {% else %}
-                            <option value="{{ post.url | prepend: site.baseurl}}"> {{ post.lang }}</option>
+                            <option value="{{ post.url | prepend: site.baseurl}}"> {{ post.lang }} </option>
                             {% endif %}
                         {% endfor %}
 
@@ -95,4 +95,3 @@
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
  -->
-

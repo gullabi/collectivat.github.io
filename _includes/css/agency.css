@@ -59,6 +59,50 @@ h6 {
 #headlink:hover { color: #{{ site.data.template.color.primary }}; }
 #headlink { color: #222}
 
+.custom-select {
+    background-color: transparent;
+    border: 1px solid transparent;
+    font-family: {{ site.data.template.font.primary }};
+    padding: 17px 10px;
+}
+
+.custom-select select {
+    color: #{{ site.data.template.color.secondary }};
+    background-color: transparent;
+    border: 1px solid transparent;
+
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    /* Add some styling */
+  
+    display: block;
+    width: 100%;
+    float: right;
+    background-image: none;
+    -ms-word-break: normal;
+    word-break: normal;
+
+}
+
+.custom-select:after {
+    content: '>';
+    position: absolute;
+    left: 40px;
+    color: #{{ site.data.template.color.secondary }};
+    position: absolute;
+    pointer-events: none;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+/* IE11 hide native button (thanks Matt!) */
+select::-ms-expand {
+display: none;
+}
+
 .img-centered {
     margin: 0 auto;
 }
