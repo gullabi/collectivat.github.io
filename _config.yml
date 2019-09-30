@@ -1,5 +1,6 @@
-url: "collectivat.github.io"
+url: "gullabi.github.io"
 baseurl: "" 
+
 
 index:
   en: index_en.html
@@ -449,4 +450,4 @@ address:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:year-:month-:day-:title/
