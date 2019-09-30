@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row">
-            {% assign posts=site.posts | where:"lang", page.lang %}
+            {% assign posts=site.categories.portfolio | where:"lang", page.lang %}
             {% for post in posts %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
