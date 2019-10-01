@@ -27,6 +27,11 @@ about_page:
   ca: sobre_ca
   es: sobre_es
 
+blog:
+  en: blog/en
+  ca: blog/ca
+  es: blog/es
+
 resources:
   en: asr
   ca: rap
@@ -85,6 +90,10 @@ header:
     en: Research and Consulting
     ca: Recerca i Consultoria
     es: Investigación y Consultoría
+  blog:
+    en: News
+    ca: Actualitat
+    es: Actualidad
 
 footer:
   ess:
