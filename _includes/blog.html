@@ -14,10 +14,12 @@
             <div class="img-centered">
                 <img src="{{ site.url }}{{ post.thumbnail }}" width="400">
             </div>
+            <br/>
             {% else if post.image %}
             <div class="img-centered">
                 <img src="{{ site.url }}{{ post.image }}" width="640">
             </div>
+            <br/>
             {% endif %}
             <p>
               {% if post.summary %}
