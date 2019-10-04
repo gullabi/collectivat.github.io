@@ -19,7 +19,14 @@
                     <h4 class="service-heading">
                         <a id="headlink" href="{{ service.link[page.lang] }}" >{{ service.name[page.lang] }}</a>
                     </h4>
-                    <p class="text-muted">{{ service.description[page.lang] }}</p>
+                    <ul class="list-inline">
+                        {% for products in site.products[service.ref]['list'] %}
+                        <li>
+                            <p class="text-muted" style="font-style:italic;"> {{ products['name'][page.lang] }}
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    <!-- <p class="text-muted">{{ service.description[page.lang] }}</p>-->
                 </div>
                 {% endfor %}
             </div>

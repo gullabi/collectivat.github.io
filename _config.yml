@@ -120,6 +120,7 @@ services:
         en: lang_en
         ca: lang
         es: lang_es
+      ref: lang
       description:
         en: We are one of the very few entities that offers translation between Catalan and Turkish both directions without the use of a bridge language. We ensure the correctness of our work with the cultural knowledge of both worlds, effectively enriching them. Thanks to our strong technological branch, we are able to work with any file format. We develop new and revolutionary ways of transcription and subtitling using the state-of-the-art open technologies for audio processing, computer aided translation and collective work. A part from Turkish and Catalan, we work with Kurdish, Spanish, English, Arabic and French language pairs.
         ca: "Som una de les poques entitats que ofereix traduccions del català al turc, i del turc al català, sense utilitzar una llengua pont. El coneixement sociocultural i sociopolític que tenim dels dos mons, enriquit amb eficàcia, és la garantia de la qualitat del treball que oferim. Gràcies a la solidesa de la nostra branca tecnològica, podem treballar amb qualsevol format de fitxer. Desenvolupem noves formes revolucionàries de transcripció i subtitulació utilitzant les tecnologies obertes d’última generació per al reconeixement de veu, la traducció assistida per ordinador i el treball col·lectiu. A part del turc i el català, també treballem amb el kurd, el castellà, l’anglès, l’àrab i el francès."
@@ -133,6 +134,7 @@ services:
         en: tech_en
         ca: tech
         es: tech_es
+      ref: tech
       description:
         en: We are computational linguists, developers and data scientists who work with technologies of automated translation, speech recognition and natural language understanding. These technologies have wide applications, from assisting the work of language workers in translation, transcription and/or subtitling, to building human-machine interfaces and extracting analytics from any kind of digital conversational content. We focus our work in developing open tools and technologies for the minority languages which are in threat of digital extinction.
         ca: "Som un equip de persones que ens dediquem a la lingüística computacional, el desenvolupament i la ciència de dades que treballem amb tecnologies de traducció automàtica, reconeixement de la parla i comprensió del llenguatge natural. Aquestes tecnologies tenen diverses aplicacions, des d’ajudar professionals de la lingüística en les tasques de traducció, transcripció i subtitulació, fins a construir interfícies d’ésser humà-màquina o extreure anàlisis de qualsevol tipus de contingut digital conversacional. Enfoquem la nostra feina en el desenvolupament d’eines i tecnologies obertes per a les llengües minoritzades que estan en perill d’extinció digital."
@@ -146,6 +148,7 @@ services:
         en: research_en
         ca: research
         es: research_es
+      ref: res
       description:
         en: We are social scientists who actively work on Turkey/Kurdistan and Spain/Catalunya. We provide consulting for researchers, journalists and technical equips from the third sector to prepare and manage their projects in the zone. We have close contact with the key networks, we organize the logistics, lifting the cultural and contextual boundaries so that your organization can focus on the impact and successful execution of the project. We set your data infrastructure, facilitate access to it and enable its monitorization with visualizations and dashboards. We provide you with the tools to structure your information, and to protect-save your organizational memory.
         ca: "Ens dediquem a la investigació en ciències socials, i treballem activament a Turquia i Espanya, específicament a Catalunya. Oferim assessorament a persones que treballen en recerca, periodisme, o que són  tècniques del tercer sector, a l’hora de preparar i gestionar els seus projectes en territoris compresos entre les fronteres polítiques de Turquia, el Kurdistan, l'Iran, l'Iraq i Síria. Estem en contacte amb les xarxes principals i les persones clau dins d’aquests territoris; d'aquesta manera, contribuïm a superar les fronteres culturals i contextuals, i facilitem l’execució dels projectes perquè la vostra organització pugui centrar-se en l’impacte intencionat del projecte. Configurem la infraestructura de dades, hi facilitem l’accés i n’habilitem la monitorització amb visualitzacions i panells de dades. Us oferim les eines per estructurar la informació i protegir-desar la memòria de l’organització."
