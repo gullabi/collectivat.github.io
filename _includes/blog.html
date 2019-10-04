@@ -10,6 +10,15 @@
               {{ post.date | date: "%b %-d, %Y" }}
             </p>
 
+            {% if post.thumbnail %}
+            <div class="img-centered">
+                <img src="{{ site.url }}{{ post.thumbnail }}" width="400">
+            </div>
+            {% else if post.image %}
+            <div class="img-centered">
+                <img src="{{ site.url }}{{ post.image }}" width="640">
+            </div>
+            {% endif %}
             <p>
               {% if post.summary %}
                 {{ post.summary }}

@@ -3,11 +3,12 @@ layout: post
 title: "Datató: Dret a la ciutat, resistint als desnonaments"
 ref: datato
 image: /img/blog/2019/datato.jpg
+thumbnail: /img/blog/2019/datato_sm.jpg
 lang: ca
 summary: Co-crearem recursos digitals per la defensa del dret a l'habitatge, mitjançant les dades dels desnonaments durant la <a href="http://fesc.xes.cat"> FESC 2019 </a>
 ---
 
-Datathon, és un mot creat a partir de les paraules "data" i "marató";
+Datathon, és un mot creat a partir de les paraules "data" (dada) i "marató";
 nom de les activitats presencials per crear, modificar i/o analitzar
 dades. Durant la [FESC 2019][fesc] organitzem un 
 datató amb la tematica "Dret a la ciutat, resistint als desnonaments." Amb 

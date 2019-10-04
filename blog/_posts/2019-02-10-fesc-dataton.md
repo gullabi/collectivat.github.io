@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Datatón: Drecho por la ciudad, resistiendo a los desahucios"
+image: /img/blog/2019/datato.jpg
+thumbnail: /img/blog/2019/datato_sm.jpg
 ref: datato
 lang: es
 summary: Co-crearemos recursos digitales para la defensa del derecho a la vivienda, mediante los datos de los desahucios durante la <a href="http://fesc.xes.cat"> FESC 2019 </a>
