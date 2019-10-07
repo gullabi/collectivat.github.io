@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Datatón: Drecho por la ciudad, resistiendo a los desahucios"
-image: /img/blog/2019/datato.jpg
+image: /img/blog/2019/datato.png
 thumbnail: /img/blog/2019/datato_sm.jpg
 ref: datato
 lang: es

@@ -2,7 +2,7 @@
 layout: post
 title: "Datató: Dret a la ciutat, resistint als desnonaments"
 ref: datato
-image: /img/blog/2019/datato.jpg
+image: /img/blog/2019/datato.png
 thumbnail: /img/blog/2019/datato_sm.jpg
 lang: ca
 summary: Co-crearem recursos digitals per la defensa del dret a l'habitatge, mitjançant les dades dels desnonaments durant la <a href="http://fesc.xes.cat"> FESC 2019 </a>
