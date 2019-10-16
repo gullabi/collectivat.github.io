@@ -1,7 +1,7 @@
 <section id="posts" class="py-5">
   <div class="container">
     <div class="row">
-      <div class="col">
+      <div class="col-lg-10 col-lg-offset-1">
         {% assign posts=site.categories.blog | where:"lang", page.lang %}
         {% for post in posts %}
           <div>
@@ -28,6 +28,7 @@
                 {{ post.excerpt }}
               {% endif %}
             </p>
+            <hr />
           </div>
         {% endfor %}
       </div>

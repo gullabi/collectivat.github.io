@@ -1,4 +1,4 @@
-url: "http://collectivat.github.io"
+url: "https://collectivat.cat"
 baseurl: "" 
 
 
@@ -434,9 +434,9 @@ people:
     - name: Alp Öktem
       pic: 5
       position:
-        en: Computational Linguistics Expert
-        ca: Expert de Lingüística Computacional
-        es: Experto en Lingüística Computacional
+        en: Computational Linguist
+        ca: Lingüista Computacional
+        es: Lingüista Computacional
       social:
         - title: twitter
           url: https://twitter.com/OktemAlp
