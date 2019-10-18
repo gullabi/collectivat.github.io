@@ -58,7 +58,7 @@ Implementació guiada dels conceptes mitjançant exemples senzills (1 hora)
 _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en el desenvolupament de productes per a l’àmbit lingüístic.
 
 ### Com apuntar-se:
-Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](). Abans de l'activitat us passarem tota la informació i les dades pertinents.
+Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=459734). Abans de l'activitat us passarem tota la informació i les dades pertinents.
 
 ---
 <img src="/img/logo_generalitat.png" width="400"/>
