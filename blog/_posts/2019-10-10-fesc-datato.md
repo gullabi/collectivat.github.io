@@ -39,4 +39,41 @@ La participació a les últimes 2 hores de l'activitat serà flexible segons les
 
 Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=866188&lang=ca). Abans de l'activitat us passarem tota la informació i les dades pertinents.
 
+---
+
+## Detalls de l’activitat
+
+Durant la datató analitzarem dues fonts principals. Les convocatòries d’aturar
+desnonaments del canal de Telegram, [DesnonamentsBCN][canal] i les de la pàgina 
+de web de la PAH (Plataforma d’Afectats per la Hipoteca), específicament els 
+[arxius de Stop Desnonaments][stop].
+
+La informació inclou l’adreça del desnonament, l’hora de la convocatòria,
+l’entitat que convoca. Les dades de la PAH a més inclouen el motiu del
+desnonament, el demandant i la resolució de la convocatòria.
+
+Per millorar les dades i ajudar amb l'anàlisi, primer de tot vam afegir
+coordenades a un 98 per cent de les convocatòries. A més vam relacionar les
+dues fonts, juntant les convocatòries duplicades. 
+
+Podeu descarregar les dades, des de la plataforma [DADESS](http://dadess.cat)
+(dades de l’economia social i solidaria) [aquí][dades].
+
+### Alguns mètrics fonamentals:
+
+Entre l’1 de gener del 2018 i el 18 d’octubre del 2019:
+
+* Hi va haver 832 convocatòries contra desnonaments en el canal de DesnonamentsBCN
+* Hi va haver 423 convocatòries contra desnonaments en els arxius de Stop Desnonaments de la PAH Barcelona
+* Amb les dues fonts combinades, i considerades les duplicacions, hi ha 1103 convocatòries en total
+* Per un total de 869 adreces
+
+Amb la datató primer de tot volem explotar tota la informació d’aquest conjunt de dades, per exemple la informació geogràfica. Un altre objectiu general és relacionar i comparar aquesta informació amb altres fonts, com les dades del Consejo General de Poder Judicial d’Espanya, i qualsevol altres dades socioeconòmiques de la ciutat.
+
+Depenent de les contribucions i altres suggeriments durant la datató, ens agradaria publicar els resultats a la web.
+
+
 [fesc]: http://fesc.xes.cat/
+[stop]: https://pahbarcelona.org/ca/category/stop-desnonaments/
+[canal]: https://t.me/desnonamentsbcn
+[dades]: https://dadess.cat/dataset/desnonamentsbcn
