@@ -68,7 +68,8 @@ Entre l’1 de gener del 2018 i el 18 d’octubre del 2019:
 * Amb les dues fonts combinades, i considerades les duplicacions, hi ha 1103 convocatòries en total
 * Per un total de 869 adreces
 
-Amb la datató primer de tot volem explotar tota la informació d’aquest conjunt de dades, per exemple la informació geogràfica. Un altre objectiu general és relacionar i comparar aquesta informació amb altres fonts, com les dades del Consejo General de Poder Judicial d’Espanya, i qualsevol altres dades socioeconòmiques de la ciutat.
+Amb la datató primer de tot volem explotar tota la informació d’aquest conjunt de dades, per exemple la informació geogràfica. Un altre objectiu general és relacionar i comparar aquesta informació amb altres fonts, com les dades del [Consejo General de Poder Judicial d'Espanya](http://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/Estudios-e-Informes/Efecto-de-la-Crisis-en-los-organos-judiciales/
+), i qualsevol altres dades socioeconòmiques de la ciutat.
 
 Depenent de les contribucions i altres suggeriments durant la datató, ens agradaria publicar els resultats a la web.
 
