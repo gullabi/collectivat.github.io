@@ -47,7 +47,7 @@ Les participants han portar els seus ordinadors a totes dues sessions. Les tasqu
 Català/Castellà
 
 ### Preu:
-Gratuït. Aquests tallers tenen el suport del Departament de la Cultura.
+Gratuït. Aquests tallers tenen el suport del Departament de la Cultura i una part dels fons provenen dels cabals que atorga la Junta d'Herències de la Generalitat de Catalunya
 
 ### Programa:
 Presentació (40 minuts)

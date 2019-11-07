@@ -46,7 +46,8 @@ Las participantes deberían llevar sus ordenadores en ambos sesiones. Las tareas
 Catalán/Castellano
 
 ### Precio:
-Gratuito. Estos talleres tienen el apoyo del Departament de la Cultura.
+Gratuito. Estos talleres tienen el apoyo del Departament de la Cultura y una parte de los fondos provienen de los caudales que otorga la Junta d'Herències de la Generalitat de Catalunya.
+
 
 ### Programa:
 Presentación (40 minutos)
