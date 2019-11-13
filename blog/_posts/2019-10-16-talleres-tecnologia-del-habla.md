@@ -8,6 +8,8 @@ lang: es
 summary: En estos talleres haremos una introducción al estado de arte del reconocimiento automático del habla y de la síntesis del habla sobre todo para la lengua catalana, y después nos enfocaremos en las alternativas abiertas, es decir alternativas tecnológicamente soberanas.
 ---
 
+<p><span style="font-size:24px;"><span style="color:#c0392b;">Plazas Agotadas</span></span></p>
+
 Nos encontramos en una época transformativa que cada vez dependemos más de los dispositivos y tenemos más maneras de interactuar con ellos. Las tecnologías del habla son unos de los elementos muy importantes para este ámbito, porque permiten el control de los ordenadores con mandos orales. En estos talleres haremos una introducción al estado de arte del reconocimiento automático del habla (RAH) y de la síntesis del habla (SP) sobre todo para la lengua catalana, y después nos enfocaremos en las alternativas abiertas, es decir alternativas tecnológicamente soberanas.
 
 ### Sessiones:

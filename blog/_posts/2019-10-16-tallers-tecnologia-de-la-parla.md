@@ -9,6 +9,8 @@ summary: En aquests tallers farem una introducció a l'estat d'art del reconeixe
 ---
 
 
+<p ><span style="font-size:24px;"><span style="color:#c0392b;">Places Esgotades</span></span></p>
+
 Ens trobem en una època transformativa que cada cop depenem més dels dispositius i tenim més maneres d’interactuar-hi. Les tecnologies de la parla són uns dels elements molt importants per aquest àmbit, perquè permeten el control dels ordinadors amb comandaments orals. En aquests tallers farem una introducció a l'estat d'art del reconeixement automàtic de la parla (RAP) i de la síntesi de la parla (SP) sobretot per la llengua catalana, i després ens enfocarem en les alternatives obertes, és a dir alternatives tecnològicament sobiranes.
 
 ### Sessions:
