@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Síntesi de la parla obert i lliure"
+title: "Síntesi de la parla obert i lliure en català"
 ref: sp_release
-image: /img/blog/2019/gene2019_tallers.png
-thumbnail: /img/blog/2019/gene2019_tallers_sm.png
+image: /img/blog/2019/catotron_bg.png
+thumbnail: /img/blog/2019/catotron_sm.png
 lang: ca
 summary: Gràcies al projecte subvencionat pel Departament de la Cultura, vam entrenar els models de síntesi de la parla en català amb xarxes neuronals i els vam publicar amb llicències obertes. Volem presentar aquí els resultats, la nostra experiència i els detalls de com integrar aquesta tecnologia.
 ---
@@ -196,6 +196,11 @@ Algunes frases de viquipèdia llegides per les veus entrenades:
   <td><audio controls="" preload="none" style="width: 200px">audio not supported<source src="/img/audio/2019/oodomain/outofdomain03_ona.mp3"></audio></td>
   <td><audio controls="" preload="none" style="width: 200px">audio not supported<source src="/img/audio/2019/oodomain/outofdomain03_pau.mp3"></audio></td>
   <td><audio controls="" preload="none" style="width: 200px">audio not supported<source src="/img/audio/2019/oodomain/outofdomain03_mas.mp3"></audio></td>
+</tr>
+<tr>
+  <td><audio controls="" preload="none" style="width: 200px">audio not supported<source src="/img/audio/2019/oodomain/outofdomain04_ona.mp3"></audio></td>
+  <td><audio controls="" preload="none" style="width: 200px">audio not supported<source src="/img/audio/2019/oodomain/outofdomain04_pau.mp3"></audio></td>
+  <td><audio controls="" preload="none" style="width: 200px">audio not supported<source src="/img/audio/2019/oodomain/outofdomain04_mas.mp3"></audio></td>
 </tr>
 
 </tbody></table>
