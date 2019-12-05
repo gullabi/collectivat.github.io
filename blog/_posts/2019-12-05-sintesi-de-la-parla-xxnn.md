@@ -2,8 +2,8 @@
 layout: post
 title: "Síntesi de la parla obert i lliure en català"
 ref: sp_release
-image: /img/blog/2019/catotron_bg.png
-thumbnail: /img/blog/2019/catotron_sm.png
+image: /img/blog/2019/catotron02_bg.png
+thumbnail: /img/blog/2019/catotron02_sm.png
 lang: ca
 summary: Gràcies al projecte subvencionat pel Departament de la Cultura, vam entrenar els models de síntesi de la parla en català amb xarxes neuronals i els vam publicar amb llicències obertes. Volem presentar aquí els resultats, la nostra experiència i els detalls de com integrar aquesta tecnologia.
 ---
@@ -169,7 +169,7 @@ la validació, és a dir no van entrar a l'entrenament del model.
 
 <br/>
 
-Algunes frases de viquipèdia llegides per les veus entrenades:
+Algunes frases de viquipèdia llegides per totes les veus entrenades:
 
 <table style="font-size:16px">
   <col width="205">
