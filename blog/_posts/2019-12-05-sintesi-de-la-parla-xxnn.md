@@ -169,7 +169,7 @@ la validació, és a dir no van entrar a l'entrenament del model.
 
 <br/>
 
-Algunes frases de viquipèdia llegides per totes les veus entrenades:
+Diverses frases llegides per totes les veus entrenades:
 
 <table style="font-size:16px">
   <col width="205">
