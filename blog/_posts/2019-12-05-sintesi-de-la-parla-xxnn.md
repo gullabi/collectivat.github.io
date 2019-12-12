@@ -237,7 +237,7 @@ força robòtiques degut als models de vocoder que estem utilitzant.
 * Alp Öktem (Col·lectivaT)
 
 ---
-Aquests recursos van estar desenvolupats gràcies al projecte «síntesi de la
+Aquests recursos van ser desenvolupats gràcies al projecte «síntesi de la
 parla contra la bretxa digital» subvencionat pel Departament de Cultura. Una
 part dels fons provenen dels cabals que atorga la Junta d'Herències de la
 Generalitat de Catalunya.
