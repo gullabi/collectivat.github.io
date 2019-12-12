@@ -5,7 +5,7 @@ ref: sp_release
 image: /img/blog/2019/catotron_bg.png
 thumbnail: /img/blog/2019/catotron_sm.png
 lang: ca
-summary: Gràcies al projecte subvencionat pel Departament de la Cultura, vam entrenar els models de síntesi de la parla en català amb xarxes neuronals i els vam publicar amb llicències obertes. Volem presentar aquí els resultats, la nostra experiència i els detalls de com integrar aquesta tecnologia.
+summary: Gràcies al projecte subvencionat pel Departament de Cultura, vam entrenar els models de síntesi de la parla en català amb xarxes neuronals i els vam publicar amb llicències obertes. Volem presentar aquí els resultats, la nostra experiència i els detalls de com integrar aquesta tecnologia.
 ---
 
 Aquí podeu trobar tota la informació pertinent a Catotron, síntesi de la parla
@@ -33,7 +33,7 @@ resultats amb millor intel·ligibilitat i naturalitat possible.
 Malauradament, per entrenar aquests sistemes, és imprescindible tenir recursos
 molt importants com dades o potència computacional. És per això que no hi ha
 cap model publicat amb llicències obertes, menys els d’anglès.  Gràcies al
-projecte subvencionat pel Departament de la Cultura, vam entrenar els models de
+projecte subvencionat pel Departament de Cultura, vam entrenar els models de
 SP en català amb xarxes neuronals i els vam publicar amb llicències obertes.
 Volem presentar aquí els resultats, la nostra experiència i els detalls de com
 integrar aquesta tecnologia. 
@@ -238,7 +238,7 @@ força robòtiques degut als models de vocoder que estem utilitzant.
 
 ---
 Aquests recursos van estar desenvolupats gràcies al projecte «síntesi de la
-parla contra la bretxa digital» subvencionat pel Departament de la Cultura. Una
+parla contra la bretxa digital» subvencionat pel Departament de Cultura. Una
 part dels fons provenen dels cabals que atorga la Junta d'Herències de la
 Generalitat de Catalunya.
 
