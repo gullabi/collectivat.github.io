@@ -1,63 +1,66 @@
 ---
 layout: post
-title: "Síntesi de la parla obert i lliure en català"
+title: "Free and open speech synthesis for Catalan"
 ref: sp_release
 image: /img/blog/2019/catotron_bg.png
 thumbnail: /img/blog/2019/catotron_sm.png
-lang: ca
-summary: Gràcies al projecte subvencionat pel Departament de Cultura, vam entrenar els models de síntesi de la parla en català amb xarxes neuronals i els vam publicar amb llicències obertes. Volem presentar aquí els resultats, la nostra experiència i els detalls de com integrar aquesta tecnologia.
+lang: en
+summary: Thanks to a project supported by the Department of Culture of the Catalan government, we trained a text-to-speech system in Catalan with neural networks, and published them with an open license. Here we want to present our results, our experience and further details concerning the integration of this technology. 
 ---
 
-Aquí podeu trobar tota la informació pertinent a Catotron, síntesi de la parla
-obert en català, entrenat amb xarxes neuronals. El codi està al [github][catotron] i els
-models són descarregables aquí.
+Here you can find all the information related to Catotron, the open and free
+text-to-speech system in Catalan that has been trained with neural networks.
+The open source code is available in [github][catotron] and the models can be
+downloaded here.
 
-* La veu femenina: Ona [[descarregar]][ona]
-* La veu masculina: Pau [[descarregar]][pau]
+* Female voice: Ona [[download]][ona]
+* Male voice: Pau [[download]][pau]
 
-### Resum:
+### Summary:
 
-Els últims anys, les tecnologies de síntesi de la parla (SP) van avançar molt
-gràcies a les tècniques d’aprenentatge profund. El canvi més important va ser
-la introducció dels vocoders (mot creat de l’anglès: voice encoder,
-«codificador de veu») entrenats amb xarxes neuronals. El primer exemple va ser
-el Wavenet en el 2016 desenvolupat per DeepMind, que forma part de les empreses
-de Google.
+Thanks to the application of deep learning methods, text-to-speech systems
+(TTS) have advanced considerably in the recent years. The most important change has
+been the introduction of the vocoders (voice encoders) that are trained by neural
+networks. The first example of such technology was Wavenet, which was published
+in 2016 and developed by DeepMind, one of the companies owned by Google.
 
-Avui en dia aquests vocoders s’utilitzen amb els sistemes de SP també entrenats
-amb xarxes neuronals, específicament els sistemes de Tacotron i Tacotron2. Es
-poden trobar diverses implementacions d’aquestes tecnologies en programari
-lliure. Aquestes tecnologies representen l’estat d’art per SP, poden produir
-resultats amb millor intel·ligibilitat i naturalitat possible.
+Currently, these vocoders that are being used in the TTS architectures such as
+Tacotron and Tacotron2 are trained by neural networks. Various implementations 
+of these technologies can be found as open source. These technologies represent
+the state-of-the-art in TTS technologies and can produce the best possible results 
+with respect to the intelligibility and the naturalness of synthesized speech.
 
-Malauradament, per entrenar aquests sistemes, és imprescindible tenir recursos
-molt importants com dades o potència computacional. És per això que no hi ha
-cap model publicat amb llicències obertes, menys els d’anglès.  Gràcies al
-projecte subvencionat pel Departament de Cultura, vam entrenar els models de
-SP en català amb xarxes neuronals i els vam publicar amb llicències obertes.
-Volem presentar aquí els resultats, la nostra experiència i els detalls de com
-integrar aquesta tecnologia. 
+Unfortunately, in order to train these systems, it is absolutely necessary to have 
+access to resources such as data and computational power. That is why there is no
+published model with open licenses for languages other than English. Thanks to a
+project funded by the Ministry of Culture of the Catalan Government (Departament
+de Cultura), we trained the TTS models in Catalan with neural networks and published
+them with open licenses. We want to present here the results, our experience and the
+details of how to integrate this technology.
 
-### El codi:
+### The code:
 
-Les tecnologies que vam utilitzar són els repositoris de [Tacotron2][nvidia]
-i [Waveglow][waveglow], de l’empresa de NVIDIA publicats amb llicències obertes a github. Un dels
-resultats més importants és el codi; és a dir, el nostre fork de [Tacotron2][catotron], que
-està modificat per al català, imprescindible per fer servir els models de
-català.
+For building Catatron we used are the repositories [Tacotron2][nvidia]
+and [Waveglow][waveglow] of the company NVIDIA and are published with
+open-source licences in github. One of the most important results of the
+project is the code itself, namely our fork of [Tacotron2][catotron]. It has been
+modified for the Catalan language and it is indispensable for using the 
+Catalan models.
 
-### Els models:
+### The models:
 
-Per entrenar els models de català vam aprofitar les dades obertes ja
-publicades. Les veus resultants estan entrenades amb les dades de [Festcat][festcat], que
-també va ser un projecte de la Generalitat, realitzat pels investigadors de la
-UPC. Vam utilitzar les millors veus d’aquest conjunt de dades: les veus de
-l’Ona i del Pau.
+We took advantage of open data in order to train our Catalan models. The resulting
+voices were trained with the [Festcat][festcat] data, which is another project
+of the Generalitat that was undertaken by researchers from Universitat
+Politècnica de Catalunya (UPC). We used the best voices in the data set: the
+voices of Ona and Pau.
 
 
 <br/>
 
-Aquí teniu alguns fitxers de mostra. Les frases escollides venen del conjunt de dades de validació, és a dir no van entrar a l'entrenament dels models de catotron.
+Here we present some example recordings. The chosen phrases belong to the
+validation data set and therefore were not used for the training of
+Catotron models.
 
 <br/>
 
@@ -123,13 +126,13 @@ Aquí teniu alguns fitxers de mostra. Les frases escollides venen del conjunt de
 <br/>
 <br/>
 
-Durant les nostres proves també vam fer experiments amb el conjunt de dades del
-ParlamentParla, i vam produir un model de la parla d’Artur Mas, que era la
-persona amb més hores registrades d’aquest conjunt de dades. Vam aprofitar
-aquesta prova per fer una estimació del volum i de la qualitat de dades
-necessàries per entrenar un model. Per temes de privacitat no publiquem aquests
-models, però n’exposem alguns exemples. Les frases venen dels enregistraments de
-la validació, és a dir no van entrar a l'entrenament del model.
+We also made experiments with the ParlamentParla data set and created a model
+of Artur Mas, who was the person with most recorded hours in
+the data set. We took advantage of this test in making an estimation
+of the quantity of data that is needed for training a model. Due to privacy
+concerns, we do not publish this model, but we present some inference examples. The
+phrases belong to the recordings used for the validation and were therefore not
+used for the training of the model.
 
 <br/>
 
@@ -169,7 +172,7 @@ la validació, és a dir no van entrar a l'entrenament del model.
 
 <br/>
 
-Diverses frases llegides per totes les veus entrenades:
+Different phrases that are being read by all the model voices:
 
 <table style="font-size:16px">
   <col width="205">
@@ -209,37 +212,39 @@ Diverses frases llegides per totes les veus entrenades:
 <br/> 
 <br/> 
 
-### Com es pot utilitzar:
-Per ara, pels usuaris individuals la síntesi és només possible a través de la
-interfície del [Google Colaboratory][colab1] on es poden aprofitar els GPUs de Google
-gratuïtament. En unes setmanes publicarem  una pàgina en què els visitants
-podran sintetitzar paraules curtes.
+### How can it be used:
+Non-developers can only synthesize speech via the [Google Colaboratory][colab1] interface for now.
+With this online ipython notebook, the Google GPUs can be used
+free of charge. In a few weeks, we will publish a demo web page in which visitors can
+synthesise short sentences.
 
-Com es poden entrenar noves veus: Amb les eines publicades, és a dir el codi i
-els models, ja és possible adaptar la veu mitjançant l’aprenentatge per
-transferència (transfer learning) a partir dels models publicats i
-enregistraments d’un/a locutor/a. El nostre exemple de
-[catotron-transfer-learning.ipynb][colab2] explica els passos necessaris de com fer-ho.
-En aquesta llibreta específica, s’entrena la veu de Pau a partir dels models
-d’Ona, aprofitant els recursos computacionals gratuïts de Google. 
+How to train new voices: It is already possible to adapt the currently published models
+to synthesize any voice. It can be done with
+the help of transfer learning and using the published models and recordings of
+the new speaker. Our example of [catotron-transfer-learning.ipynb][colab2] gives a
+step-by-step guide on how to do it. In this specific guide, the model of Ona is
+adapted to the voice of Pau, with the use of computing resources
+of Google.
 
-### Pel futur:
-Volem que aquests model siguin fàcilment integrables als productes tecnològics.
-Un dels obstacles greus és la necessitat d'ús dels GPUs, i l’eficiència
-computacional de la síntesi. Per accelerar el procés de síntesi i fer-ho més
-eficaç volem canviar el vocoder de Waveglow a [Melgan][melgan]. Aquest treball també
-millorarà considerablement la qualitat de les veus masculines, que encara són
-força robòtiques degut als models de vocoder que estem utilitzant. 
+### In future:
+We want that these TTS models to be easily integrable to any technoology. One 
+of the major challenges is the computational efficiency of the synthesis and
+the necessity of GPUs. In order to assure efficient synthesis we want to change
+the Waveglow vocoder for [MelGAN][melgan]. Using the MelGAN vocoders specifically
+trained for each voice, instead of using the published vocoder models, 
+will also improve considerably the quality of the male voices, which still sound
+quite robotic.
 
-### Contribuïdors:
+
+### Contributions:
 * Baybars Külebi (Col·lectivaT)
 * Alex Peiro Lilja (UPF)
 * Alp Öktem (Col·lectivaT)
 
----
-Aquests recursos van ser desenvolupats gràcies al projecte «síntesi de la
-parla contra la bretxa digital» subvencionat pel Departament de Cultura. Una
-part dels fons provenen dels cabals que atorga la Junta d'Herències de la
+These resources have been developed thanks to the project «síntesi de la
+parla contra la bretxa digital» (Speech synthesis against the digital gap)
+that was subsidised by the Department of Culture. A part of the funding 
+comes from the financing administered by the inheritance board of the 
 Generalitat de Catalunya.
 
 <img src="/img/logo_generalitat.png" width="400"/>
@@ -254,3 +259,4 @@ Generalitat de Catalunya.
 [colab2]: https://colab.research.google.com/github/CollectivaT-dev/TallersParla/blob/master/ipynb/catotron_transfer_learn.ipynb
 [festcat]: http://festcat.talp.cat/download.php
 [melgan]: https://github.com/seungwonpark/melgan
+
