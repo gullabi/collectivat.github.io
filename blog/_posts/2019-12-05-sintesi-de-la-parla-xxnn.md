@@ -233,7 +233,8 @@ força robòtiques degut als models de vocoder que estem utilitzant.
 
 ### Contribuïdors:
 * Baybars Külebi (Col·lectivaT)
-* Alex Peiro Lilja (UPF)
+* Santiago Pascual (Universitat Politècnica de Catalunya)
+* Alex Peiro Lilja (Universitat Pompeu Fabra)
 * Alp Öktem (Col·lectivaT)
 
 ---

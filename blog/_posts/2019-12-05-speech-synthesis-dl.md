@@ -238,7 +238,8 @@ quite robotic.
 
 ### Contributions:
 * Baybars Külebi (Col·lectivaT)
-* Alex Peiro Lilja (UPF)
+* Santiago Pascual (Universitat Politècnica de Catalunya)
+* Alex Peiro Lilja (Universitat Pompeu Fabra)
 * Alp Öktem (Col·lectivaT)
 
 These resources have been developed thanks to the project «síntesi de la
