@@ -9,11 +9,15 @@ summary: Gràcies al projecte subvencionat pel Departament de Cultura, vam entre
 ---
 
 Aquí podeu trobar tota la informació pertinent a Catotron, síntesi de la parla
-obert en català, entrenat amb xarxes neuronals. El codi està al [github][catotron] i els
-models són descarregables aquí.
+obert en català, entrenat amb xarxes neuronals. El codi està al github [aquí][catotron]
+i [aquí][catotron-cpu]; i els models són descarregables aquí.
 
-* La veu femenina: Ona [[descarregar]][ona]
-* La veu masculina: Pau [[descarregar]][pau]
+* La veu femenina de Catotron: Ona [[descarregar]][ona]
+* La veu masculina de Catotron: Pau [[descarregar]][pau]
+* El vocoder Waveglow: [[descarregar]][waveglow_model]
+* El vocoder MelGAN: [[descarregar]][melgan_model]
+
+Per provar el model d'Ona podeu utilitzar la pàgina de [demo][demo].
 
 ### Resum:
 
@@ -41,10 +45,12 @@ integrar aquesta tecnologia.
 ### El codi:
 
 Les tecnologies que vam utilitzar són els repositoris de [Tacotron2][nvidia]
-i [Waveglow][waveglow], de l’empresa de NVIDIA publicats amb llicències obertes a github. Un dels
+i [WaveGlow][waveglow], de l’empresa de NVIDIA publicats amb llicències obertes a github. Un dels
 resultats més importants és el codi; és a dir, el nostre fork de [Tacotron2][catotron], que
 està modificat per al català, imprescindible per fer servir els models de
-català.
+català. A més vam desenvolupar un segon repositori [catotron-cpu][catotron-cpu], que és
+executable amb els processadors més comuns, els CPUs. Aquesta versió de Catotron utilitza
+[MelGan][melgan], que és una alternativa més lleguera i més eficient que WaveGlow.
 
 ### Els models:
 
@@ -223,14 +229,6 @@ enregistraments d’un/a locutor/a. El nostre exemple de
 En aquesta llibreta específica, s’entrena la veu de Pau a partir dels models
 d’Ona, aprofitant els recursos computacionals gratuïts de Google. 
 
-### Pel futur:
-Volem que aquests model siguin fàcilment integrables als productes tecnològics.
-Un dels obstacles greus és la necessitat d'ús dels GPUs, i l’eficiència
-computacional de la síntesi. Per accelerar el procés de síntesi i fer-ho més
-eficaç volem canviar el vocoder de Waveglow a [Melgan][melgan]. Aquest treball també
-millorarà considerablement la qualitat de les veus masculines, que encara són
-força robòtiques degut als models de vocoder que estem utilitzant. 
-
 ### Contribuïdors:
 * Baybars Külebi (Col·lectivaT)
 * Santiago Pascual (Universitat Politècnica de Catalunya)
@@ -255,3 +253,6 @@ Generalitat de Catalunya.
 [colab2]: https://colab.research.google.com/github/CollectivaT-dev/TallersParla/blob/master/ipynb/catotron_transfer_learn.ipynb
 [festcat]: http://festcat.talp.cat/download.php
 [melgan]: https://github.com/seungwonpark/melgan
+[waveglow_model]: https://drive.google.com/open?id=1WsibBTsuRg_SF2Z6L6NFRTT-NjEy1oTx
+[melgan_model]: https://drive.google.com/file/d/1U3LeuaMIVoRvMvfwlHjsRJPWhgTzeIBh
+[demo]: http://catotron.collectivat.cat/

@@ -10,11 +10,15 @@ summary: Thanks to a project supported by the Department of Culture of the Catal
 
 Here you can find all the information related to Catotron, the open and free
 text-to-speech system in Catalan that has been trained with neural networks.
-The open source code is available in [github][catotron] and the models can be
-downloaded here.
+The open source code is available in github [here][catotron] and [here][catotron-cpu]
+and the models can be downloaded here.
 
 * Female voice: Ona [[download]][ona]
 * Male voice: Pau [[download]][pau]
+* El vocoder Waveglow: [[download]][waveglow_model]
+* El vocoder MelGAN: [[download]][melgan_model]
+
+You can try the Ona voice via our [demo page][demo].
 
 ### Summary:
 
@@ -46,15 +50,6 @@ open-source licences in github. One of the most important results of the
 project is the code itself, namely our fork of [Tacotron2][catotron]. It has been
 modified for the Catalan language and it is indispensable for using the 
 Catalan models.
-
-### The models:
-
-We took advantage of open data in order to train our Catalan models. The resulting
-voices were trained with the [Festcat][festcat] data, which is another project
-of the Generalitat that was undertaken by researchers from Universitat
-Politècnica de Catalunya (UPC). We used the best voices in the data set: the
-voices of Ona and Pau.
-
 
 <br/>
 
@@ -226,22 +221,13 @@ step-by-step guide on how to do it. In this specific guide, the model of Ona is
 adapted to the voice of Pau, with the use of computing resources
 of Google.
 
-### In future:
-We want that these TTS models to be easily integrable to any technoology. One 
-of the major challenges is the computational efficiency of the synthesis and
-the necessity of GPUs. In order to assure efficient synthesis we want to change
-the Waveglow vocoder for [MelGAN][melgan]. Using the MelGAN vocoders specifically
-trained for each voice, instead of using the published vocoder models, 
-will also improve considerably the quality of the male voices, which still sound
-quite robotic.
-
-
 ### Contributions:
 * Baybars Külebi (Col·lectivaT)
 * Santiago Pascual (Universitat Politècnica de Catalunya)
 * Alex Peiro Lilja (Universitat Pompeu Fabra)
 * Alp Öktem (Col·lectivaT)
 
+---
 These resources have been developed thanks to the project «síntesi de la
 parla contra la bretxa digital» (Speech synthesis against the digital gap)
 that was subsidised by the Department of Culture. A part of the funding 
@@ -260,4 +246,6 @@ Generalitat de Catalunya.
 [colab2]: https://colab.research.google.com/github/CollectivaT-dev/TallersParla/blob/master/ipynb/catotron_transfer_learn.ipynb
 [festcat]: http://festcat.talp.cat/download.php
 [melgan]: https://github.com/seungwonpark/melgan
-
+[waveglow_model]: https://drive.google.com/open?id=1WsibBTsuRg_SF2Z6L6NFRTT-NjEy1oTx
+[melgan_model]: https://drive.google.com/file/d/1U3LeuaMIVoRvMvfwlHjsRJPWhgTzeIBh
+[demo]: http://catotron.collectivat.cat/

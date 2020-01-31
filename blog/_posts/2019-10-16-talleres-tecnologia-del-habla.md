@@ -61,3 +61,6 @@ Baybars Kulebi: Ingeniero de datos con experiencia especializada en el desarroll
 
 ### Como apuntar-se
 Os agradecemos si podéis confirmar la vuestra asistencia, rellenando [este formulario](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=459734). Antes de la actividad os pasaremos toda la información pertinente.
+
+---
+<img src="/img/logo_generalitat.png" width="400"/>
