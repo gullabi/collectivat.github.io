@@ -237,6 +237,7 @@ Generalitat de Catalunya.
 <img src="/img/logo_generalitat.png" width="400"/>
 
 [catotron]: https://github.com/CollectivaT-dev/tacotron2
+[catotron-cpu]: https://github.com/CollectivaT-dev/catotron-cpu
 [nvidia]: https://github.com/NVIDIA/tacotron2
 [waveglow]: https://github.com/NVIDIA/waveglow/
 [tallers]: https://github.com/CollectivaT-dev/TallersParla
