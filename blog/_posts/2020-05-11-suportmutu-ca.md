@@ -56,6 +56,8 @@ _**Si teniu un canal informatiu de Telegram i voleu incorporar el bot al vostre 
 _**Si coneixeu persones que tenen dificultat d’entendre el català/castellà, parlen aquestes llengües (vegeu la llista actual de les llengües incorporades) i que viuen en aquests barris (vegeu la llista actual dels canals de suport veïnal), si us plau fer-l’hi arribar la informació perquè puguin seguir els canals en el seu propi idioma.**_
 
 ---
+Per aprendre més sobre la Economia per la Vida: Fons Cooperatiu, podeu visitar [la seva pàgina][economiaperlavida] o [la seva pàgina a Goteo][goteo].
+
 <img src="/img/blog/2020/economiaperlavida.jpg" width="600"/>
 
 [goteo]: https://ca.goteo.org/project/fons-cooperatiu-front-l-emergencia-social-i-sanita
@@ -68,3 +70,4 @@ _**Si coneixeu persones que tenen dificultat d’entendre el català/castellà, 
 [suportgracia_ar]: https://t.me/suportgracia_ar
 [suportgracia_zh]: https://t.me/suportgracia_zh
 [XarxadeSuportVerdum_ar]: https://t.me/XarxadeSuportVerdum_ar
+[economiaperlavida]: http://www.economiaperlavida.cat/
