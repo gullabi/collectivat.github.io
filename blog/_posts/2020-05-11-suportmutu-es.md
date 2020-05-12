@@ -15,9 +15,9 @@ Si deseas echarnos una mano, por favor ayúdanos a difundir la información sobr
 * [/Salut (urdú)][salutcat_ur]
 * [/Salut (àrab)][salutcat_ar]
 * [/Salut (xinès)][salutcat_zh]
-* [Suport Mutu Gràcia (urdú)][suportgracia_ar]
+* [Suport Mutu Gràcia (urdú)][suportgracia_ur]
 * [Suport Mutu Gràcia (àrab)][suportgracia_ar]
-* [Suport Mutu Gràcia (xinès)][suportgracia_ar]
+* [Suport Mutu Gràcia (xinès)][suportgracia_zh]
 * [Xarxa de Suport Verdum (àrab)][XarxadeSuportVerdum_ar]
 
 Si tienes un canal informativo de Telegram y deseas incorporar el bot en tu canal en estos idiomas, por favor escribe a: info _arroba_ collectivat.cat
