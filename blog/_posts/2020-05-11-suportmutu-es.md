@@ -62,7 +62,7 @@ Para saber más sobre la Economia per la Vida: Fons Cooperatiu ESS, puedes visit
 
 [goteo]: https://ca.goteo.org/project/fons-cooperatiu-front-l-emergencia-social-i-sanita
 [github]: https://github.com/CollectivaT-dev/suport_mt
-[formulari]: https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=383469
+[formulari]: https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=695434
 [salutcat_ur]: https://t.me/salutcat_ur
 [salutcat_ar]: https://t.me/salutcat_ar
 [salutcat_zh]: https://t.me/salutcat_zh
