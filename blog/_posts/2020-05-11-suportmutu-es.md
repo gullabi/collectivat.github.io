@@ -48,7 +48,7 @@ Al inicio buscamos **voluntarias,** es decir la colaboración no es remunerada. 
 
 <br/>
 
-_**Si desea participar como voluntaria para corregir mensajes, preferiblemente en las lenguas árabe, urdu, hindi, chino, bengalí, amazigh y tagalog; por favor rellene este [formulario] [formulario].**_
+_**Si desea participar como voluntaria para corregir mensajes, preferiblemente en las lenguas árabe, urdu, hindi, chino, bengalí, amazigh y tagalog; por favor rellene este [formulario][formulari].**_
 
 _**Si tiene un canal informativo de Telegram y desea incorporar el bote en su canal en estos idiomas, por favor escriba a:**_ info _arroba_ collectivat.cat
 

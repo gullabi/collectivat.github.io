@@ -10,7 +10,7 @@ summary: "Gràcies a la iniciativa Economia Per La Vida, hem creat una infraestr
 
 Gràcies a la iniciativa [Economia Per La Vida][goteo], _**hem creat una infraestructura digital per traduir els canals públics i de suport veïnal a Telegram**_, a algunes llengües de les comunitats d’origen migrant de Catalunya.
 
-Si voleu donar un cop de mà, si us plau correu la veu sobre els canals de Telegram que hem implementat fins ara:
+Si voleu donar un cop de mà, si us plau feu córrer la veu sobre els canals de Telegram que hem implementat fins ara:
 
 * [/Salut (urdú)][salutcat_ur]
 * [/Salut (àrab)][salutcat_ar]
@@ -35,7 +35,7 @@ A través del nostre projecte **SuportMuTu** volem garantir la transmissió dels
 
 **SuportMuTu** és una infraestructura de programari **d’intel·ligència artificial** que funciona amb el suport d’una **xarxa de voluntàries correctores.** El bot que hem desenvolupat, en primer lloc, remet els missatges publicats en els canals de suport veïnal al nostre sistema de traducció automàtica i aquest sistema envia els textos traduïts als grups de correctores en idiomes corresponents. Elles revisen i, si s’escau, corregeixen els missatges traduïts automàticament. El mateix bot també permet la transmissió automàtica dels missatges traduïts i corregits a la versió en tal idioma del canal de suport veïnal, que havia publicat anteriorment la versió original en català i/o castellà. A més a més, just després de cada missatge en text, també s’afegeix la seva **versió sintetitzada en format àudio** per tal de fer-ho accessible per a les persones amb dificultat visual o persones analfabetes.
 
-[El codi de SuportMuTu][github] és accessible a github amb una llicència lliure. Podeu veure com funciona SuportMuTu en la practica, i com es fa les revisions, amb un exemple de traducció de català a castellà:
+[El codi de SuportMuTu][github] és accessible a github amb una llicència lliure. Podeu veure com funciona SuportMuTu en pràctica, i com es fan les revisions, amb un exemple de traducció del català al castellà:
 
 ![Com funciona](/img/blog/2020/suportMuTu_long.gif)
 
