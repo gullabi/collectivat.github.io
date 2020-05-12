@@ -14,11 +14,11 @@ Si voleu donar un cop de mà, si us plau feu córrer la veu sobre els canals de 
 
 * [/Salut (urdú)][salutcat_ur]
 * [/Salut (àrab)][salutcat_ar]
-* [/Salut (xinés)][salutcat_zh]
+* [/Salut (xinès)][salutcat_zh]
 * [Suport Mutu Gràcia (urdú)][suportgracia_ar]
 * [Suport Mutu Gràcia (àrab)][suportgracia_ar]
-* [Suport Mutu Gràcia (xinés)][suportgracia_ar]
-* [Xarde de Suport Verdum (àrab)][XarxadeSuportVerdum_ar]
+* [Suport Mutu Gràcia (xinès)][suportgracia_ar]
+* [Xarxa de Suport Verdum (àrab)][XarxadeSuportVerdum_ar]
 
 Si teniu un canal informatiu de Telegram i voleu incorporar el bot al vostre canal en aquests idiomes, si us plau escriviu a: info@collectivat.cat
 
@@ -43,7 +43,7 @@ A través del nostre projecte **SuportMuTu** volem garantir la transmissió dels
 
 Per molt avançats que siguin els sistemes de la traducció automàtica, segueixen fent errors i això pot provocar riscos en aquests tipus de situacions en què es tradueixen  missatges relacionats amb la salut pública. És per això que les persones voluntàries que revisen i corregeixen els missatges tenen un paper clau. 
 
-Per això estem actualment buscant **voluntàries** per cada idioma. Aquestes persones han d'entendre bé el català/castellà escrit (és a dir, no cal que sàpiguen escriure i/o parlar), i han de ser natives o saber suficient l’idioma objectiu **_(àrab/hindi/bengalí/urdú/xinès o altre)_** per poder **revisar la traducció automàtica** i la informació clau. Preveiem uns 8 i 10 missatges/dia. Si hi ha 4 persones revisores, seria 2-3 missatges/dia/persona (~9-12 frases o així).
+Per això estem actualment buscant **voluntàries** per cada idioma. Aquestes persones han d'**entendre bé el català/castellà escrit** (és a dir, no cal que sàpiguen escriure i/o parlar), i han de ser natives o saber suficient l’idioma objectiu **_(àrab/hindi/bengalí/urdú/xinès o altre)_** per poder **revisar la traducció automàtica** i la informació clau. Preveiem uns 8 i 10 missatges/dia. Si hi ha 4 persones revisores, seria 2-3 missatges/dia/persona (~9-12 frases).
 
 A l'inici busquem **voluntàries,** és a dir la col·laboració no és remunerada. Més endavant si tot funciona bé i quan s'incorporin més grups, decidirem entre totes com remunerar-ho.
 
@@ -53,10 +53,10 @@ _**Si voleu participar com a voluntària per corregir missatges, preferiblement 
 
 _**Si teniu un canal informatiu de Telegram i voleu incorporar el bot al vostre canal en aquests idiomes, si us plau escriviu a:**_ info@collectivat.cat
 
-_**Si coneixeu persones que tenen dificultat d’entendre el català/castellà, parlen aquestes llengües (vegeu la llista actual de les llengües incorporades) i que viuen en aquests barris (vegeu la llista actual dels canals de suport veïnal), si us plau fer-l’hi arribar la informació perquè puguin seguir els canals en el seu propi idioma.**_
+_**Si coneixeu persones que tenen dificultat d’entendre el català/castellà, parlen aquestes llengües (vegeu la llista actual de les llengües incorporades) i que viuen en aquests barris (vegeu la llista actual dels canals de suport veïnal), si us plau fer-los arribar la informació perquè puguin seguir els canals en el seu propi idioma.**_
 
 ---
-Per aprendre més sobre la Economia per la Vida: Fons Cooperatiu, podeu visitar [la seva pàgina][economiaperlavida] o [la seva pàgina a Goteo][goteo].
+Per saber més sobre la Economia per la Vida: Fons Cooperatiu ESS, podeu visitar [la seva pàgina][economiaperlavida] o [la seva pàgina a Goteo][goteo].
 
 <img src="/img/blog/2020/economiaperlavida.jpg" width="600"/>
 
