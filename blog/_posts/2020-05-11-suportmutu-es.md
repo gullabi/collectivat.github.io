@@ -2,11 +2,13 @@
 layout: post
 title: "SuportMuTu: Accesibilidad lingüística a los canales públicos y apoyo vecinal "
 ref: suportmutu
-image: /img/blog/2020/suportmutu_landscape.png
 thumbnail: /img/blog/2020/suportmutu.png
 lang: es
 summary: "Gracias a la iniciativa Economia Per La Vida, hemos creado una infraestructura digital para traducir los canales públicos y de apoyo vecinal a Telegram, a algunos idiomas de las comunidades de origen migrante de Cataluña."
 ---
+
+<p align="center"><img src="/img/blog/2020/suportmutu_landscape.png" alt="SuportMuTu logo" width="100%"></p>
+
 
 Gracias a la iniciativa [Economia Per La Vida] [goteo], _**hemos creado una infraestructura digital para traducir los canales públicos y de apoyo vecinal a Telegram**_, a algunos idiomas de las comunidades de origen migrante de Cataluña.
 
@@ -36,7 +38,7 @@ A través de nuestro proyecto **SuportMuTu** queremos garantizar la transmisión
 
 [El código de SuportMuTu][github] es accesible a GitHub con una licencia libre. Puedes ver abajo cómo funciona SuportMuTu en práctica y cómo se hacen las revisiones, con un ejemplo de traducción del catalán al castellano:
 
-![Como funciona](/img/blog/2020/suportMuTu_long.gif)
+<p align="center"><a href="/img/blog/2020/suportMuTu_long.gif"><img src="/img/blog/2020/suportMuTu_long.gif" alt="SuportMuTu workflow" width="40%"></a></p>
 
 ## Cómo colaborar
 
@@ -58,7 +60,7 @@ _**Si conoces personas que tienen dificultad de entender el catalán/castellano,
 ---
 Para saber más sobre la Economia per la Vida: Fons Cooperatiu ESS, puedes visitar [su página][economiaperlavida] o [su página a Goteo][goteo].
 
-<img src="/img/blog/2020/economiaperlavida.jpg" width="600"/>
+<p align="center"><a href="http://www.economiaperlavida.cat/"><img src="/img/blog/2020/economiaperlavida.jpg" alt="Economia per la vida logo" width="70%"></a></p>
 
 [goteo]: https://ca.goteo.org/project/fons-cooperatiu-front-l-emergencia-social-i-sanita
 [github]: https://github.com/CollectivaT-dev/suport_mt
