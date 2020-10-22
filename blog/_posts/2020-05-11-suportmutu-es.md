@@ -21,6 +21,7 @@ Si deseas echarnos una mano, por favor ayúdanos a difundir la información sobr
 * [Suport Mutu Gràcia (àrab)][suportgracia_ar]
 * [Suport Mutu Gràcia (xinès)][suportgracia_zh]
 * [Xarxa de Suport Verdum (àrab)][XarxadeSuportVerdum_ar]
+* [Xarxa de Suport Verdum (xinès)][XarxadeSuportVerdum_zh]
 
 Si tienes un canal informativo de Telegram y deseas incorporar el bot en tu canal en estos idiomas, por favor escribe a: info _arroba_ collectivat.cat
 
@@ -72,4 +73,5 @@ Para saber más sobre la Economia per la Vida: Fons Cooperatiu ESS, puedes visit
 [suportgracia_ar]: https://t.me/suportgracia_ar
 [suportgracia_zh]: https://t.me/suportgracia_zh
 [XarxadeSuportVerdum_ar]: https://t.me/XarxadeSuportVerdum_ar
+[XarxadeSuportVerdum_zh]: https://t.me/XarxadeSuportVerdum_zh
 [economiaperlavida]: http://www.economiaperlavida.cat/
