@@ -10,7 +10,7 @@ summary: Amb aquesta sessió ens enfocarem en les tecnologies lliures de síntes
 
 Hi ha diverses maneres d’interactuar amb els nostres dispositius, una d’aquestes és mitjançat la parla. Un ingredient molt important d’aquesta funcionalitat és síntesi de la parla, i les desenvolupadores ja tenen diverses opcions d’integrar-ho als seus productes. Amb aquesta sessió ens enfocarem en les tecnologies lliures de síntesi de la parla, parlarem dels seus avantatges respecte als serveis del mercat i les innovacions recents en aquest àmbit des d’una mirada tècnica. Donarem alguns exemples d’implementació i desplegament dels sistemes moderns de síntesi de la parla. Finalment parlarem sobre la situació del català, les necessitats del territori i com podem aportar a les iniciatives lliures com a comunitat.
 
-Aquesta sessió forma part de les jornades de tecnologies lingüístiques lliures en català.
+Aquesta sessió forma part de les [jornades de tecnologies lingüístiques lliures en català][jornades].
 
 <br/>
 
@@ -50,4 +50,6 @@ _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en el desenv
 Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=). Abans de l'activitat us passarem tota la informació i les dades pertinents.
 
 ---
-<img src="/img/logo_generalitat.png" width="400"/>
+<img src="/img/logo_generalitat.png" width="60%"/>
+
+[jornades]: /blog/2020-11-06-jornades-de-tecnologies-lliures-de-la-parla/

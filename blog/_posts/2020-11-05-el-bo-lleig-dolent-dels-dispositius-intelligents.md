@@ -8,7 +8,7 @@ lang: ca
 summary: En aquesta sessió de les jornades de tecnologies lingüístiques lliures en català, donarem una vista general de com funcionen els dispositius intel·ligents, quins són els avantatges d’utilitzar-los i també els problemes que generen. També ens enfocarem en les necessitats del territori, la resposta del mercat per proporcionar alternatives en català i, més important, les activitats en marxa en l'àmbit de les tecnologies lliures.
 ---
 
-Ens trobem en una època transformativa que cada cop depenem més dels dispositius i tenim més maneres d’interactuar-hi. La interacció mitjançant la parla proporciona noves maneres còmodes de comunicar amb els dispositius però alhora introdueix altres problemes, sobretot relacionats amb la privacitat de l’usuari. En aquesta sessió de les jornades de tecnologies lingüístiques lliures en català, donarem una vista general de com funcionen els dispositius intel·ligents, quins són els avantatges d’utilitzar-los i també els problemes que generen.
+Ens trobem en una època transformativa que cada cop depenem més dels dispositius i tenim més maneres d’interactuar-hi. La interacció mitjançant la parla proporciona noves maneres còmodes de comunicar amb els dispositius però alhora introdueix altres problemes, sobretot relacionats amb la privacitat de l’usuari. En aquesta sessió de les [jornades de tecnologies lingüístiques lliures en català][jornades], donarem una vista general de com funcionen els dispositius intel·ligents, quins són els avantatges d’utilitzar-los i també els problemes que generen.
 
 Durant la sessió també ens enfocarem en les necessitats del territori, la resposta del mercat per proporcionar alternatives en català i, més important, les activitats en marxa en l'àmbit de les tecnologies lliures, específicament la localització en curs de l’assistent virtual obert Mycroft.
 
@@ -51,4 +51,6 @@ _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en el desenv
 Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=). Abans de l'activitat us passarem tota la informació i les dades pertinents.
 
 ---
-<img src="/img/logo_generalitat.png" width="400"/>
+<img src="/img/logo_generalitat.png" width="60%"/>
+
+[jornades]: /blog/2020-11-06-jornades-de-tecnologies-lliures-de-la-parla/

@@ -8,7 +8,7 @@ lang: ca
 summary: Durant aquesta sessió de la «jornades de tecnologies lingüístiques lliures en català» volem donar a conèixer les aplicacions de les tecnologies de la parla, dissenyades sobretot per l'usuari final. Parlarem de les ofertes al mercat, les necessitats de les consumidores i, més important, les alternatives lliures.
 ---
 
-Un dels temes més importants dels últims anys és l’automatització de la feina i les seves implicacions. L'àmbit de treball lingüístic és un dels sectors afectats, i en general les eines d’aquesta automatització estan controlades per les empreses ocupadores i no per les treballadores. Durant aquesta sessió de la «jornades de tecnologies lingüístiques lliures en català» volem donar a conèixer les aplicacions de les tecnologies de la parla, dissenyades sobretot per l'usuari final. Parlarem de les ofertes al mercat, les necessitats de les consumidores i, més important, les alternatives lliures.
+Un dels temes més importants dels últims anys és l’automatització de la feina i les seves implicacions. L'àmbit de treball lingüístic és un dels sectors afectats, i en general les eines d’aquesta automatització estan controlades per les empreses ocupadores i no per les treballadores. Durant aquesta sessió de la ["jornades de tecnologies lingüístiques lliures en català"][jornades] volem donar a conèixer les aplicacions de les tecnologies de la parla, dissenyades sobretot per l'usuari final. Parlarem de les ofertes al mercat, les necessitats de les consumidores i, més important, les alternatives lliures.
 
 <br/>
 
@@ -49,4 +49,6 @@ _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en el desenv
 Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=). Abans de l'activitat us passarem tota la informació i les dades pertinents.
 
 ---
-<img src="/img/logo_generalitat.png" width="400"/>
+<img src="/img/logo_generalitat.png" width="60%"/>
+
+[jornades]: /blog/2020-11-06-jornades-de-tecnologies-lliures-de-la-parla/

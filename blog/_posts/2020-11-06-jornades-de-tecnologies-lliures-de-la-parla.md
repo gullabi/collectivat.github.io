@@ -14,32 +14,32 @@ Si formeu part del sector, o us interessa entrar-hi com a desenvolupador/a, empr
 
 ### Sessions dissenyades per a tothom:
 #### 24 de Novembre 18:00-20:00 (en-línia)
-Com els meus dispositius poden parlar en català? Ofertes al mercat i les alternatives lliures.
+[Com els meus dispositius poden parlar en català? Ofertes al mercat i les alternatives lliures][24N]
 
 #### 1 de Desembre 18:00-20:00 (en-línia)
-Podem automatitzar la transcripció, subtitulació i altres feines lingüístiques?
+[Podem automatitzar la transcripció, subtitulació i altres feines lingüístiques?][1D]
 
 #### 8 de Desembre 18:00-20:00 (en-línia)
-El bo, el lleig i el dolent dels dispositius intel·ligents
+[El bo, el lleig i el dolent dels dispositius intel·ligents][8D]
 
 ### Dirigides a:
-Aquestes sessions estan destinades a les persones desenvolupadores i makers, així com a altres persones interessades en el sector que no tenen un perfil tecnològic.
+Aquestes sessions estan destinades a les persones desenvolupadores i makers, així com a altres persones interessades en el sector que no tenen un perfil tecnològic
 
 <br/>
 <br/>
 
 ### Sessions per la comunitat tecnològica:
 #### 26 de Novembre 18:00-20:00 (en-línia)
-Donar veu als nostres productes tecnològics: Les eines lliures de Síntesi de la Parla.
+[Donar veu als nostres productes tecnològics: Les eines lliures de Síntesi de la Parla][26N]
 
 #### 3 de Desembre 18:00-20:00 (en-línia)
-Reconeixement de la parla; eficient, segur i privat: Una introducció a Kaldi i Vosk
+[Reconeixement de la parla; eficient, segur i privat: Una introducció a Kaldi i Vosk][3D]
 
 #### 10 de Desembre 18:00-20:00 (en-línia)
-Cap a l'assistent virtual obert i lliure en català: Com podem localitzar Mycroft? 
+[Cap a l'assistent virtual obert i lliure en català: Com podem localitzar Mycroft?][10D]
 
 ### Dirigides a:
-Aquesta activitat està dissenyada per les persones amb un perfil tecnològic, i les persones que volen  formar part de la comunitat per donar suport als projectes de programari lliure.
+Aquesta activitat està dissenyada per les persones amb un perfil tecnològic, i les persones que volen  formar part de la comunitat per donar suport als projectes de programari lliure
 
 <br/>
 <br/>
@@ -82,3 +82,10 @@ Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://
 
 ---
 <img src="/img/logo_generalitat.png" width="400"/>
+
+[24N]: /blog/2020-11-05-com-els-dispositius-poden-parlar-en-catala/
+[26N]: /blog/2020-11-05-donar-veu-als-nostres-productes-tecnologics/
+[1D]: /blog/2020-11-05-podem-automatitzar-la-transcripcio-subtitulacio/
+[3D]: /blog/2020-11-05-reconeixement-de-la-parla-kaldi-vosk/
+[8D]: /blog/2020-11-05-el-bo-lleig-dolent-dels-dispositius-intelligents/
+[10D]: /blog/2020-11-05-com-podem-localitzar-mycroft/

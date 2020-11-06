@@ -8,7 +8,7 @@ lang: ca
 summary: En aquesta sessió, donarem el coneixement necessari per desplegar sistemes d’estat d’art de RAP als nostres servidors o directament als dispositius personals. Específicament, parlarem de les tecnologies de DeepSpeech i Kaldi, que actualment són sistemes de RAP més avançats del sector, i entrarem als detalls de com fer servir Kaldi per diversos casos d’ús.
 ---
 
-Hi ha diverses maneres d’interactuar amb els nostres dispositius, una d’aquestes és mitjançat la parla. Amb aquesta sessió de les «jornades de tecnologies lingüístiques lliures en català», ens enfocarem en un altre ingredient molt important d’aquesta funcionalitat, el reconeixement de la parla (RAP).
+Hi ha diverses maneres d’interactuar amb els nostres dispositius, una d’aquestes és mitjançat la parla. Amb aquesta sessió de les [«jornades de tecnologies lingüístiques lliures en català»][jornades], ens enfocarem en un altre ingredient molt important d’aquesta funcionalitat, el reconeixement de la parla (RAP).
 
 La dependència als serveis de RAP de les empreses grans (Google Speech API, WIT de Facebook, Watson Text to Speech d’IBM), no només impacta negativament la privacitat de l’usuari final, sinó també implica un cost per a les innovadores i emprenedores. En aquesta sessió, donarem el coneixement necessari per desplegar sistemes d’estat d’art de RAP als nostres servidors o directament als dispositius personals. Específicament, parlarem de les tecnologies de DeepSpeech i Kaldi, que actualment són sistemes de RAP més avançats del sector, i entrarem als detalls de com fer servir Kaldi per diversos casos d’ús.
 
@@ -51,4 +51,6 @@ _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en el desenv
 Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=). Abans de l'activitat us passarem tota la informació i les dades pertinents.
 
 ---
-<img src="/img/logo_generalitat.png" width="400"/>
+<img src="/img/logo_generalitat.png" width="60%"/>
+
+[jornades]: /blog/2020-11-06-jornades-de-tecnologies-lliures-de-la-parla/

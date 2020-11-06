@@ -11,7 +11,7 @@ summary: Amb aquesta sessió de les jornades de tecnologies lingüístiques lliu
 
 És possible desenvolupar un producte «smart» sense tenir els recursos de les empreses grans? Com a desenvolupadores o emprenedores, podem crear assistents virtuals pels nostres casos d’ús? 
 
-Amb aquesta sessió de les jornades de tecnologies lingüístiques lliures en català, tots els temes anteriors conflueixen per introduir el desenvolupament dels sistemes conversacionals, mitjançant els projectes oberts i lliures existents. Específicament introduirem els projectes de RASA i Mycroft per mostrar en detall l’arquitectura dels sistemes conversacionals. Finalment ens enfocarem en l’assistent virtual obert, Mycroft i els esforços per localitzar-lo en català. Durant la sessió les participants aprendran com desenvolupar i personalitzar Mycroft, com un framework d’infraestructura d’un producte «smart.»
+Amb aquesta sessió de les ["jornades de tecnologies lingüístiques lliures en català"][jornades], tots els temes anteriors conflueixen per introduir el desenvolupament dels sistemes conversacionals, mitjançant els projectes oberts i lliures existents. Específicament introduirem els projectes de RASA i Mycroft per mostrar en detall l’arquitectura dels sistemes conversacionals. Finalment ens enfocarem en l’assistent virtual obert, Mycroft i els esforços per localitzar-lo en català. Durant la sessió les participants aprendran com desenvolupar i personalitzar Mycroft, com un framework d’infraestructura d’un producte «smart.»
 
 <br/>
 
@@ -53,4 +53,6 @@ _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en el desenv
 Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=). Abans de l'activitat us passarem tota la informació i les dades pertinents.
 
 ---
-<img src="/img/logo_generalitat.png" width="400"/>
+<img src="/img/logo_generalitat.png" width="60%"/>
+
+[jornades]: /blog/2020-11-06-jornades-de-tecnologies-lliures-de-la-parla/

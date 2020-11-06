@@ -10,7 +10,7 @@ summary: Durant aquesta sessió de la «jornades de tecnologies lingüístiques 
 
 Hi ha diverses maneres d’interactuar amb els nostres dispositius, una d’aquestes és mitjançat la parla. Però això implica, des de la part del dispositiu, una capacitat real de poder parlar en català. En la indústria aquesta funcionalitat es diu síntesi de la parla, i els dos últims anys hi ha hagut innovacions molt importants en aquest àmbit. 
 
-Durant aquesta sessió de la «jornades de tecnologies lingüístiques lliures en català» parlarem els fonaments d’aquesta tecnologia i l'evolució d’aquest àmbit durant els últims anys. Parlarem de les ofertes al mercat, les necessitats de les consumidores i, el més important, les alternatives lliures. 
+Durant aquesta sessió de la [«jornades de tecnologies lingüístiques lliures en català»][jornades] parlarem els fonaments d’aquesta tecnologia i l'evolució d’aquest àmbit durant els últims anys. Parlarem de les ofertes al mercat, les necessitats de les consumidores i, el més important, les alternatives lliures. 
 
 <br/>
 
@@ -52,3 +52,5 @@ Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://
 
 ---
 <img src="/img/logo_generalitat.png" width="400"/>
+
+[jornades]: /blog/2020-11-06-jornades-de-tecnologies-lliures-de-la-parla/
