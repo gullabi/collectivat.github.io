@@ -45,8 +45,9 @@ Presentació (60 minuts) Debat i preguntes (20 minuts) Co-creació i intercooper
 Després de la introducció dels conceptes rellevants, la sessió seguirà amb els detalls profunds i els exemples reals del contingut presentat. La sessió acabarà amb un debat obert sobre les necessitats del territori i projectes de programari lliure.
 
 ### Imparteix:
-_Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en el desenvolupament de productes per a l’àmbit lingüístic.
-_(A concretar):_ Desenvolupador/a de la comunitat de programari lliure, expert/a en el reconeixement de la parla
+* _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en l’àmbit lingüístic, desenvolupador de Catotron.
+* _(A concretar):_ Desenvolupador/a de la comunitat de programari lliure, expert/a en el reconeixement de la parla.
+
 
 ### Com apuntar-se:
 Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=494293&lang=ca). Abans de l'activitat us passarem tota la informació i les dades pertinents.
