@@ -45,6 +45,7 @@ Després de la introducció dels conceptes rellevants, la sessió seguirà amb e
 
 ### Imparteix:
 _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en el desenvolupament de productes per a l’àmbit lingüístic.
+_(A concretar):_ Expert/a de la síntesi de la parla, especialitzada en xarxes neuronals
 
 ### Com apuntar-se:
 Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=494293&lang=ca). Abans de l'activitat us passarem tota la informació i les dades pertinents.
