@@ -26,13 +26,14 @@ Durant aquesta sessió es tractarà:
 * les noves tendències i innovacions al sector
 * els serveis bàsics del RAP existents, i la seva cobertura de les llengües minoritzades
 * les aplicacions del RAP als productes destinats directament a l’usuari final, com plataformes de transcripció, subtitulació i altre tipus de feina lingüística
+* com contribuir a les iniciatives per ampliar els recursos linguistics oberts com el [Common Voice](https://commonvoice.mozilla.org/ca)
 * les necessitats del territori a nivell social i nivell usuari final
 
 ### Durada:
 2 hores (18:00 – 20:00)
 
 ### Idioma:
-Català/Castellà
+Català
 
 ### Preu:
 Gratuït. Aquests tallers tenen el suport del Departament de la Cultura.

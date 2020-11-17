@@ -64,7 +64,7 @@ Durant les sessions de la comunitat tecnològica es tractarà:
 2 hores (18:00 – 20:00)
 
 ### Idioma:
-Català/Castellà
+Català
 
 ### Preu:
 Gratuït. Aquests tallers tenen el suport del Departament de la Cultura
