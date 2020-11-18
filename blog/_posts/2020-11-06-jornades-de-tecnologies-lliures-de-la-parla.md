@@ -75,10 +75,11 @@ Presentació (60 minuts) Debat i preguntes (30 minuts) Co-creació i intercooper
 Pels detalls de la part de co-creació de cada sessió, si us plau consulta la informació detallada de cada sessió.
 
 ### Imparteix:
-* _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en l’àmbit lingüístic, desenvolupador de Catotron.
-* _(A concretar):_ Expert/a de la síntesi de la parla, especialitzada en xarxes neuronals.
-* _(A concretar):_ Desenvolupador/a de la comunitat de programari lliure, expert/a en el reconeixement de la parla.
-* _(A concretar):_ Desenvolupador/a de la comunitat de Mycroft.
+* _Baybars Kulebi ([gullabi](https://github.com/gullabi)):_ Enginyer de dades amb experiència especialitzada en l’àmbit lingüístic, desenvolupador de Catotron.
+* _Alex Peiró Lilja:_ Investigador a UPF al grup de Tractament Automàtic del Llenguatge Natural (TALN) especialitzada en la síntesi de la parla.
+* _Cieran O'Reill ([ccoreily](https://github.com/ccoreilly)):_ Desenvolupador de la comunitat de programari lliure, contribuïdor als projectes de reconeixement de la parla.
+* _Joan Montané ([jmontane](https://github.com/jmontane))_: Membre de l'associació Softcatalà, contribuïdor a la traducció/localització de Mycroft.
+* _Casimiro Ferreira ([jarbas](https://github.com/JarbasAl)):_ Desenvolupador especialitzat en sistemes conversacionals i contribuïdor a Mycroft.
 
 ### Com apuntar-se:
 Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=494293&lang=ca). Abans de l'activitat us passarem tota la informació i les dades pertinents.

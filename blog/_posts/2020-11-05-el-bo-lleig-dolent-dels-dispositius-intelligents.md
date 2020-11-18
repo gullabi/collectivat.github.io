@@ -45,8 +45,8 @@ Presentació (60 minuts) Debat i preguntes (30 minuts) Co-creació i intercooper
 Després de la introducció dels conceptes rellevants, la sessió seguirà torns de paraula per resoldre els dubtes sobre el contingut presentat. La sessió acabarà amb un debat obert sobre les necessitats del territori i de l'usuari final.
 
 ### Imparteix:
-_Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en l’àmbit lingüístic, desenvolupador de Catotron.
-_Joan Montané_: Membre de l'associació Softcatalà, contribuïdor a la traducció/localització de Mycroft.
+* _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en l’àmbit lingüístic, desenvolupador de Catotron.
+* _Joan Montané ([jmontane](https://github.com/jmontane))_: Membre de l'associació Softcatalà, contribuïdor a la traducció/localització de Mycroft.
 
 ### Com apuntar-se:
 Us agraïm si podeu confirmar l'assistència omplint [aquest formulari](https://limesurvey.collectivat.cat/index.php?r=survey/index&sid=494293&lang=ca). Abans de l'activitat us passarem tota la informació i les dades pertinents.
