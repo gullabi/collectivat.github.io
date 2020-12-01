@@ -77,8 +77,9 @@ Pels detalls de la part de co-creació de cada sessió, si us plau consulta la i
 ### Imparteix:
 * _Baybars Kulebi ([gullabi](https://github.com/gullabi)):_ Enginyer de dades amb experiència especialitzada en l’àmbit lingüístic, desenvolupador de Catotron.
 * _Alex Peiró Lilja:_ Investigador a UPF al grup de Tractament Automàtic del Llenguatge Natural (TALN) especialitzada en la síntesi de la parla.
-* _Cieran O'Reill ([ccoreily](https://github.com/ccoreilly)):_ Desenvolupador de la comunitat de programari lliure, contribuïdor als projectes de reconeixement de la parla.
+* _Ciaran O'Reilly ([ccoreilly](https://github.com/ccoreilly)):_ Desenvolupador de la comunitat de programari lliure, contribuïdor als projectes de reconeixement de la parla.
 * _Joan Montané ([jmontane](https://github.com/jmontane))_: Membre de l'associació Softcatalà, contribuïdor a la traducció/localització de Mycroft.
+* _Artur Vicedo_: Membre de l'associació Softcatalà, contribuïdor al projecte de Common Voice Mozilla.
 * _Casimiro Ferreira ([jarbas](https://github.com/JarbasAl)):_ Desenvolupador especialitzat en sistemes conversacionals i contribuïdor a Mycroft.
 
 ### Com apuntar-se:

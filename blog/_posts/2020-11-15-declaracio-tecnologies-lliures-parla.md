@@ -49,14 +49,14 @@ Una de les accions per superar aquesta mancança de coneixement, és l’organit
         <div class="team-image">
           <a target="_blank" href="">
             <img
-            alt="BFS logo"
+            alt="Col·lectivaT logo"
             class="img-fluid mb-1"
             style="display:block; margin-left:auto; margin-right:auto; height:150px;"
-            src="{{site.baseurl}}/img/blog/2020/BFS.png"
+            src="{{site.baseurl}}/img/logo_sm.png"
             />
           </a>
-          <h3 class="team-name">
-            <a target="_blank" href=""> Barcelona Free Software </a>
+          <h3 style="text-align:center;" class="team-name">
+            <a href=""> Col·lectivaT </a>
           </h3>
         </div>
       </div>
@@ -64,7 +64,24 @@ Una de les accions per superar aquesta mancança de coneixement, és l’organit
     <div class="col-12 col-md-4 mb-1">
       <div class="team team-summary">
         <div class="team-image">
-          <a target="_blank" href="">
+          <a target="_blank" href="https://bcnfs.org/">
+            <img
+            alt="BFS logo"
+            class="img-fluid mb-1"
+            style="display:block; margin-left:auto; margin-right:auto; height:150px;"
+            src="{{site.baseurl}}/img/blog/2020/BFS.png"
+            />
+          </a>
+          <h3 style="text-align:center;" class="team-name">
+            <a target="_blank" href="https://bcnfs.org/"> Barcelona Free Software </a>
+          </h3>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-4 mb-1">
+      <div class="team team-summary">
+        <div class="team-image">
+          <a target="_blank" href="https://pirates.cat/ca/">
             <img
             alt="pirates logo"
             class="img-fluid mb-1"
@@ -72,8 +89,8 @@ Una de les accions per superar aquesta mancança de coneixement, és l’organit
             src="{{site.baseurl}}/img/blog/2020/pirates.png"
             />
           </a>
-          <h3 class="team-name">
-            <a target="_blank" href=""> Pirates de Catalunya </a>
+          <h3 style="text-align:center;" class="team-name">
+            <a target="_blank" href="https://pirates.cat/ca/"> Pirates de Catalunya </a>
           </h3>
         </div>
       </div>

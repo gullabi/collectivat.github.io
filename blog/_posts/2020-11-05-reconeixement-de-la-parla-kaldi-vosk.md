@@ -46,7 +46,7 @@ Després de la introducció dels conceptes rellevants, la sessió seguirà amb e
 
 ### Imparteix:
 * _Baybars Kulebi:_ Enginyer de dades amb experiència especialitzada en l’àmbit lingüístic, desenvolupador de Catotron.
-* _Cieran O'Reill ([ccoreily](https://github.com/ccoreilly)):_ Desenvolupador de la comunitat de programari lliure, contribuïdor als projectes de reconeixement de la parla.
+* _Ciaran O'Reilly ([ccoreilly](https://github.com/ccoreilly)):_ Desenvolupador de la comunitat de programari lliure, contribuïdor als projectes de reconeixement de la parla.
 
 
 ### Com apuntar-se:
