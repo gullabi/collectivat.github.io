@@ -9,7 +9,8 @@ summary: Thanks to a project supported by the Department of Culture of the Catal
 ---
 
 Here you can find all the information related to Catotron, the open and free
-text-to-speech system in Catalan that has been trained with neural networks.
+text-to-speech system in Catalan that has been trained with deep neural networks.
+Our Interspeech 2020 conference paper detailing the implementation process can be accessed from [here][paper]. 
 The open source code is available in github [here][catotron] and [here][catotron-cpu]
 and the models can be downloaded here.
 
@@ -236,7 +237,7 @@ Generalitat de Catalunya.
 
 <img src="/img/logo_generalitat.png" width="400"/>
 
-[catotron]: https://github.com/CollectivaT-dev/tacotron2
+[catotron]: https://github.com/CollectivaT-dev/catotron
 [catotron-cpu]: https://github.com/CollectivaT-dev/catotron-cpu
 [nvidia]: https://github.com/NVIDIA/tacotron2
 [waveglow]: https://github.com/NVIDIA/waveglow/
@@ -250,3 +251,4 @@ Generalitat de Catalunya.
 [waveglow_model]: https://drive.google.com/open?id=1WsibBTsuRg_SF2Z6L6NFRTT-NjEy1oTx
 [melgan_model]: https://drive.google.com/file/d/1U3LeuaMIVoRvMvfwlHjsRJPWhgTzeIBh
 [demo]: http://catotron.collectivat.cat/
+[paper]: /etc/INTERSPEECH_2020_Catotron.pdf
