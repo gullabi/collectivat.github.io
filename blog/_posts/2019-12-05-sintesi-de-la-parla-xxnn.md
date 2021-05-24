@@ -9,8 +9,7 @@ summary: Gràcies al projecte subvencionat pel Departament de Cultura, vam entre
 ---
 
 Aquí podeu trobar tota la informació pertinent a Catotron, síntesi de la parla
-obert en català, entrenat amb xarxes neuronals. El codi està al github [aquí][catotron]
-i [aquí][catotron-cpu]; i els models són descarregables aquí.
+obert en català, entrenat amb xarxes neuronals. El nostre article de la conferència Interspeech 2020, que detalla el procés d'implementació, és accessible [aquí][paper]. El codi està al github [aquí][catotron] i [aquí][catotron-cpu]; i els models són descarregables aquí.
 
 * La veu femenina de Catotron: Ona [[descarregar]][ona]
 * La veu masculina de Catotron: Pau [[descarregar]][pau]
@@ -243,7 +242,7 @@ Generalitat de Catalunya.
 
 <img src="/img/logo_generalitat.png" width="400"/>
 
-[catotron]: https://github.com/CollectivaT-dev/tacotron2
+[catotron]: https://github.com/CollectivaT-dev/catotron
 [catotron-cpu]: https://github.com/CollectivaT-dev/catotron-cpu
 [nvidia]: https://github.com/NVIDIA/tacotron2
 [waveglow]: https://github.com/NVIDIA/waveglow/
@@ -257,3 +256,5 @@ Generalitat de Catalunya.
 [waveglow_model]: https://drive.google.com/open?id=1WsibBTsuRg_SF2Z6L6NFRTT-NjEy1oTx
 [melgan_model]: https://drive.google.com/file/d/1U3LeuaMIVoRvMvfwlHjsRJPWhgTzeIBh
 [demo]: http://catotron.collectivat.cat/
+[paper]: /etc/INTERSPEECH_2020_Catotron.pdf
+
