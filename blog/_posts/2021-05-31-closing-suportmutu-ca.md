@@ -47,11 +47,11 @@ We have considered a number of factors to decide which languages to launch. Our 
 
 Although machine translation has progressed greatly in the last years, it is no way close to being perfect. To assess the usability in our case, we have performed preliminary evaluations of available machine translation engines. We did this to predict how much correction work the automatic translations would need in these languages, especially because the information disseminated was important; even crucial where there could not have been any margin for the smallest error or misunderstanding. We prepared a public survey with 5 messages and their translations in Urdu and Arabic. We asked the participants to rate the general translation quality and to what scale the message was transmitted, both on a scale of 5, 1 being worst and 5 being perfect. We obtained 4 responses for Arabic and 2 for Urdu. 
 
-|         |  Avg. translation quality  |  Avg. message transmitted  |
+|         |  Mtj. qualitat traducció   |   Mtj. missatge transmès   |
 |---------|:--------------------------:|:--------------------------:|
-| Urdu    |   1.90                     |    1.80                    |
-| Arabic  |   2.80                     |    3.55                    |
-| AVERAGE |   3.10                     |    3.31                    |
+| urdú    |   1.90                     |    1.80                    |
+| àrab    |   2.80                     |    3.55                    |
+| MITJANA |   3.10                     |    3.31                    |
 
 The scores were slightly higher than average for Arabic and way poorer for Urdu. Looking at this results, we have confirmed our idea that human verification was essential.
 
@@ -72,9 +72,9 @@ We have personally contacted the administrators of eleven neighborhood channels 
 
 Below table summarizes the translation work done within the scope of the project: From April 21, when the first channel is opened, until June 30, when the project was terminated.
 
-|                     | Messages received |           | Messages/words translated |         |
+|                     |  Missatges rebuts |           | Missatges/paraules traduïts |         |
 |--------------------:|:-----------------:|:---------:|:-------------------------:|:-------:|
-|                     |                   |  Arabic   |          Chinese          |   Urdu  |
+|                     |                   |    àrab   |           xinès           |  urdú   |
 |        SuportGracia |         91        |  27/2124  |          16/1282          | 13/1575 |
 |            SalutCat |         90        |   12/973  |          18/1375          | 17/1043 |
 | XarxadeSuportVerdum |        115        |  26/1938  |          24/2177          |    -    |
