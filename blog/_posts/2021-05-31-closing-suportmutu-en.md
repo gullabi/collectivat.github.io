@@ -33,7 +33,7 @@ The whole process is managed by our Telegram bot: _SuportMuTuBot_. Once a messag
 
 SuportMuTu is a people-facing and people-powered technology. It places human in the centre by making the whole process dependent on human verifiers. Message logistics and artificial intelligence is used only to make the process more efficient and easily-manageable by the volunteers. 
 
-The animation below demonstrates the functioning of a volunteer group communicating with SuportMuTuBot. SuportMuTuBot redirects the messages to the volunteer group as tasks and they can be taken by any volunteer who is available. Volunteers communicate with the bot with simple commands. For example typing “/task” lists the messages pending translation. “/take 1” is used to take the task number 1 and get its machine translated version. “/send” verifies the translation and SuportMuTuBot takes care of disseminating it to the correct channel.
+The animation below demonstrates the functioning of a volunteer group communicating with SuportMuTuBot. SuportMuTuBot redirects the messages to the volunteer group as tasks and they can be taken by any volunteer who is available. Volunteers communicate with the bot with simple commands. For example typing “/task” lists the messages pending translation. “/take 29” is used to take the task number 29 and get its machine translated version. “/send” verifies the translation and SuportMuTuBot takes care of disseminating it to the correct channel.
 
 <p align="center"><a href="/img/blog/2020/suportMuTu_short.gif"><img src="/img/blog/2020/suportMuTu_short.gif" alt="SuportMuTu workflow" width="40%"></a></p>
 
