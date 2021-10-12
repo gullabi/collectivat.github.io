@@ -37,13 +37,13 @@ El següent mini-vídeo mostra el funcionament d'un grup de voluntàries que com
 
 <p align="center"><a href="/img/blog/2020/suportMuTu_short.gif"><img src="/img/blog/2020/suportMuTu_short.gif" alt="SuportMuTu workflow" width="40%"></a></p>
 
-## Project implementation
+## Implementació del projecte
 
 SuportMuTu project was designed in the first weeks of the confinement and funded by the crowdsourced Cooperative Social and Health Emergency Fund ([Fons Cooperatiu per l'Emergència Social i Sanitària][goteo]). We have dedicated the first weeks of the project in prototyping and populating candidate groups and channels. In our research, we have detected 40 solidarity networks organized in various neighbourhoods of Barcelona. The complete list of these groups and channels is accessible from [DADESS][dadess].
 
 We have considered a number of factors to decide which languages to launch. Our principal factor was the number of speakers we could reach with each language. We have listed the most numerous foreigner populations of Barcelona and listed those who have national language(s) of non-European and non-Latin-origin. According to the [municipality's report][ajuntamentreport], these in the order of population were: Chinese (21,658), Pakistani (20,643), Moroccan (14,418), Filipino (9,439), British (8,517) and German (7,739). Limiting the initial scope to three languages, we have decided to launch with the most spoken official languages of these populations: Mandarin Chinese, Urdu and Arabic. 
 
-### Evaluating quality of machine translation 
+### Avaluar la qualitat de la traducció automàtica 
 
 Although machine translation has progressed greatly in the last years, it is no way close to being perfect. To assess the usability in our case, we have performed preliminary evaluations of available machine translation engines. We did this to predict how much correction work the automatic translations would need in these languages, especially because the information disseminated was important; even crucial where there could not have been any margin for the smallest error or misunderstanding. We prepared a public survey with 5 messages and their translations in Urdu and Arabic. We asked the participants to rate the general translation quality and to what scale the message was transmitted, both on a scale of 5, 1 being worst and 5 being perfect. We obtained 4 responses for Arabic and 2 for Urdu. 
 
@@ -61,14 +61,14 @@ The scores were slightly higher than average for Arabic and way poorer for Urdu.
 
 All volunteers were given at least a one-hour-practical training on how to interact with SuportMuTuBot. They continued self-training and practicing in a sandbox Telegram channel until they felt comfortable with the interface and migrated to the corresponding SuportMuTu community group. During this time we made sure to clear their doubts regarding the functioning. We also updated the interface according to their comments and needs, if and when possible, to make it more user friendly.
 
-### SuportMuTu channels
+### Canals SuportMuTu
 
 We have personally contacted the administrators of eleven neighborhood channels asking for their approval in amplifying their channels with SuportMuTu. We received positive responses from two of them, which were good enough to kickstart the project: [_SuportMutu Gràcia_ (@suportgracia)][suportgracia] and [_Xarxa de Suport Verdum_ (@XarxadeSuportVerdum)][XarxadeSuportVerdum]. We also created versions of the SalutCat channel in three languages. Below is the timeline of launch dates of all SuportMuTu channels:
 
 <p align="center"><img src="/img/blog/2021/suportmutu_timeline_en.png" alt="SuportMuTu timeline" width="70%"></p>
 
 
-## Results and reflections
+## Resultats i reflexions
 
 Below table summarizes the translation work done within the scope of the project: From April 21, when the first channel is opened, until June 30, when the project was terminated.
 
@@ -84,7 +84,7 @@ We can reflect on the effectiveness of SuportMuTu in three ways: Functionality o
 
 Volunteers have reported that working on already-made translations sped up greatly the translation work that needed to be done. Also, we noticed that the simple interface was very easy to pick up as there were very few times where technical intervention was necessary. 
 
-### Challenges
+### Reptes
 
 First challenge in the project was convincing city’s local communities to integrate their channels with SuportMuTu. The ones that showed interest like Gràcia and Nou Barris were very keen in collaborating from the beginning. However, we were surprised to see a complete lack of interest by groups of districts that are known to have culturally diverse populations like El Raval and Badalona. We realized through this process that not all communities were actually interested in increasing the linguistic accessibility of their communication channels, or we can assume that they had other means more effective than SuportMutu extension. 
 
@@ -96,7 +96,7 @@ Second reason is related with technical obstacles. Within the timeframe availabl
 
 Finally but most importantly, we believe that the existing gaps between diverse communities made it unattractive for them to integrate to spaces they have little voice in. SuportMuTu showed as an experiment that linguistic accessibility is not the only obstacle in bonding the connection between communities of diverse origins. It would have been naive to expect that a technological tool would be able to organize and transform certain realities of the society without a popular activist support. 
 
-## Conclusion
+## Conclusions
 
 SuportMuTu has been a unique way of response in a very unique time demanded by the pandemic. For many, the introduction of confinement measures has been a radical change to the digital realm –be it for working, studying, organizing or getting informed. SuportMuTu showed that this change could be made in a way that doesn’t make language a barrier and even serve to create bonds in different sections of the community. We have set up a volunteer network powered by a digital infrastructure in a matter of weeks to address a very specific problem. Although it hasn’t reached a grand impact, we believe that it could be a blueprint for culturally-aware technology development. We are inviting developers, public institutions and activists to collaborate and apply in their own context. For that, we open-source our codebase in [Github][github].
 
