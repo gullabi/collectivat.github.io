@@ -33,7 +33,7 @@ Tot el procés es gestiona pel nostre bot de Telegram: _SuportMuTuBot_. Quan un 
 
 SuportMuTu és una tecnologia orientada a i impulsada per la gent. Posa les persones al centre i fa que tot el procés depengui de la verificació humana. La logística de missatgeria i la IA s’utilitzen només per fer el procés més eficient i gestionable de manera fàcil per les voluntàries. 
 
-El següent mini-vídeo mostra el funcionament d'un grup de voluntàries que comuniquen amb SuportMuTuBot. SuportMuTuBot redirigeix els missatges com a tasques (_tasks_) al grup de voluntàries i qualsevol membre disponible pot encarregar-se d'una tasca que vulgui. El grup voluntari comunica amb el bot via ordres bàsiques i senzilles. Per exemple, escriure “/task” (tasques) llista els missatges pendents de traducció. “/take 1” (agafa l'1) s'utilitza per agafar la tasca número 1 i rebre la traducció automàtica. “/send” (envia) verifica la traducció i SuportMuTuBot s'encarrega de difondre-la al canal corresponent.
+El següent mini-vídeo mostra el funcionament d'un grup de voluntàries que comuniquen amb SuportMuTuBot. SuportMuTuBot redirigeix els missatges com a tasques al grup de voluntàries i qualsevol membre disponible pot encarregar-se d'una tasca que vulgui. El grup comunica amb el bot via ordres bàsiques i senzilles. Per exemple, escriure “/task” (tasques) llista els missatges pendents de traducció. “/take 29” (agafar 29) s'utilitza per agafar la tasca número 29 i rebre la traducció automàtica. “/send” (enviar) verifica la traducció i SuportMuTuBot s'encarrega de difondre-la al canal corresponent.
 
 <p align="center"><a href="/img/blog/2020/suportMuTu_short.gif"><img src="/img/blog/2020/suportMuTu_short.gif" alt="SuportMuTu workflow" width="40%"></a></p>
 
