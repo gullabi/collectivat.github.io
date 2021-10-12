@@ -4,26 +4,26 @@ title: "SuportMuTu: La resposta de Col·lectivaT a la pandèmia"
 ref: suportmutuclose
 thumbnail: /img/blog/2020/suportmutu.png
 lang: ca
-summary: "In this post, we will report on our response to the Covid-19 pandemic in Barcelona with our project SuportMuTu. SuportMuTu aimed to extend the reach of information and solidarity channels during the strictest period of the pandemic, with artificial intelligence-powered collaborative translation."
+summary: "En aquesta entrada, presentarem la nostra resposta a la pandèmia Covid-19 a Barcelona via el nostre projecte SuportMuTu. SuportMuTu pretenia ampliar l’abast dels canals d’informació i solidaritat durant el període més estricte de la pandèmia, amb una traducció col·laborativa impulsada per la intel·ligència artificial."
 ---
 
-_In this post, we will report on our response to the Covid-19 pandemic in Barcelona with our project SuportMuTu. SuportMuTu aimed to extend the reach of information and solidarity channels during the strictest period of the pandemic, with artificial intelligence-powered collaborative translation._
+_En aquesta entrada, presentarem la nostra resposta a la pandèmia Covid-19 a Barcelona via el nostre projecte SuportMuTu. SuportMuTu pretenia ampliar l’abast dels canals d’informació i solidaritat durant el període més estricte de la pandèmia, amb una traducció col·laborativa impulsada per la intel·ligència artificial._
 
 <p align="center"><img src="/img/blog/2020/suportmutu_landscape.png" alt="SuportMuTu logo" width="70%"></p>
 
-## Why SuportMuTu?
+## Per i per a què SuportMuTu?
 
-It has been over a year now since the harsh reality of the Coronavirus pandemic has entered our lives. In order to avoid a total system collapse, the society adapted to extreme measures taken on local and global level. However, we have seen that many times the measures developed didn’t have the same effects on different sectors of the society. One of them is marginalized populations who have faced increasing socio-economic and linguistic obstacles in accessing information, healthcare and social services. 
+Ja fa més d’un any que la dura realitat de la pandèmia del coronavirus ha entrat a les nostres vides. Per evitar un col·lapse total del sistema, la societat va adaptar-se a les extremes mesures adoptades a nivell local i global. No obstant això, hem vist que sovint les mesures no van tenir els mateixos efectes en diferents sectors de la societat. Un d’aquells sectors són els col·lectius marginats, que han afrontat cada vegada més obstacles socioeconòmics i lingüístics a l'hora d'accedir a la informació, la salut i els serveis socials. 
 
-With the social distancing measures, both official and community networks have strengthened their presence in the digital domain. For example, health authorities have augmented the use of informative channels and chatbots in instant messaging services like Telegram and Whatsapp. Neighbourhood support networks have also adapted by moving their communications online for building solidarity, helping people voice their needs and to organize locally. 
+Amb les mesures de confinament, tant les xarxes oficials com les comunitàries van reforçar la seva presència al domini digital. Per exemple, les autoritats sanitàries van augmentar l’ús dels canals informatius i bots de xat en serveis de missatgeria instantània, com Telegram i Whatsapp. Les xarxes de suport als barris també van adaptar-s'hi, traslladant les comunicacions a la línia, per consolidar la solidaritat, ajudar la gent a expressar les seves necessitats i organitzar-se a nivell local.
 
-__Col·lectivaT__ is a cooperative founded by persons of migrant origin. Our focus has always been on exclusion areas existing in the society, where, most of the time, the realities of the marginalized are made invisible. Looking at these newly created digital spaces, we haven’t taken much time to detect the possible difficulties that citizens of migrant origins could face in accessing them. The main language in these channels is Catalan, which is not always dominated by persons of non-European and non-American origin. We believe that different linguistic backgrounds shouldn’t be a barrier in accessing knowledge and supporting each other in a time of crisis. 
+__Col·lectivaT__ és una cooperativa constituïda per persones d'origen migrant. El nostre enfocament sempre s’ha centrat en les àrees d’exclusió existents a la societat, on, la majoria de les vegades, les realitats dels grups marginats són invisibilitzades. Veient aquests espais digitals recents, no vam tardar gaire en detectar les possibles dificultats que la ciutadania d’origen migrant podria trobar-se per accedir-hi. La llengua principal d’aquests canals és el català, una llengua no sempre dominada per les persones d'origen estranger. Creiem que els diferents origins lingüístics no han de ser una barrera per accedir al coneixement i per donar-se suport mútu en temps de crisi. 
 
-## What is SuportMuTu?
+## Què és SuportMuTu?
 
-SuportMuTu aimed to guarantee the accessibility of Catalonia’s health protocol channels and Barcelona’s neighbourhood solidarity groups into some of the most common non-Latin migrant languages of Barcelona: Arabic, Urdu and Chinese. By combining AI-based language technology with a volunteer network, SuportMuTu helped serve Telegram channels in these languages in parallel to their original versions so that everyone can get informed and support each other during the lockdown. 
+SuportMuTu pretenia garantir l'accessibilitat dels canals de protocol sanitari de Catalunya i dels grups de solidaritat veïnal de Barcelona, per a algunes de les llengües no llatines més comunes en aquesta ciutat: àrab, urdú i xinès. En combinar la tecnologia lingüística basada en la intel·ligència artificial (IA) amb una xarxa de persones voluntàries, SuportMuTu va ajudar a oferir els canals de Telegram en aquestes llengues en paral·lel a les seves versions originals en català o castellà, perquè tothom pogués informar-se i donar suport mútu durant el confinament.
 
-## How does it work?
+## Com funciona?
 
 The diagram below demonstrates a sample process of the SuportMuTu framework. In this example, you see the path of a message published in [_@SalutCat_, the official channel of Catalonia’s Health Department][salutcat], reaching to the Arabic speaking public. 
 
