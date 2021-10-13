@@ -157,9 +157,9 @@ services:
 
 portfolio:
   intro:
-    en: "Selection of projects carried out by Col·lectivaT:"
-    ca: "Selecció dels projectes realitzats per Col·lectivaT:"
-    es: "Selección de los proyectos realizados por Col·lectivaT:"
+    en: "Selection of projects carried out by Col·lectivaT"
+    ca: "Selecció dels projectes realitzats per Col·lectivaT"
+    es: "Selección de los proyectos realizados por Col·lectivaT"
 
 products:
   tech:
