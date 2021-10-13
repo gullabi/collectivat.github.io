@@ -27,7 +27,7 @@ SuportMuTu pretenia garantir l'accessibilitat dels canals de protocol sanitari d
 
 El següent diagrama mostra un exemple del procés a la infraestructura del SuportMuTu. Hi veiem la ruta d'un missatge publicat a [_@SalutCat_, el canal oficial de Departament de Salut de Catalunya][salutcat], arribant al públic de parla àrab. 
 
-<p align="center"><img src="/img/blog/2021/SuportMuTu_diagram.png" alt="SuportMuTu diagram" width="70%"></p>
+<p align="center"><img src="/img/blog/2021/SuportMuTu_diagram_ca.png" alt="SuportMuTu diagram" width="70%"></p>
 
 Tot el procés es gestiona pel nostre bot de Telegram: _SuportMuTuBot_. Quan un missatge es publica al canal SalutCat, SuportMuTuBot l'agafa automàticament. A continuació, el missatge es tradueix a l’àrab mitjançant un sistema de traducció automàtica. Per evitar qualsevol error en la traducció, el missatge traduït automàticament es dirigeix al grup de Telegram de la comunitat voluntària de parla àrab per a la verificació. Poden acceptar la traducció automàtica tal com és, o bé poden corregir-la i enviar-la de nou a SuportMuTuBot. Llavors, SuportMuTuBot dirigeix la traducció verificada a la versió àrab del canal SalutCat, afegint-hi un enllaç del missatge original. Finalment, el missatge en àrab es converteix en àudio mitjançant un sistema de síntesi de veu perquè també es pugui escoltar. 
 

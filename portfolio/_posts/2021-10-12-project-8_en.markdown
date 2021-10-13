@@ -1,19 +1,19 @@
 ---
 title: SuportMuTu
-subtitle: Tecnologia
+subtitle: Language technology
 ref: SuportMuTu
 lang: en
 layout: default
-modal-id: suportmutu
+modal-id: 8
 date: 2021-10-12
-img: suportmutuSquare.png
+img: suportmutuBanner.png
 thumbnail: suportmutuSquare_thumbnail.png
 alt: image-alt
 project-date: May 2019
 client:
-  name: Descontrol Editorial
-  link: https://descontrol.cat/
+  name: Fons Cooperatiu ESS
+  link: https://ca.goteo.org/project/fons-cooperatiu-front-l-emergencia-social-i-sanita
 category: Technology
-description: "SuportMuTu aimed to guarantee the accessibility of Catalonia’s health protocol channels and Barcelona’s neighbourhood solidarity groups into some of the most common non-Latin migrant languages of Barcelona: Arabic, Urdu and Chinese. By combining AI-based language technology with a volunteer network, SuportMuTu helped serve Telegram channels in these languages in parallel to their original versions so that everyone can get informed and support each other during the lockdown. SuportMuTu is a people-facing and people-powered technology. <p>SuportMuTu places human in the centre by making the whole process dependent on human verifiers. Message logistics and artificial intelligence is used only to make the process more efficient and easily-manageable by the volunteers.<p>For more information, refer to our <a href='______'>blogpost</a>."
+description: "SuportMuTu aimed to guarantee the accessibility of Catalonia’s health protocol channels and Barcelona’s neighbourhood solidarity groups into some of the most common migrant languages of Barcelona: Arabic, Urdu and Chinese. By combining AI-based language technology with a volunteer network, SuportMuTu helped serve Telegram channels in these languages in parallel to their original versions so that everyone can get informed and support each other during the lockdown. <p>For more information, refer to our <a href='/blog/2021-05-31-closing-suportmutu-en/'>blogpost</a>."
 
 ---

@@ -27,7 +27,7 @@ SuportMuTu aimed to guarantee the accessibility of Catalonia’s health protocol
 
 The diagram below demonstrates a sample process of the SuportMuTu framework. In this example, you see the path of a message published in [_@SalutCat_, the official channel of Catalonia’s Health Department][salutcat], reaching to the Arabic speaking public. 
 
-<p align="center"><img src="/img/blog/2021/SuportMuTu_diagram.png" alt="SuportMuTu diagram" width="70%"></p>
+<p align="center"><img src="/img/blog/2021/SuportMuTu_diagram_en.png" alt="SuportMuTu diagram" width="70%"></p>
 
 The whole process is managed by our Telegram bot: _SuportMuTuBot_. Once a message is published in SalutCat channel, SuportMuTuBot picks it automatically. Next, the message is translated into Arabic using a machine translation system. In order to avoid any errors in the translation, automatically translated message is directed to the community group of volunteer Arabic speakers for verification. They can either accept this translation as it is, or edit and send it back to SuportMuTuBot. SuportMuTuBot then directs the verified translation into the Arabic version of SalutCat channel, adding a link to the original message. Finally, the message is converted to audio using a speech synthesis system so that it can be listened to as well. 
 
