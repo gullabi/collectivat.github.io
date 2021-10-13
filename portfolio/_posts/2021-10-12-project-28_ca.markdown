@@ -5,7 +5,7 @@ ref: SuportMuTu
 lang: en
 layout: default
 modal-id: suportmutu
-date: 2021-10-13
+date: 2021-10-12
 img: suportmutuSquare.png
 thumbnail: suportmutuSquare_thumbnail.png
 alt: image-alt
