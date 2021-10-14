@@ -46,10 +46,10 @@ header:
     en: "Col·lectivaT is a non-profit cooperative formed by knowledge workers that provides all-around services of cultural translation, research and technological services for collaborative and linguistic work." #To provide an all-around service, our work is based on three main axes: Language, Technology, Research and consultancy. The linguistic axis seeks to overcome language barriers, thus, facilitate communication and access to information -for now- about Turkey and Kurdistan. The technological axis provides the necessary infrastructure for language work and facilitates repetitive tasks in this work, such as transcription or subtitling; and lastly, the consultation axis includes cultural translation jobs that respond to the demands of the most elaborate deep activities such as academic or journalistic research on the area.
     ca: "Col·lectivaT és una cooperativa sense ànim de lucre formada per professionals de l'àmbit del coneixement que proporciona serveis integrals de traducció cultural, i de recerca i serveis tecnològics, per al treball col·laboratiu i lingüístic." #Amb l’objectiu d’oferir un servei integral, la nostra feina es basa en tres eixos principals: llengua, tecnologia, i recerca i consultoria. L’eix lingüístic pretén superar les barreres lingüístiques; és a dir, facilitar la comunicació i l’accés a la informació —ara per ara— sobre Turquia i el Kurdistan. L’eix tecnològic proporciona la infraestructura necessària per a la realització de feines lingüístiques així com per a la facilitació de tasques mecàniques d’aquest àmbit, com ara la transcripció i la subtitulació. Finalment, l’eix de consultoria i recerca inclou feines de traducció cultural que responen a les demandes d’activitats més elaborades, com per exemple la investigació acadèmica o periodística sobre el terreny.
     es: "Col·lectivaT es una cooperativa sin ánimo de lucro formada por profesionales del ámbito del conocimiento que proporciona servicios integrales de traducción cultural, y de investigación y servicios tecnológicos para el trabajo colaborativo y lingüístico." #Con el objetivo de ofrecer un servicio integral, nuestro trabajo se basa en tres ejes principales: lengua, tecnología, e investigación y consultoría. El eje lingüístico pretende superar las barreras lingüísticas, es decir, facilitar la comunicación y el acceso a la información —por el momento— sobre Turquía y Kurdistán. El eje tecnológico proporciona la infraestructura necesaria para la realización de trabajos lingüísticos, así como para la facilitación de tareas repetitivas en este campo, como la transcripción y la subtitulación. Por último, el eje de consultoría e investigación incluye trabajos de traducción cultural que responden a las demandas de actividades más elaboradas, como la investigación académica o periodística sobre el terreno.
-  intro:
-    en:
-    ca:
-    es:
+  # intro:
+  #   en: "Technology · Territory · Translation"
+  #   ca: "Tecnologia · Territori · Traducció"
+  #   es: "Tecnología · Territorio · Traducción"
   services:
     en: Services
     ca: Serveis
@@ -455,6 +455,8 @@ social:
     url: https://twitter.com/collectivat
   - title: github
     url: https://github.com/collectivat
+  - title: linkedin
+    url: https://www.linkedin.com/company/collectivat
 
 # Postal address (add as many lines as necessary)
 address:
