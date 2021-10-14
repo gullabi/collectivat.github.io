@@ -33,7 +33,7 @@ The whole process is managed by our Telegram bot: _SuportMuTuBot_. Once a messag
 
 SuportMuTu is a people-facing and people-powered technology. It places human in the centre by making the whole process dependent on human verifiers. Message logistics and artificial intelligence is used only to make the process more efficient and easily-manageable by the volunteers. 
 
-The animation below demonstrates the functioning of a volunteer group communicating with SuportMuTuBot. SuportMuTuBot redirects the messages to the volunteer group as tasks and they can be taken by any volunteer who is available. Volunteers communicate with the bot with simple commands. For example typing “/task” lists the messages pending translation. “/take 29” is used to take the task number 29 and get its machine translated version. “/send” verifies the translation and SuportMuTuBot takes care of disseminating it to the correct channel.
+The animation below demonstrates the functioning of a volunteer group communicating with SuportMuTuBot. SuportMuTuBot redirects the messages to the volunteer group as tasks and they can be taken by any volunteer who is available. Volunteers communicate with the bot with simple commands. For example typing `/task` lists the messages pending translation. `/take 29` is used to take the task number 29 and get its machine translated version. `/send` verifies the translation and SuportMuTuBot takes care of disseminating it to the correct channel.
 
 <p align="center"><a href="/img/blog/2020/suportMuTu_short.gif"><img src="/img/blog/2020/suportMuTu_short.gif" alt="SuportMuTu workflow" width="40%"></a></p>
 
@@ -47,11 +47,41 @@ We have considered a number of factors to decide which languages to launch. Our 
 
 Although machine translation has progressed greatly in the last years, it is no way close to being perfect. To assess the usability in our case, we have performed preliminary evaluations of available machine translation engines. We did this to predict how much correction work the automatic translations would need in these languages, especially because the information disseminated was important; even crucial where there could not have been any margin for the smallest error or misunderstanding. We prepared a public survey with 5 messages and their translations in Urdu and Arabic. We asked the participants to rate the general translation quality and to what scale the message was transmitted, both on a scale of 5, 1 being worst and 5 being perfect. We obtained 4 responses for Arabic and 2 for Urdu. 
 
-|         |  Avg. translation quality  |  Avg. message transmitted  |
+
+<!-- |         |  Avg. translation quality  |  Avg. message transmitted  |
 |---------|:--------------------------:|:--------------------------:|
 | Urdu    |   1.90                     |    1.80                    |
 | Arabic  |   2.80                     |    3.55                    |
-| AVERAGE |   3.10                     |    3.31                    |
+| AVERAGE |   3.10                     |    3.31                    | -->
+
+<center>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lqy6"></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Avg. translation quality</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Avg. message transmitted</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lqy6">Urdu</td>
+    <td class="tg-c3ow">1.90</td>
+    <td class="tg-c3ow">1.80</td>
+  </tr>
+  <tr>
+    <td class="tg-lqy6">Arabic</td>
+    <td class="tg-c3ow">2.80</td>
+    <td class="tg-c3ow">3.55</td>
+  </tr>
+  <tr>
+    <td class="tg-lqy6"><span style="font-weight:bold">AVERAGE</span></td>
+    <td class="tg-c3ow">3.10</td>
+    <td class="tg-c3ow">3.31</td>
+  </tr>
+</tbody>
+</table>
+</center>
 
 The scores were slightly higher than average for Arabic and way poorer for Urdu. Looking at this results, we have confirmed our idea that human verification was essential.
 
@@ -72,13 +102,65 @@ We have personally contacted the administrators of eleven neighborhood channels 
 
 Below table summarizes the translation work done within the scope of the project: From April 21, when the first channel is opened, until June 30, when the project was terminated.
 
-|                     | Messages received |           | Messages/words translated |         |
+<!-- |                     | Messages received |           | Messages/words translated |         |
 |--------------------:|:-----------------:|:---------:|:-------------------------:|:-------:|
 |                     |                   |  Arabic   |          Chinese          |   Urdu  |
 |        SuportGracia |         91        |  27/2124  |          16/1282          | 13/1575 |
 |            SalutCat |         90        |   12/973  |          18/1375          | 17/1043 |
 | XarxadeSuportVerdum |        115        |  26/1938  |          24/2177          |    -    |
-|               TOTAL |        296        |           |          153/12487        |         |
+|               TOTAL |        296        |           |          153/12487        |         | -->
+
+<center>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dvpl"></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Messages received</span></th>
+    <th class="tg-c3ow" colspan="3"><span style="font-weight:bold">Messages/words translated </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dvpl"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-dvpl">Arabic </td>
+    <td class="tg-c3ow">Chinese</td>
+    <td class="tg-0pky">Urdu</td>
+  </tr>
+  <tr>
+    <td class="tg-dvpl">SuportGracia</td>
+    <td class="tg-c3ow">91</td>
+    <td class="tg-dvpl">27/2124</td>
+    <td class="tg-c3ow">16/1282</td>
+    <td class="tg-0pky">13/1575</td>
+  </tr>
+  <tr>
+    <td class="tg-dvpl">SalutCat</td>
+    <td class="tg-c3ow">90</td>
+    <td class="tg-dvpl">12/973</td>
+    <td class="tg-c3ow">18/1375</td>
+    <td class="tg-0pky">17/1043</td>
+  </tr>
+  <tr>
+    <td class="tg-dvpl">XarxadeSuportVerdum</td>
+    <td class="tg-c3ow">115</td>
+    <td class="tg-dvpl">26/1938</td>
+    <td class="tg-c3ow">24/2177</td>
+    <td class="tg-c3ow">-</td>
+  </tr>
+  <tr>
+    <td class="tg-dvpl"><span style="font-weight:bold">TOTAL</span></td>
+    <td class="tg-c3ow">296</td>
+    <td class="tg-dvpl">153/12487</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+</tbody>
+</table>
+
+</center>
+
+
 
 We can reflect on the effectiveness of SuportMuTu in three ways: Functionality of the system, volunteer experience and community reach. We saw that SuportMuTuBot functioned very well in informing volunteers of the incoming messages. We saw an overall translation rate of 51%. Although it has to be noted that some messages were purposefully not translated due to lack of text (videos, photos), expiration, repetition and/or irrelevance.
 
@@ -122,3 +204,13 @@ For questions and collaboration please leave us a note at _info-at-collectivat.c
 [ajuntamentreport]: https://ajuntament.barcelona.cat/premsa/wp-content/uploads/2019/07/pobest19.pdf
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>

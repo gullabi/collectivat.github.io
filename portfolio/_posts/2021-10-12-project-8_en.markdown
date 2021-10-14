@@ -11,6 +11,7 @@ thumbnail: suportmutuSquare_thumbnail.png
 alt: image-alt
 project-date: May 2019
 client:
+  type: Sponsor
   name: Fons Cooperatiu ESS
   link: https://ca.goteo.org/project/fons-cooperatiu-front-l-emergencia-social-i-sanita
 category: Technology

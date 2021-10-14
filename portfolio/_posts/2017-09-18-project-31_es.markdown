@@ -11,6 +11,7 @@ thumbnail: ivardia-thumbnail.png
 alt: image-alt
 project-date: January 2017
 client:
+  type: Cliente
   name: Ivardia
   link: http://www.ivardia.org/portfolio/el-sol-del-nord/
 category: Language

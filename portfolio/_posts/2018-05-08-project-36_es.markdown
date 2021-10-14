@@ -11,6 +11,7 @@ thumbnail: aditaller-thumbnail.png
 alt: image-alt
 project-date: May 2018
 client:
+  type: Cliente
   name: Aula d'Idiomes
   link: https://auladidiomes.wordpress.com/
 category: Consulting

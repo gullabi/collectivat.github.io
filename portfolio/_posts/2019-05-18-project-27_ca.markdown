@@ -11,6 +11,7 @@ thumbnail: Arrestados-thumbnail.png
 alt: image-alt
 project-date: maig 2019
 client:
+  type: Client
   name: Descontrol Editorial
   link: https://descontrol.cat/
 category: Llengua
