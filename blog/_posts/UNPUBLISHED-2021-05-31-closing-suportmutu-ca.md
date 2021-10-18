@@ -175,11 +175,11 @@ La segona raó té a veure amb els obstacles tècnics. En el termini disponible,
 
 Finalment, però la raó més important, creiem que per les bretxes existents entre sí, les comunitats diverses trobaven poc atractiu intergrar-se als espais on tenien poca veu representada. SuportMuTu com a experiment/prova va demostrar que l'accessibilitat lingüística no és l'únic obstacle per vincular les comunitats d'orígens diversos. En tot cas, seria ingenu esperar que una eina tecnològica tingués la capacitat d'organitzar i transformar certes realitats de la societat, sense un suport activista popular. 
 
-## Conclusions
+## Conclusió
 
-SuportMuTu has been a unique way of response in a very unique time demanded by the pandemic. For many, the introduction of confinement measures has been a radical change to the digital realm –be it for working, studying, organizing or getting informed. SuportMuTu showed that this change could be made in a way that doesn’t make language a barrier and even serve to create bonds in different sections of the community. We have set up a volunteer network powered by a digital infrastructure in a matter of weeks to address a very specific problem. Although it hasn’t reached a grand impact, we believe that it could be a blueprint for culturally-aware technology development. We are inviting developers, public institutions and activists to collaborate and apply in their own context. For that, we open-source our codebase in [Github][github].
+SuportMuTu ha sigut una forma singular de resposta en un moment molt singular exigit per la pandèmia. Per moltes persones, les mesures de confinament han sigut un canvi radical cap a l'àmbit digital -ja sigui per treballar, estudiar, organitzar-se o informar-se. SuportMuTu va demostrar que aquest canvi es podia fer d'una manera que la llengua no havia de ser una barrera i, fins i tot, podia servir per crear vincles entre diferents sectors de la comunitat. Vam crear una xarxa de voluntàries alimentada per una infraestructura digital en qüestió de setmanes, per tractar un problema molt específic. Tot i que no ha tingut un gran impacte, creiem que pot ser un esbós per a desenvolupament tecnològic culturalment conscient. Animem les persones desenvolupadores, les institucions públiques i les activistes a col·laborar i aplicar-ho en el seu propi context. Per a això, compartim la font de codi obert de la nostra base en [Github][github].
 
-For questions and collaboration please leave us a note at _info-at-collectivat.cat_. 
+Per dubtes, preguntes o col·laboració, sisplau escriviu-nos a _info-arrova-collectivat-punt-cat_. 
 
 [goteo]: https://ca.goteo.org/project/fons-cooperatiu-front-l-emergencia-social-i-sanita
 [github]: https://github.com/CollectivaT-dev/suport_mt
