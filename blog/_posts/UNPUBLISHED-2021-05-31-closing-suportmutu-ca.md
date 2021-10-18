@@ -13,7 +13,7 @@ _En aquesta entrada, presentarem la nostra resposta a la pandèmia Covid-19 a Ba
 
 ## Per i per a què SuportMuTu?
 
-Ja fa més d’un any que la dura realitat de la pandèmia del coronavirus ha entrat a les nostres vides. Per evitar un col·lapse total del sistema, la societat va adaptar-se a les extremes mesures adoptades a nivell local i global. No obstant això, hem vist que sovint les mesures no van tenir els mateixos efectes en diferents sectors de la societat. Un d’aquells sectors són els col·lectius marginats, que han afrontat cada vegada més obstacles socioeconòmics i lingüístics a l'hora d'accedir a la informació, la salut i els serveis socials. 
+Ja fa més d’un any que la dura realitat de la pandèmia del coronavirus ha entrat a les nostres vides. Per evitar un col·lapse total del sistema, la societat va adaptar-se a les extremes mesures adoptades a nivell local i global. No obstant això, hem vist que sovint les mesures no van tenir els mateixos efectes en diferents sectors de la societat. Un d’aquells sectors són els col·lectius marginats, que han afrontat cada vegada més obstacles socioeconòmics i lingüístics a l'hora d'accedir a la informació, la salut i els serveis socials.
 
 Amb les mesures de confinament, tant les xarxes oficials com les comunitàries van reforçar la seva presència al domini digital. Per exemple, les autoritats sanitàries van augmentar l’ús dels canals informatius i bots de xat en serveis de missatgeria instantània, com Telegram i Whatsapp. Les xarxes de suport als barris també van adaptar-s'hi, traslladant les comunicacions a la línia, per consolidar la solidaritat, ajudar la gent a expressar les seves necessitats i organitzar-se a nivell local.
 
