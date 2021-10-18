@@ -97,7 +97,7 @@ Ens vam posar personalment en contacte amb els i les administradores d’onze ca
 <p align="center"><img src="/img/blog/2021/suportmutu_timeline_en.png" alt="SuportMuTu timeline" width="70%"></p>
 
 
-## Resultats i reflexions
+## Resultats i observacions
 
 La següent taula exposa en resum el treball de traducció realitzat en el marc del projecte: del 21 d'abril del 2020, quan es crea el primer canal; al 30 de juny del 2020, quan el projecte és finalitzat.
 
@@ -163,9 +163,9 @@ Podem reflexionar sobre l’eficàcia de SuportMuTu de tres maneres: Funcionalit
 
 Els i les voluntàries ens van informar que treballar en traduccions ja fetes va accelerar molt el treball de traducció que calia fer. A més, vam observar que la interfície senzilla era molt fàcil d’agafar, ja que hi havia poques vegades que va ser necessària una intervenció tècnica. 
 
-### Reptes
+### Reptes i reflexions
 
-First challenge in the project was convincing city’s local communities to integrate their channels with SuportMuTu. The ones that showed interest like Gràcia and Nou Barris were very keen in collaborating from the beginning. However, we were surprised to see a complete lack of interest by groups of districts that are known to have culturally diverse populations like El Raval and Badalona. We realized through this process that not all communities were actually interested in increasing the linguistic accessibility of their communication channels, or we can assume that they had other means more effective than SuportMutu extension. 
+El primer repte del projecte va ser convèncer les comunitats locals de la ciutat perquè integressin els seus canals amb SuportMuTu. Els barris que van mostrar interès, com Gràcia i Nou Barris, estaven molt animats per col·laborar des de l'inici. No obstant, ens va sorprendre molt veure la falta total d’interès per part dels grups de districtes coneguts per la seva diversitat cultural, de col·lectius ´d'origen, com ara El Raval i Badalona. A través d'aquest procés, ens vam adonar de que no totes les comunitat estaven realment interessades en augmentar l'accessibilitat lingüística dels seus canals comunicatius, o bé, podem suposar que tenien altres mitjans més eficaços que l'extensió SuportMutu.
 
 Second challenge we faced was in recruiting volunteers to support the project. Our social media calls and personal and collective network contacts failed to penetrate into the communities we intended to serve. From the candidates we have reached, not all were confident with Catalan, few had a rather continuous availability under the circumstances, a few other had to drop out after the changes in their conditions, and some were interested in a traditional constant paid job rather than an innovative community-based work. Due to the unpredictable scale of the work, we weren’t able to promise a payment amount initially. Although, at the end of the project, we paid our five volunteers proportional to the contributions they did. On the other hand, it is worth saying that, thanks to this project, we are still in touch and collaborating with the then volunteers in other projects.
 
