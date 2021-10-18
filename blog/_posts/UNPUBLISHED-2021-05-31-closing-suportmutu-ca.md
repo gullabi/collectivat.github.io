@@ -45,7 +45,7 @@ Vam tenir en compte diversos factors per decidir amb quines llengües iniciar. E
 
 ### Avaluar la qualitat de la traducció automàtica 
 
-Although machine translation has progressed greatly in the last years, it is no way close to being perfect. To assess the usability in our case, we have performed preliminary evaluations of available machine translation engines. We did this to predict how much correction work the automatic translations would need in these languages, especially because the information disseminated was important; even crucial where there could not have been any margin for the smallest error or misunderstanding. We prepared a public survey with 5 messages and their translations in Urdu and Arabic. We asked the participants to rate the general translation quality and to what scale the message was transmitted, both on a scale of 5, 1 being worst and 5 being perfect. We obtained 4 responses for Arabic and 2 for Urdu. 
+Tot i que la traducció automàtica ha avançat força en els darrers anys, no s'apropa gens a ser perfecta. Per determinar la usabilitat en el nostre cas, vam realitzar avaluacions preliminars dels motors de traducció automàtica disponibles. Ho vam fer per preveure el volum de treball de correcció que necessitarien les traduccions automàtiques en aquestes llengües; i sobretot perquè la informació difosa era important, fins i tot crucial, on no hi podria haver cap marge per al menor error o malentès. Vam preparar una enquesta pública amb 5 missatges de diferent complexitat, amb les seves traduccions a l'urdú i l'àrab. Vam demanar al públic participant que valoressin la qualitat de la traducció en general i a quina escala es va transmetre el missatge correctament; les dues coses tant en una escala de 5, 1: pitjor i 5: perfecta. Vam obtenir 4 respostes per l'àrab i 2 per l'urdú. 
 
 <!-- |         |  Mtj. qualitat traducció   |   Mtj. missatge transmès   |
 |---------|:--------------------------:|:--------------------------:|
@@ -82,7 +82,7 @@ Although machine translation has progressed greatly in the last years, it is no 
 </table>
 </center>
 
-The scores were slightly higher than average for Arabic and way poorer for Urdu. Looking at this results, we have confirmed our idea that human verification was essential.
+Les puntuacions van ser una mica superiors a la mitjana per l'àrab i molt més baixes per l'urdú. En veure aquests resultats, vam confirmar la idea de que la verificació humana era essencial.
 
 ### Volunteer reach
 
