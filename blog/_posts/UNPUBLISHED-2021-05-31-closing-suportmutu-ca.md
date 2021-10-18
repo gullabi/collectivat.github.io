@@ -84,7 +84,7 @@ Tot i que la traducció automàtica ha avançat força en els darrers anys, no s
 
 Les puntuacions van ser una mica superiors a la mitjana per l'àrab i molt més baixes per l'urdú. En veure aquests resultats, vam confirmar la idea de que la verificació humana era essencial.
 
-### Volunteer reach/Arribar/Convocatòria per/ als grups voluntaris
+### Arribar als grups voluntaris
 
 [La nostra primera crida a les voluntàries][formulari] va ser el 12 de maig del 2020. Tot i rebre diverses voluntàries per a cada llengua, degut a les circumstàncies i al canvi constant de disponibilitat de les persones en tal circumstàncies, al final vam aconseguir reclutar cinc persones voluntàries: dues traductores de la cooperativa [Espai Travinae][travinae] per xinès, dues parlants de l'àrab i una de l'urdú.
 
@@ -92,14 +92,14 @@ Tot l'equip voluntari va rebre una formació pràctica d’almenys una hora sobr
 
 ### Canals SuportMuTu
 
-We have personally contacted the administrators of eleven neighborhood channels asking for their approval in amplifying their channels with SuportMuTu. We received positive responses from two of them, which were good enough to kickstart the project: [_SuportMutu Gràcia_ (@suportgracia)][suportgracia] and [_Xarxa de Suport Verdum_ (@XarxadeSuportVerdum)][XarxadeSuportVerdum]. We also created versions of the SalutCat channel in three languages. Below is the timeline of launch dates of all SuportMuTu channels:
+Ens vam posar personalment en contacte amb els i les administradores d’onze canals de barri demanant-los la aprovació per ampliar els seus canals amb SuportMuTu. Vam rebre dues respostes affirmatives, que era suficient per engegar el projecte: [_SuportMutu Gràcia_ (@suportgracia)][suportgracia] i [_Xarxa de Suport Verdum_ (@XarxadeSuportVerdum)][XarxadeSuportVerdum]. També vam crear versions del canal SalutCat en tres idiomes. A continuació és la cronologia de les dates de marxa de tots els canals de SuportMuTu:
 
 <p align="center"><img src="/img/blog/2021/suportmutu_timeline_en.png" alt="SuportMuTu timeline" width="70%"></p>
 
 
 ## Resultats i reflexions
 
-Below table summarizes the translation work done within the scope of the project: From April 21, when the first channel is opened, until June 30, when the project was terminated.
+La següent taula exposa en resum el treball de traducció realitzat en el marc del projecte: del 21 d'abril del 2020, quan es crea el primer canal; al 30 de juny del 2020, quan el projecte és finalitzat.
 
 <!-- |                     |  Missatges rebuts |           | Missatges/paraules traduïts |         |
 |--------------------:|:-----------------:|:---------:|:-------------------------:|:-------:|
@@ -159,9 +159,9 @@ Below table summarizes the translation work done within the scope of the project
 
 </center>
 
-We can reflect on the effectiveness of SuportMuTu in three ways: Functionality of the system, volunteer experience and community reach. We saw that SuportMuTuBot functioned very well in informing volunteers of the incoming messages. We saw an overall translation rate of 51%. Although it has to be noted that some messages were purposefully not translated due to lack of text (videos, photos), expiration, repetition and/or irrelevance.
+Podem reflexionar sobre l’eficàcia de SuportMuTu de tres maneres: Funcionalitat del sistema, experiència del voluntariat, i arribada a la comunitat. Vam veure que el SuportMuTuBot va funcionar molt bé en informar les voluntàries sobre l'entrada de missatges recents. La taxa global de traducció va ser 51%, tot i que cal remarcar que alguns missatges no van ser traduïts intencionadament, degut a la falta de text (vídeos, fotos), caducitat, repetició i/o irrellevància.
 
-Volunteers have reported that working on already-made translations sped up greatly the translation work that needed to be done. Also, we noticed that the simple interface was very easy to pick up as there were very few times where technical intervention was necessary. 
+Els i les voluntàries ens van informar que treballar en traduccions ja fetes va accelerar molt el treball de traducció que calia fer. A més, vam observar que la interfície senzilla era molt fàcil d’agafar, ja que hi havia poques vegades que va ser necessària una intervenció tècnica. 
 
 ### Reptes
 
