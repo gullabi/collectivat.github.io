@@ -43,7 +43,7 @@ Vam dissenyar el projecte SuportMuTu, finançat per el micromecenatge Fons Coope
 
 Vam tenir en compte diversos factors per decidir amb quines llengües iniciar. El factor principal va ser el nombre de parlants que podríem arribar amb cada llengua. Vam enumerar els col·lectius d'orígen estranger més nombrosos de Barcelona i vam identificar-ne aquells que tenen una llengua nacional d’origen no europeu i no llatí. Segons [l'informe de l'Ajuntament][ajuntamentreport], aquests col·lectius per ordre de població eren: xinès (21,658), pakistanès (20,643), marroquí (14,418), i filipí (9,439). Limitant el marc inicial a tres idiomes, vam decidir llançar les llengües oficials més parlades d’aquests col·lectius: xinès, urdú i àrab.
 
-### Avaluar la qualitat de la traducció automàtica 
+### Avaluació de la qualitat de la traducció automàtica 
 
 Tot i que la traducció automàtica ha avançat força en els darrers anys, no s'apropa gens a ser perfecta. Per determinar la usabilitat en el nostre cas, vam realitzar avaluacions preliminars dels motors de traducció automàtica disponibles. Ho vam fer per preveure el volum de treball de correcció que necessitarien les traduccions automàtiques en aquestes llengües; i sobretot perquè la informació difosa era important, fins i tot crucial, on no hi podria haver cap marge per al menor error o malentès. Vam preparar una enquesta pública amb 5 missatges de diferent complexitat, amb les seves traduccions a l'urdú i l'àrab. Vam demanar al públic participant que valoressin la qualitat de la traducció en general i a quina escala es va transmetre el missatge correctament; les dues coses tant en una escala de 5, 1: pitjor i 5: perfecta. Vam obtenir 4 respostes per l'àrab i 2 per l'urdú. 
 
@@ -84,11 +84,11 @@ Tot i que la traducció automàtica ha avançat força en els darrers anys, no s
 
 Les puntuacions van ser una mica superiors a la mitjana per l'àrab i molt més baixes per l'urdú. En veure aquests resultats, vam confirmar la idea de que la verificació humana era essencial.
 
-### Volunteer reach
+### Volunteer reach/Arribar/Convocatòria per/ als grups voluntaris
 
-[Our initial call for volunteers][formulari] was made on May 12th. Even though we received several volunteers for each language, due to the circumstances and the constant change in availability of the people under such circumstances, at the end we managed to recruit five volunteers: two translators from [Travinae cooperative][travinae] for Chinese, two Arabic and one Urdu speakers.
+[La nostra primera crida a les voluntàries][formulari] va ser el 12 de maig del 2020. Tot i rebre diverses voluntàries per a cada llengua, degut a les circumstàncies i al canvi constant de disponibilitat de les persones en tal circumstàncies, al final vam aconseguir reclutar cinc persones voluntàries: dues traductores de la cooperativa [Espai Travinae][travinae] per xinès, dues parlants de l'àrab i una de l'urdú.
 
-All volunteers were given at least a one-hour-practical training on how to interact with SuportMuTuBot. They continued self-training and practicing in a sandbox Telegram channel until they felt comfortable with the interface and migrated to the corresponding SuportMuTu community group. During this time we made sure to clear their doubts regarding the functioning. We also updated the interface according to their comments and needs, if and when possible, to make it more user friendly.
+Tot l'equip voluntari va rebre una formació pràctica d’almenys una hora sobre com interactuar amb el SuportMuTuBot. Van continuar autoformant-se i practicant en un entorn de proves, un canal _sandbox_ de Telegram, fins sentir-se còmodes amb la interfície i migrar al grup comunitari de SuportMuTu corresponent. Durant aquest període vam assegurar que els seus dubtes sobre el funcionament del bot estiguessin aclarits. A més, vam actualitzar la interfície i les ordres segons els seus comentaris i necessitats, sempre que fos possible, per fer-les més fàcil d'utilitzar.
 
 ### Canals SuportMuTu
 
