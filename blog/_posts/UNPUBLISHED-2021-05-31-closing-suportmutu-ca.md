@@ -173,7 +173,7 @@ L'última dificultat que vam trobar era atreure les comunitats de parla àrab, x
 
 La segona raó té a veure amb els obstacles tècnics. En el termini disponible, només vam poder configurar el marc d'SuportMuTu en Telegram, per la flexibilitat de programació i les capacitats de creació de bot d'aquesta missatgería. Tot i que la seva base d’usuaris segueix creixent cada cop més, no deixa de quedar darrere de WhatsApp. També vam veure que la comunitat xinesa feia servir de manera més activa l’aplicació WeChat, i no tant el Telegram. Creiem que perquè SuportMutu tingui un impacte real, s'ha d'adaptar als costums tecnològics de les comunitats que s'adreça. 
 
-Finally but most importantly, we believe that the existing gaps between diverse communities made it unattractive for them to integrate to spaces they have little voice in. SuportMuTu showed as an experiment that linguistic accessibility is not the only obstacle in bonding the connection between communities of diverse origins. It would have been naive to expect that a technological tool would be able to organize and transform certain realities of the society without a popular activist support. 
+Finalment, però la raó més important, creiem que per les bretxes existents entre sí, les comunitats diverses trobaven poc atractiu intergrar-se als espais on tenien poca veu representada. SuportMuTu com a experiment/prova va demostrar que l'accessibilitat lingüística no és l'únic obstacle per vincular les comunitats d'orígens diversos. En tot cas, seria ingenu esperar que una eina tecnològica tingués la capacitat d'organitzar i transformar certes realitats de la societat, sense un suport activista popular. 
 
 ## Conclusions
 
