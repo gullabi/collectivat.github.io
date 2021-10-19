@@ -181,7 +181,7 @@ Finally but most importantly, we believe that the existing gaps between diverse 
 
 SuportMuTu has been a unique way of response in a very unique time demanded by the pandemic. For many, the introduction of confinement measures has been a radical change to the digital realm –be it for working, studying, organizing or getting informed. SuportMuTu showed that this change could be made in a way that doesn’t make language a barrier and even serve to create bonds in different sections of the community. We have set up a volunteer network powered by a digital infrastructure in a matter of weeks to address a very specific problem. Although it hasn’t reached a grand impact, we believe that it could be a blueprint for culturally-aware technology development. We are inviting developers, public institutions and activists to collaborate and apply in their own context. For that, we open-source our codebase in [Github][github].
 
-For questions and collaboration please leave us a note at _info-at-collectivat.cat_. 
+For questions and collaboration please leave us a note at _info@collectivat.cat_. 
 
 [goteo]: https://ca.goteo.org/project/fons-cooperatiu-front-l-emergencia-social-i-sanita
 [github]: https://github.com/CollectivaT-dev/suport_mt

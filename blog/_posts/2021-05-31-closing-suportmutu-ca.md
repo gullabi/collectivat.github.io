@@ -179,7 +179,7 @@ Finalment, però la raó més important, creiem que per les bretxes existents en
 
 SuportMuTu ha sigut una forma singular de resposta en un moment molt singular exigit per la pandèmia. Per moltes persones, les mesures de confinament han sigut un canvi radical cap a l'àmbit digital -ja sigui per treballar, estudiar, organitzar-se o informar-se. SuportMuTu va demostrar que aquest canvi es podia fer d'una manera que la llengua no havia de ser una barrera i, fins i tot, podia servir per crear vincles entre diferents sectors de la comunitat. Vam crear una xarxa de voluntàries alimentada per una infraestructura digital en qüestió de setmanes, per tractar un problema molt específic. Tot i que no ha tingut un gran impacte, creiem que pot ser un esbós per a desenvolupament tecnològic culturalment conscient. Animem les persones desenvolupadores, les institucions públiques i les activistes a col·laborar i aplicar-ho en el seu propi context. Per a això, compartim la font de codi obert de la nostra base en [Github][github].
 
-Per dubtes, preguntes o col·laboració, sisplau escriviu-nos a _info-arrova-collectivat-punt-cat_. 
+Per dubtes, preguntes o col·laboració, sisplau escriviu-nos a _info@collectivat.cat_. 
 
 [goteo]: https://ca.goteo.org/project/fons-cooperatiu-front-l-emergencia-social-i-sanita
 [github]: https://github.com/CollectivaT-dev/suport_mt
