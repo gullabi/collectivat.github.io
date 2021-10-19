@@ -2,7 +2,7 @@
 layout: post
 title: "SuportMuTu: La resposta de Col·lectivaT a la pandèmia"
 ref: suportmutuclose
-thumbnail: /img/blog/2020/suportmutu.png
+thumbnail: /img/blog/2020/suportmutu_landscape.png
 lang: ca
 summary: "En aquesta entrada, presentem la nostra resposta a la pandèmia Covid-19 a Barcelona via el nostre projecte SuportMuTu. SuportMuTu pretenia ampliar l’abast dels canals d’informació i solidaritat durant el període més estricte de la pandèmia, amb una traducció col·laborativa impulsada per la intel·ligència artificial."
 ---
@@ -86,7 +86,7 @@ Les puntuacions van ser una mica superiors a la mitjana per l'àrab i molt més 
 
 ### Arribar als grups voluntaris
 
-[La nostra primera crida a les voluntàries][formulari] va ser el 12 de maig del 2020. Tot i rebre diverses voluntàries per a cada llengua, degut a les circumstàncies i al canvi constant de disponibilitat de les persones en tal circumstàncies, al final vam aconseguir reclutar cinc persones voluntàries: dues traductores de la cooperativa [Espai Travinae][travinae] per xinès, dues parlants de l'àrab i una de l'urdú.
+[La nostra primera crida a les voluntàries][firstblogcall] va ser el 12 de maig del 2020. Tot i rebre diverses voluntàries per a cada llengua, degut a les circumstàncies i al canvi constant de disponibilitat de les persones en tal circumstàncies, al final vam aconseguir reclutar cinc persones voluntàries: dues traductores de la cooperativa [Espai Travinae][travinae] per xinès, dues parlants de l'àrab i una de l'urdú.
 
 Tot l'equip voluntari va rebre una formació pràctica d’almenys una hora sobre com interactuar amb el SuportMuTuBot. Van continuar autoformant-se i practicant en un entorn de proves, un canal _sandbox_ de Telegram, fins sentir-se còmodes amb la interfície i migrar al grup comunitari de SuportMuTu corresponent. Durant aquest període vam assegurar que els seus dubtes sobre el funcionament del bot estiguessin aclarits. A més, vam actualitzar la interfície i les ordres segons els seus comentaris i necessitats, sempre que fos possible, per fer-les més fàcil d'utilitzar.
 
@@ -199,5 +199,6 @@ Per dubtes, preguntes o col·laboració, sisplau escriviu-nos a _info-arrova-col
 [dadess]: https://open.dadess.cat/dataset/suport-mutu-covid19
 [travinae]: https://www.travinae.com/
 [ajuntamentreport]: https://ajuntament.barcelona.cat/premsa/wp-content/uploads/2019/07/pobest19.pdf
+[firstblogcall]: https://collectivat.cat/blog/2020-05-11-suportmutu-ca/
 
 
