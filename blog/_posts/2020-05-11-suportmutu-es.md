@@ -2,7 +2,7 @@
 layout: post
 title: "SuportMuTu: Accesibilidad lingüística a los canales públicos y apoyo vecinal "
 ref: suportmutu
-thumbnail: /img/blog/2020/suportmutu.png
+thumbnail: /img/blog/2020/suportmutu_landscape.png
 lang: es
 summary: "Gracias a la iniciativa Economia Per La Vida, hemos creado una infraestructura digital para traducir los canales públicos y de apoyo vecinal a Telegram, a algunos idiomas de las comunidades de origen migrante de Cataluña."
 ---
