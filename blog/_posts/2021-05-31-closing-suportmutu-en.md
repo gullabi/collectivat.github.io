@@ -2,7 +2,7 @@
 layout: post
 title: "SuportMuTu: Col·lectivaT’s response to the pandemic"
 ref: suportmutuclose
-thumbnail: /img/blog/2020/suportmutu.png
+thumbnail: /img/blog/2020/suportmutu_landscape.png
 lang: en
 summary: "In this post, we will report on our response to the Covid-19 pandemic in Barcelona with our project SuportMuTu. SuportMuTu aimed to extend the reach of information and solidarity channels during the strictest period of the pandemic, with artificial intelligence-powered collaborative translation."
 ---
@@ -87,7 +87,7 @@ The scores were slightly higher than average for Arabic and way poorer for Urdu.
 
 ### Volunteer reach
 
-[Our initial call for volunteers][formulari] was made on May 12th. Even though we received several volunteers for each language, due to the circumstances and the constant change in availability of the people under such circumstances, at the end we managed to recruit five volunteers: two translators from [Travinae cooperative][travinae] for Chinese, two Arabic and one Urdu speakers.
+[Our initial call for volunteers][firstblogcall] was made on May 12th. Even though we received several volunteers for each language, due to the circumstances and the constant change in availability of the people under such circumstances, at the end we managed to recruit five volunteers: two translators from [Travinae cooperative][travinae] for Chinese, two Arabic and one Urdu speakers.
 
 All volunteers were given at least a one-hour-practical training on how to interact with SuportMuTuBot. They continued self-training and practicing in a sandbox Telegram channel until they felt comfortable with the interface and migrated to the corresponding SuportMuTu community group. During this time we made sure to clear their doubts regarding the functioning. We also updated the interface according to their comments and needs, if and when possible, to make it more user friendly.
 
@@ -161,7 +161,6 @@ Below table summarizes the translation work done within the scope of the project
 </center>
 
 
-
 We can reflect on the effectiveness of SuportMuTu in three ways: Functionality of the system, volunteer experience and community reach. We saw that SuportMuTuBot functioned very well in informing volunteers of the incoming messages. We saw an overall translation rate of 51%. Although it has to be noted that some messages were purposefully not translated due to lack of text (videos, photos), expiration, repetition and/or irrelevance.
 
 Volunteers have reported that working on already-made translations sped up greatly the translation work that needed to be done. Also, we noticed that the simple interface was very easy to pick up as there were very few times where technical intervention was necessary. 
@@ -202,6 +201,7 @@ For questions and collaboration please leave us a note at _info-at-collectivat.c
 [dadess]: https://open.dadess.cat/dataset/suport-mutu-covid19
 [travinae]: https://www.travinae.com/
 [ajuntamentreport]: https://ajuntament.barcelona.cat/premsa/wp-content/uploads/2019/07/pobest19.pdf
+[firstblogcall]: blog/2020-05-11-suportmutu-ca/
 
 
 <style type="text/css">
