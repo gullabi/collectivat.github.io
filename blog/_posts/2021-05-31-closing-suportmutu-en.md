@@ -201,7 +201,7 @@ For questions and collaboration please leave us a note at _info-at-collectivat.c
 [dadess]: https://open.dadess.cat/dataset/suport-mutu-covid19
 [travinae]: https://www.travinae.com/
 [ajuntamentreport]: https://ajuntament.barcelona.cat/premsa/wp-content/uploads/2019/07/pobest19.pdf
-[firstblogcall]: blog/2020-05-11-suportmutu-ca/
+[firstblogcall]: /blog/2020-05-11-suportmutu-ca/
 
 
 <style type="text/css">
