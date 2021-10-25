@@ -9,7 +9,7 @@ date: 2021-10-12
 img: suportmutuBanner.png
 thumbnail: suportmutuSquare_thumbnail.png
 alt: image-alt
-project-date: May 2019
+project-date: May 2020
 client:
   type: Patrocinador
   name: Fons Cooperatiu ESS
