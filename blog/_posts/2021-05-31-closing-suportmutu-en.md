@@ -52,15 +52,15 @@ Although machine translation has progressed greatly in the last years, it is no 
 |---------|:--------------------------:|:--------------------------:|
 | Urdu    |   1.90                     |    1.80                    |
 | Arabic  |   2.80                     |    3.55                    |
-| AVERAGE |   3.10                     |    3.31                    | -->
+| AVERAGE |   2.35                     |    2.6                    | -->
 
 <center>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-lqy6"></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Avg. translation quality</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Avg. message transmitted</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Avg. translation quality (/5)</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Avg. message transmitted (/5)</span></th>
   </tr>
 </thead>
 <tbody>
@@ -76,8 +76,8 @@ Although machine translation has progressed greatly in the last years, it is no 
   </tr>
   <tr>
     <td class="tg-lqy6"><span style="font-weight:bold">AVERAGE</span></td>
-    <td class="tg-c3ow">3.10</td>
-    <td class="tg-c3ow">3.31</td>
+    <td class="tg-c3ow">2.35</td>
+    <td class="tg-c3ow">2.60</td>
   </tr>
 </tbody>
 </table>
@@ -151,9 +151,8 @@ Below table summarizes the translation work done within the scope of the project
   <tr>
     <td class="tg-dvpl"><span style="font-weight:bold">TOTAL</span></td>
     <td class="tg-c3ow">296</td>
-    <td class="tg-dvpl">153/12487</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" colspan="3">153/12487</td>
+
   </tr>
 </tbody>
 </table>

@@ -58,8 +58,8 @@ Tot i que la traducció automàtica ha avançat força en els darrers anys, no s
 <thead>
   <tr>
     <th class="tg-lqy6"></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Mtj. qualitat traducció</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Mtj. missatge transmès</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Mtj. qualitat traducció (/5)</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Mtj. missatge transmès (/5)</span></th>
   </tr>
 </thead>
 <tbody>
@@ -75,8 +75,8 @@ Tot i que la traducció automàtica ha avançat força en els darrers anys, no s
   </tr>
   <tr>
     <td class="tg-lqy6"><span style="font-weight:bold">MITJANA</span></td>
-    <td class="tg-c3ow">3.10</td>
-    <td class="tg-c3ow">3.31</td>
+    <td class="tg-c3ow">2.36</td>
+    <td class="tg-c3ow">2.60</td>
   </tr>
 </tbody>
 </table>
@@ -150,9 +150,7 @@ La següent taula exposa en resum el treball de traducció realitzat en el marc 
   <tr>
     <td class="tg-dvpl"><span style="font-weight:bold">TOTAL</span></td>
     <td class="tg-c3ow">296</td>
-    <td class="tg-dvpl">153/12487</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" colspan="3">153/12487</td>
   </tr>
 </tbody>
 </table>
@@ -201,4 +199,13 @@ Per dubtes, preguntes o col·laboració, sisplau escriviu-nos a _info@collectiva
 [ajuntamentreport]: https://ajuntament.barcelona.cat/premsa/wp-content/uploads/2019/07/pobest19.pdf
 [firstblogcall]: https://collectivat.cat/blog/2020-05-11-suportmutu-ca/
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
