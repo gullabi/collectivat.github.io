@@ -6,8 +6,8 @@ ref: ivardia
 lang: es
 modal-id: 31
 date: 2017-09-18
-img: ivardia.png
-thumbnail: ivardia-thumbnail.png
+img: elsoldelnord.png
+thumbnail: elsoldelnord-thumbnail.png
 alt: image-alt
 project-date: January 2017
 client:
