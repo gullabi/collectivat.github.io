@@ -1,6 +1,6 @@
 ---
 title: SuportMuTu
-subtitle: Language technology
+subtitle: Collaborative translation
 ref: SuportMuTu
 lang: en
 layout: default

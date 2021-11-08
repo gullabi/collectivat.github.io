@@ -1,6 +1,6 @@
 ---
 title: Arrestados
-subtitle: Literary Translation
+subtitle: Literary translation
 ref: Descontrol
 lang: en
 layout: default

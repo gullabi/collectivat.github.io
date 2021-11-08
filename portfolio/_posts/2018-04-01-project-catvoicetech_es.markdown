@@ -1,7 +1,7 @@
 ---
 title: RAH Abierto en catalán
 subtitle: Tecnología
-ref: softcatala
+ref: catvoicetech
 lang: es
 layout: default
 modal-id: 35

@@ -1,20 +1,19 @@
 ---
-title: Open ASR for Catalan
-subtitle: Technology
-ref: softcatala
+title: Catalan Voice Technology
+subtitle: Open data, ASR & TTS
+ref: catvoicetech
 lang: en
 layout: default
 modal-id: 5
 date: 2018-04-01
-img: sphinx.png
-thumbnail: sphinx-thumbnail.png
+img: catotron_banner.png
+thumbnail: catotron_thumbnail.png
 alt: image-alt
-project-date: April 2018
+project-date: April 2018 - Ongoing
 client:
-  type: Client
-  name: Softcatalà
-  link: https://www.softcatala.org 
+  type: Sponsors
+  name: Softcatalà, Department of Culture of the Catalan autonomous government, Barcelona Supercomputing Center
 category: Technology
-description: "As an association which provides open source language tools for the Catalan speaking community, Softcatalà wanted to have a open source ASR system in order to be used by developers, makers and possibly for providers of techonological products to integrate Catalan in their services. We have leveraged the publicly avaliable subtitled videos from Catalan television to create an initial version of an open source ASR in Catalan using the CMUSphinx technology. We have published the trained ASR models and the necessary scripts to build them in <a href='https://github.com/collectivat/cmusphinx-models'>github</a> for the use of the community."
+description: "As part of our mission, we build resources and generate open knowledge on Catalan speech technologies, specifically automatic speech recognition (ASR) and text-to-speech synthesis (TTS). Our work throughout years is sponsored by various public and non-profit institutions. Thanks to support from <a href='https://www.softcatala.org/'>Softcatalà Association</a>, we developed the first large speech corpus for Catalan from television broadcasts and released an initial open-source ASR model. We further extended available speech data to 611 hours using Catalan parliamentary proceedings with funds from <a href='http://cultura.gencat.cat/'>Catalan Department of Culture</a> and <a href='https://www.bsc.es/'>Barcelona Supercomputing Center</a>. Also, we have built the first neural network-based speech synthesis application for Catalan, <a href='https://catotron.cat'>Catotron</a>, again with support from Catalan Department of Culture. All our resources and workshop materials are released openly in our <a href='/asr'>resources page</a> and <a href='http://github.com/CollectivaT-dev'>Github repository</a>."
 
 ---
