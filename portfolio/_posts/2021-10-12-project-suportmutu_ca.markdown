@@ -4,7 +4,7 @@ subtitle: Tecnologies lingüístiques
 ref: SuportMuTu
 lang: ca
 layout: default
-modal-id: 28
+modal-id: suportmutu_ca
 date: 2021-10-12
 img: suportmutuBanner.png
 thumbnail: suportmutuSquare_thumbnail.png

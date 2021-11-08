@@ -4,7 +4,7 @@ subtitle: Language technology
 ref: SuportMuTu
 lang: en
 layout: default
-modal-id: 8
+modal-id: suportmutu_en
 date: 2021-10-12
 img: suportmutuBanner.png
 thumbnail: suportmutuSquare_thumbnail.png
