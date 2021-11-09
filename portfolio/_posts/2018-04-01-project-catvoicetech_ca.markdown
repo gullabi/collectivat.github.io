@@ -1,20 +1,19 @@
 ---
-title: RAP Obert en Català
-subtitle: Tecnologia
-ref: softcatala
+title: Tecnologias de la veu
+subtitle: Dades obertas, RAP y SDV
+ref: catvoicetech
 lang: ca
 layout: default
 modal-id: 25
 date: 2018-04-01
-img: sphinx.png
-thumbnail: sphinx-thumbnail.png
+img: catotron_banner.png
+thumbnail: catotron_thumbnail.png
 alt: image-alt
-project-date: April 2018
+project-date: En curs des d'abril 2018
 client:
-  type: Client
-  name: Softcatalà
-  link: https://www.softcatala.org 
+  type: Patrocinadors
+  name: Softcatalà, Department of Culture of the Catalan autonomous government, Barcelona Supercomputing Center
 category: Technology
-description: "Softcatalà és una associació que proporciona i publica eines informàtiques obertes per a catalanoparlants. Volia disposar d'un sistema de reconeixement de la parla (RAP) de codi obert destinat a professionals del desenvolupament, <i>makers</i> i a possibles entitats proveïdores tecnològiques que volguessin integrar el català als seus serveis. Per crear una versió inicial de RAP en català, vam crear un corpus d’enregistraments amb les transcripcions, aprofitant els vídeos subtitulats disponibles de la televisió catalana. Després, amb la tecnologia CMUSphinx, vam entrenar els models de RAP. Vam finalitzar aquesta fase de desenvolupament amb la publicació dels models de RAP i <i>scripts</i> necessaris per compilar en <a href='https://github.com/collectivat/cmusphinx-models'>github</a> per a l’ús de la comunitat."
+description: "Com a part de la nostra missió, generem recursos i coneixement obert sobre les tecnologies de la parla en català, específicament el reconeixement automàtic de parla (RAP) i la síntesi de text a veu (SDV). El nostre treball al llarg d'anys està patrocinat per diverses institucions públiques i sense ànim de lucre. Gràcies al suport de la <a href='https://www.softcatala.org/'>Associació Softcatalà</a>, desenvolupem el primer gran corpus de discursos en català a partir de retransmissions televisives i llancem un model inicial de RAH de codi obert. Ampliem encara més les dades de discursos disponibles fins a 851 hores utilitzant procediments parlamentaris catalans amb fons del <a href='http://cultura.gencat.cat/'>Departament de Cultura de Generalitat</a> i <a href= ' https://www.bsc.es/'>Centre Nacional de Supercomputació</a>. A més, hem construït la primera aplicació de síntesi de veu basada en xarxes neuronals per a català, <a href='https://catotron.cat'>Catotron</a>, novament amb el suport del Departament de Cultura de Catalunya. Es pot trobar tots els nostres recursos i materials educatius a la nostra <a href='/rap'>pàgina de recursos</a> i <a href='http://github.com/CollectivaT-dev'>repositori de Github</a>."
 
 ---

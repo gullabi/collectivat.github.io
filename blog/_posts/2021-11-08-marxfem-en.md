@@ -4,12 +4,10 @@ title: "International Marxist Feminist Conference"
 ref: marxfem
 thumbnail: /img/blog/2021/marxfem.png
 lang: en
-summary: ""
+summary: "The IV Marxist Feminist Conference is just a few days away. It starts on November 11th!"
 ---
 
-*(This blogpost was automatically translated from the [original version in Catalan](/blog/2021-11-08-marxfem-ca/))*
-
-Between 11 and 13 November 2021, the [IV Marxist Feminist Conference](https://marxfemconference.net/) will be held this year in virtual format. The idea for an international feminist Marxist conference arose from the feminist work group of the Berliner Institut für kritische Theorie (InkriT), around the figure of the German sociologist and philosopher Frigga Haug. This year's conference will be funded and organized by Transform! Europe and the University of the Basque Country (UPV / EHU), together with the Iratzar Foundation, Critical Theory Bilbo-Barcelona (BIBA CT), the Institut für kritische Theorie (InkriT), the Rosa Luxemburg Foundation and ParteHartuz.
+[Marxist Feminist Conference](https://marxfemconference.net/) will celebrate its fourth edition this year between 11 and 13 November 2021 in virtual format. The idea for an international feminist Marxist conference arose from the feminist work group of the Berliner Institut für kritische Theorie (InkriT), around the figure of the German sociologist and philosopher Frigga Haug. This year's conference will be funded and organized by Transform! Europe and the University of the Basque Country (UPV / EHU), together with the Iratzar Foundation, Critical Theory Bilbo-Barcelona (BIBA CT), the Institut für kritische Theorie (InkriT), the Rosa Luxemburg Foundation and ParteHartuz.
 
 <p align="center"><img src="/img/blog/2021/marxfem.png" alt="Marxfem conference logo" width="70%"></p>
 

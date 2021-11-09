@@ -9,7 +9,7 @@ date: 2020-11-08
 img: dossierciemen.png
 thumbnail: dossierciemen-thumbnail.png
 alt: image-alt
-project-date: Abril 2019 - Abril 2020
+project-date: Junio 2020
 client:
   type: Patrocinador
   name: Centre Internacional Escarré per a les Minories Ètniques i les Nacions (CIEMEN)
