@@ -14,18 +14,17 @@ table {
 
 As a part of our mission, we provide open data and resources on speech technologies, specifically automatic speech recognition (ASR) and text-to-speech synthesis (TTS) in Catalan. You can find a detailed list here with short explanations and further references to get more information. 
   
-<!-- <br/>  -->
-
 | Name                                    | Language | Type           | License       | Download     |
 |---------------------------------------  | -------- | -----------    | --------      | ------------ |
 | [TV3Parla][2]                      v0.3 | Catalan  | acoustic model | GNU AGPL-3.0  | [link][M0.3] |
 | [TV3Parla+ParlamentParla][2]       v0.2 | Catalan  | acoustic model | GNU AGPL-3.0  | [link][M0.4] |
-| [TV3Parla Corpus][1]               v0.3 | Catalan  | audio corpus   | CC-BY-NC 4.0  | [link][Ctv3] |
+| [TV3Parla Corpus][4]               v0.3 | Catalan  | audio corpus   | CC-BY-NC 4.0  | [link][Ctv3] |
 | [ParlamentParla Corpus][3]         v2.0 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][Cp2.0]|
 | [ParlamentParla Corpus - clean][3] v1.0 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][CpC]  |
 | [ParlamentParla Corpus - other][3] v1.0 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][CpO]  |
 | [ParlamentParla Corpus - old][3]   v0.3 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][Cp0.3]|
-| [ParlamentParla Corpus - old][3]   v0.3 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][Cp0.3]|
+| [Catotron - Ona][6]                     | Catalan  | TTS model      | CC-BY 4.0     | [link][TTSOnaModel] |
+| [Catotron - Pau][6]                     | Catalan  | TTS model      | CC-BY 4.0     | [link][TTSPauModel] |
 | [UPC FestCat Ona - optimized][5]        | Catalan  | TTS audio corpus |  CC BY-SA 3.0 ES   | [link][TTSOna]|
 | [UPC FestCat Pau - optimized][5]        | Catalan  | TTS audio corpus |  CC BY-SA 3.0 ES   | [link][TTSPau]|
 | OpenSubtitles LM                   v1.0 | Catalan  | language model |  CC-BY 4.0    | [link][LMos] |
@@ -107,9 +106,12 @@ For more information, you can refer to [our paper published in Interspeech 2020]
 [LMvq]: https://cloud.laklak.eu/s/dXCsjqSfjk6Eo7R
 [TTSOna]: http://laklak.eu/share/upc_ona_data.tar.gz
 [TTSPau]: http://laklak.eu/share/upc_pau_data.tar.gz
+[TTSOnaModel]: https://drive.google.com/open?id=1-fdWV-aH5nIRv1rZKQYInsRes2At74xG
+[TTSPauModel]: https://drive.google.com/open?id=1-T2nHQNEE8mXPaT-ulDSAXgdGSzomPMu
 [1]: #acoustic-corpora
 [2]: #asr-models
 [3]: #parlamentparla
 [4]: #tv3parla
 [5]: #upc-festcat-tts-corpora
+[6]: #tts-models
 
