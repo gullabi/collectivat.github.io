@@ -1,5 +1,5 @@
 ---
-title: Dossier sobre «Pueblos minorizados, derechos colectivos y justicia global en Cataluña»
+title: Dosier sobre «Pueblos minorizados, derechos colectivos y justicia global en Cataluña»
 # subtitle: Language technology
 ref: ciemendossier
 lang: es
