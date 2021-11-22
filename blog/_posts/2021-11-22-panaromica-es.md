@@ -198,6 +198,6 @@ Hay un gran potencial por explorar y desarrollar la creación colectiva en un co
 
 [16](#sdfootnote16anc). El concepto Web 2.0 es presentado por Tim O'Reilly y John Battelle en una conferencia en octubre de 2004 y en el artículo posterior: O'REILLY, Tim O'Reilly “What Is Web 2.0 Design Patterns and Business Models for the Next Generation of Software” 30-9-2005. <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>
 
-[17](#sdfootnote17anc). *Flikr.com* ofrece la posibilidad de álbum de fotos online. Mientras se crean álbumes personales se está creando un fondo fotográfico compartido con las imágenes que los usuarios deciden hacer de acceso público. Las palabras clave que se ponen para definir las fotografías sirven como sistema de búsqueda. En marzo de 2005 fue adquirido por *Yahoo*.
+[17](#sdfootnote17anc). *Flickr.com* ofrece la posibilidad de álbum de fotos online. Mientras se crean álbumes personales se está creando un fondo fotográfico compartido con las imágenes que los usuarios deciden hacer de acceso público. Las palabras clave que se ponen para definir las fotografías sirven como sistema de búsqueda. En marzo de 2005 fue adquirido por *Yahoo*.
 
 [18](#sdfootnote18anc)*.* En 2021 el control de los servicios de internet se concentra en manos de un grupo de corporaciones conocidas como GAFAM, por las siglas de *Google*, *Apple*, *Facebook*, *Amazon* y *Microsoft*.

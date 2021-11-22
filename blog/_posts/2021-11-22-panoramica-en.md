@@ -35,7 +35,7 @@ collective creation, ready-made, exquisite corpse, assembling protocols, jam, po
 
 ## Ready-made as seeds
 
-Between 2005 and 2006, as *TAG Taller d'Intangibles* (“TAG Intangibles Workshop”) collective, we launched the «*Germinador*» project to explore collective creation processes(1). We identified cases as “seeds” in a ready-made activity on “found objects”, considering them “proposals” of collective creation that we wanted to “germinate”, making it easier to be reproduced, re-interpreted and/or transformed in other contexts. We collected works that were presented as *net.art* pieces as well as technological systems used as a resource or platform for joint creation in any field, and work procedures or forms of social organization that create conditions for collective creation.
+Between 2005 and 2006, as *TAG Taller d'Intangibles* (“TAG Intangibles Workshop”) collective, we launched the «*Germinador*» project to explore collective creation processes[^1]. We identified cases as “seeds” in a ready-made activity on “found objects”, considering them “proposals” of collective creation that we wanted to “germinate”, making it easier to be reproduced, re-interpreted and/or transformed in other contexts. We collected works that were presented as *net.art* pieces as well as technological systems used as a resource or platform for joint creation in any field, and work procedures or forms of social organization that create conditions for collective creation.
 
 In this text I will use some of the collected «seeds» in order to create an overview. I will use my own *interaction scenario*(2) technique for system design, in order to present some collective creation proposals, relaying them from experience and, thus, to describe their characteristics. For each case, I will highlight some issues that influence this experience yet often escape the attention of participants. Finally, I will make considerations about who defines the rules of the game, and about collective creation in a network context.
 
@@ -170,7 +170,7 @@ There is a great potential to explore and develop collective creation in a netwo
 
 ## Notes
 
-[1](#sdfootnote1anc). “What do we understand by collective creation?” It is an interesting question, however I won't be responding it here. Not being obsessed with its answer was useful for us in the *GERMINADOR* process, to be able to collect a wide variety of proposals that we felt that they could be related.
+[^1]: “What do we understand by collective creation?” It is an interesting question, however I won't be responding it here. Not being obsessed with its answer was useful for us in the *GERMINADOR* process, to be able to collect a wide variety of proposals that we felt that they could be related.
 
 [2](#sdfootnote2anc). The *interaction scenario* or *use cases* is a technique defined by Alan Cooper. It is used in interaction design in which a fictitious situation is narrated and a person uses an interactive system as if it were a real case. This technique is designed to focus on the user instead of focusing on the producer, designer or technological issues. Here, I use the technique in order to recreate for the reader the subjective experience of the situations where the collective creation takes place.
 
@@ -202,6 +202,6 @@ There is a great potential to explore and develop collective creation in a netwo
 
 [16](#sdfootnote16anc). The Web 2.0 concept is presented by Tim O'Reilly and John Battelle at a conference in October 2004, and in the subsequent article: O'REILLY, Tim O'Reilly “What Is Web 2.0 Design Patterns and Business Models for the Next Generation of Software” 30-9-2005. <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>
 
-[17](#sdfootnote17anc). *Flikr.com* offers the possibility of creating online photo albums. While personal albums are created, a shared photographic collection is also being created with the images that users decide to make publicly accessible. The keywords used to describe the photos function like a search engine. In March 2005 it was acquired by *Yahoo*.
+[17](#sdfootnote17anc). *Flickr.com* offers the possibility of creating online photo albums. While personal albums are created, a shared photographic collection is also being created with the images that users decide to make publicly accessible. The keywords used to describe the photos function like a search engine. In March 2005 it was acquired by *Yahoo*.
 
 [18](#sdfootnote18anc)*.* In 2021, the control of Internet services is concentrated in the hands of a group of corporations known as GAFAM, for the acronym of *Google*, *Apple*, *Facebook*, *Amazon* and *Microsoft*.

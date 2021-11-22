@@ -198,6 +198,6 @@ Hi ha un gran potencial per explorar i desenvolupar la creació col·lectiva en 
 
 [16](#sdfootnote16anc). El concepte Web 2.0 és presentat per Tim O'Reilly i John Battelle en una conferència l'octubre de 2004 i en l'article posterior: O'REILLY, Tim O'Reilly “What Is Web 2.0 Design Patterns and Business Models for the Next Generation of Software” 30-9-2005. <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>
 
-[17](#sdfootnote17anc). *Flikr.com* ofereix la possibilitat d’àlbum de fotos *online*. Mentre es creen àlbums personals s'està creant un fons fotogràfic compartit amb les imatges que els usuaris decideixen fer d'accés públic. Les paraules clau que es posen per definir les fotografies serveixen com a sistema de cerca. El març de 2005 va ser adquirit per *Yahoo*.
+[17](#sdfootnote17anc). *Flickr.com* ofereix la possibilitat d’àlbum de fotos *online*. Mentre es creen àlbums personals s'està creant un fons fotogràfic compartit amb les imatges que els usuaris decideixen fer d'accés públic. Les paraules clau que es posen per definir les fotografies serveixen com a sistema de cerca. El març de 2005 va ser adquirit per *Yahoo*.
 
 [18](#sdfootnote18anc)*.* Al 2021 el control dels serveis d'internet es concentra en mans d'un grup de corporacions conegudes com a GAFAM, per les sigles de *Google*, *Apple*, *Facebook*, *Amazon* i *Microsoft*.
