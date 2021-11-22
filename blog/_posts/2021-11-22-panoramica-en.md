@@ -141,9 +141,9 @@ There is a great potential to explore and develop collective creation in a netwo
 >
 > **"Artec" in the CommonsCloud Agora**
 >
-> **[Join it!](https://agora.commonscloud.coop/t/sobre-la-categoria-artec/1511)**
+> **[Join!](https://agora.commonscloud.coop/t/sobre-la-categoria-artec/1511)**
 
-> Next series text: ***Argila*, an invitation to get muddy**
+> Next next in the series: ***Argila*, an invitation to get muddy**
 >
 > Expected Publishing Date: **November 29, 2021.**
 
