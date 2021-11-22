@@ -152,7 +152,7 @@ There is a great potential to explore and develop collective creation in a netwo
 <p align="center"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p>
 <p align="center"><b>Joint publication</b></p>
 
-<p align="center">This text is published simultaneously on the websites of the cooperatives femProcomuns and Col-lectivaT</p>
+<p align="center">This text is published simultaneously on the websites of the cooperatives <b>femProcomuns</b> and <b>Col·lectivaT</b></p>
 
 <p align="center"><i>If you want to republish it in any of the languages in which it is published or translate it to other languages, please contact teixidora@femprocomuns.coop.</i></p>
 
