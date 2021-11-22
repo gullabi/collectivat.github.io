@@ -15,17 +15,15 @@ summary: "We present three articles on collective creation and technological app
 
 The **first article** presents **an overview of online collective creation** employing experiential narrative when using various systems, in order to comment on them later. We use a conceptual backpack to do this. This backpack carries ready-mades, the constraints of Oulipian potential literature, co-construction of a work by spectators in reader-response theory, collaborative production in layers of an onion, and the conception of systems like black boxes in science and technology studies. We also introduce some of our own concepts that make a coherent collective work possible, such as assembling protocols. Experiential narrative gives some references to the reader in order to introduce them to the concepts and take them on a journey of reflection on the possibilities and challenges of collective creation.
 
-<p align="center"><img src="/img/blog/2021/featured_img_txt1_seeds_Q.png" alt="" width="60%"></p>
-
 # Collective creation: an overview
 
-**David Gómez Fontanills. November 2006. TAG Taller d’Intangibles · enlloc.net.**
+<p align="center"><img src="/img/blog/2021/featured_img_txt1_seeds_Q.png" alt="" width="60%"></p>
 
-Version 1.2 – 2021 · License: Creative Commons 3.0 Attribution Share Alike
+<p align="center"><b>David Gómez Fontanills. November 2006. TAG Taller d’Intangibles · enlloc.net.</b></p>
+<p align="center">Version 1.2 – 2021 · License: Creative Commons 3.0 Attribution Share Alike</p>
+<p align="center"><i>Originally published in Catalan in «Papers d'Art» magazine</i></p>
+<p align="center">Translation: Pelin Doğan (Col·lectivaT)</p>
 
-*Originally published in Catalan in «Papers d'Art» magazine*
-
-Translation: Pelin Doğan (Col·lectivaT)
 
 **Keywords**
 
@@ -156,7 +154,7 @@ There is a great potential to explore and develop collective creation in a netwo
 
 <p align="center">This text is published simultaneously on the websites of the cooperatives femProcomuns and Col-lectivaT</p>
 
-<p align="center"><i>If you want to republish it in any of the languages in which it is published or translate it to other languages, please [contact](mailto:teixidora@femprocomuns.coop).*</i></p>
+<p align="center"><i>If you want to republish it in any of the languages in which it is published or translate it to other languages, please contact teixidora@femprocomuns.coop.</i></p>
 
 ---
 
@@ -199,6 +197,6 @@ There is a great potential to explore and develop collective creation in a netwo
 
 [^16]: The Web 2.0 concept is presented by Tim O'Reilly and John Battelle at a conference in October 2004, and in the subsequent article: O'REILLY, Tim O'Reilly “What Is Web 2.0 Design Patterns and Business Models for the Next Generation of Software” 30-9-2005. <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>
 
-[^17]: *Flickr.com* offers the possibility of creating online photo albums. While personal albums are created, a shared photographic collection is also being created with the images that users decide to make publicly accessible. The keywords used to describe the photos function like a search engine. In March 2005 it was acquired by *Yahoo*.
+[^17]: *[Flickr](https://www.flickr.com/)* offers the possibility of creating online photo albums. While personal albums are created, a shared photographic collection is also being created with the images that users decide to make publicly accessible. The keywords used to describe the photos function like a search engine. In March 2005 it was acquired by *Yahoo*.
 
 [^18]: In 2021, the control of Internet services is concentrated in the hands of a group of corporations known as GAFAM, for the acronym of *Google*, *Apple*, *Facebook*, *Amazon* and *Microsoft*.
