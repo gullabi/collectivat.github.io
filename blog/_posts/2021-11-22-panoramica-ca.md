@@ -7,8 +7,6 @@ lang: ca
 summary: "Presentem tres textos sobre creació col·lectiva i apropiació tecnològica escrits pel col·lectiu artístic TAG Taller d’Intangibles entre 2006 i 2012. Les recuperem com a aportacions que conviden a la reflexió i el debat sobre la tecnologia, la creació artística col·lectiva, l’autoritat de l'autoria i l’apropiació tecnològica i creativa."
 ---
 
-## Argila, llavors i codi font. Tres textos.
-
 **Presentem tres textos sobre creació col·lectiva i apropiació tecnològica escrits pel col·lectiu artístic TAG Taller d’Intangibles entre 2006 i 2012. Les recuperem com a aportacions que conviden a la reflexió i el debat sobre la tecnologia, la creació artística col·lectiva, l’autoritat de l'autoria i l’apropiació tecnològica i creativa.**
 
 **El TAG Taller d’Intangibles és un col·lectiu artístic creat l’any 1996 i que, especialment en el període esmentat, va combinar la pràctica artística amb la recerca, la reflexió sobre la pròpia pràctica i la producció escrita.**
