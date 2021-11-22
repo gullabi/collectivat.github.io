@@ -148,6 +148,7 @@ There is a great potential to explore and develop collective creation in a netwo
 > Expected Publishing Date: **November 29, 2021.**
 
 > <p align="left"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p
+> 
 > **Joint publication**
 >
 > This text is published simultaneously on the websites of the cooperatives femProcomuns and Col-lectivaT
