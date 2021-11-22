@@ -142,6 +142,8 @@ Hi ha un gran potencial per explorar i desenvolupar la creació col·lectiva en 
 >
 > Data prevista de publicació: **29 de novembre de 2021**.
 
+> <p align="left"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p>
+
 > **Publicació conjunta**
 >
 > Aquest text es publica simulàniament a les webs de les cooperatives\
