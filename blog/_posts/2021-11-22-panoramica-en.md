@@ -137,23 +137,31 @@ The systems that use automated mechanisms and what we have called assembling pro
 
 There is a great potential to explore and develop collective creation in a network context; however, we can't stay on the surface. It's necessary we try and reflect on the conditions of the experience, the characteristics of the systems involved, and the political and social issues that arise from them. We must do it bearing in mind that, by pooling and discussing the interpretations, we are shaping these experiences and fertilizing the soil for the germination of new proposals.
 
+---
+
 > Discussion of this text in the category
 >
 > **"Artec" in the CommonsCloud Agora**
 >
-> **[Join it!](https://agora.commonscloud.coop/t/sobre-la-categoria-artec/1511)**
+> **[Join!](https://agora.commonscloud.coop/t/sobre-la-categoria-artec/1511)**
 
-> Next series text: ***Argila*, an invitation to get muddy**
+---
+
+> Next article in the series: ***Argila*, an invitation to get muddy**
 >
 > Expected Publishing Date: **November 29, 2021.**
 
-> <p align="left"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p
+---
+
+> <p align="left"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p>
 > 
 > **Joint publication**
 >
 > This text is published simultaneously on the websites of the cooperatives femProcomuns and Col-lectivaT
 >
 > *If you want to republish it in any of the languages in which it is published or translate it to other languages, please [contact](mailto:teixidora@femprocomuns.coop).*
+
+---
 
 ## Bibliography
 

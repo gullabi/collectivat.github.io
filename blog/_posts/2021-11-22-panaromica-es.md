@@ -131,15 +131,21 @@ Los sistemas que utilizan mecanismos automatizados y lo que hemos llamado protoc
 
 Hay un gran potencial por explorar y desarrollar la creación colectiva en un contexto de red, pero no nos podemos quedar en la superficie, hace falta que intentamos reflexionar sobre las condiciones de la experiencia, las características de los sistemas implicados y las cuestiones políticas y sociales que derivan de ello. Y hay que hacerlo teniendo en cuenta que, poniendo en común y discutiendo las interpretaciones, estamos modelando estas experiencias y fertilizando el terreno por el germinado de nuevas propuestas.
 
+---
+
 > Debate sobre este texto en la categoría
 >
 > **"Artec" del Ágora de CommonsCloud**
 >
 > **[Únete!](https://agora.commonscloud.coop/t/sobre-la-categoria-artec/1511)**
 
+---
+
 > Siguiente texto de la serie: ***Arcilla, una invitación a enfangarse***
 >
 > Fecha prevista de publicación: **29 de noviembre de 2021**.
+
+---
 
 > <p align="left"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p>
 > 
@@ -149,6 +155,8 @@ Hay un gran potencial por explorar y desarrollar la creación colectiva en un co
 > **femProcomuns** y **Col·lectivaT**
 >
 > *Si quieres republicarlo en cualquiera de los idiomas en los que está o traducirlo a otras lenguas, ponte en [contacto](mailto:teixidora@femprocomuns.coop).*
+
+---
 
 ## Bibliografía
 
