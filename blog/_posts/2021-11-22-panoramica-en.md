@@ -17,7 +17,7 @@ summary: "We present three articles on collective creation and technological app
 
 The **first article** presents **an overview of online collective creation** employing experiential narrative when using various systems, in order to comment on them later. We use a conceptual backpack to do this. This backpack carries ready-mades, the constraints of Oulipian potential literature, co-construction of a work by spectators in reader-response theory, collaborative production in layers of an onion, and the conception of systems like black boxes in science and technology studies. We also introduce some of our own concepts that make a coherent collective work possible, such as assembling protocols. Experiential narrative gives some references to the reader in order to introduce them to the concepts and take them on a journey of reflection on the possibilities and challenges of collective creation.
 
-<p align="center"><img src="/img/blog/2021/img0_txt1_llavors.png" alt="" width="70%"></p>
+<p align="center"><img src="/img/blog/2021/featured_img_txt1_seeds_Q.png" alt="" width="70%"></p>
 
 # Collective creation: an overview
 
