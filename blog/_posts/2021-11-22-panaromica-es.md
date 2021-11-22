@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Arcilla, semillas y código fuente. Tres textos."
+ref: argila
+thumbnail: /img/blog/2021/img0_txt1_llavors.png
+lang: es
+summary: "Presentamos tres textos sobre creación colectiva y apropiación tecnológica escritos por el colectivo artístico TAG Taller d’Intangibles entre 2006 y 2012. Los recuperamos como aportaciones que invitan a la reflexión y al debate sobre la tecnología, la creación artística colectiva, la autoridad de la autoría y la apropiación tecnológica y creativa."
+---
+
 ## Arcilla, semillas y código fuente. Tres textos.
 
 **Presentamos tres textos sobre creación colectiva y apropiación tecnológica escritos por el colectivo artístico TAG Taller d’Intangibles entre 2006 y 2012. Los recuperamos como aportaciones que invitan a la reflexión y al debate sobre la tecnología, la creación artística colectiva, la autoridad de la autoría y la apropiación tecnológica y creativa.**
@@ -8,7 +17,7 @@
 
 Este **primer texto** presenta una **panorámica de la creación colectiva online** sirviéndose del relato experiencial en el uso de varios sistemas, para comentarlos a continuación. Para hacer esto se sirve de una mochila conceptual que incluye el ready-made, las constricciones de la literatura potencial oulipiana, la co-construcción que hace el espectador de la obra en la teoría de la recepción, la producción colaborativa en capas de cebolla y la concepción de los sistemas como cajas negras en la teoría social de la ciencia, introduciendo algunos conceptos propios como los protocolos de ensamblaje que hacen posible una obra colectiva coherente. El relato de experiencias da al lector unos referentes para introducirlo en los conceptos y llevarlo por un recorrido de reflexión sobre las posibilidades y retos de la creación colectiva.
 
-IMAGEN_0
+<p align="center"><img src="/img/blog/2021/featured_img_txt1_semillas_Q.png" alt="" width="70%"></p>
 
 # Creación colectiva: una panorámica
 
@@ -34,7 +43,7 @@ En este texto utilizaré algunas de las «semillas» recogidas para construir un
 >
 > Al cabo de unos días recibo un segundo mensaje automatizado de FreakMachine (*your freak is ready!*) que me indica la URL donde puedo ver el dibujo acabado. Me divierto viendo el personaje estrafalario que hemos creado entre en Marcel, Rosa y yo. Personaje bicéfalo, porque Rosa ha decidido subvertir lo que se esperaba de ella y dibujar una cabeza en vez de los pies que se le pedían. (4)
 >
-> IMAGEN_1
+> <p align="center"><img src="/img/blog/2021/img1_FreakMachine.png" alt="Captura de FreakMachine cuando el primer participante acaba de dibujar." width="70%"></p>
 
 *FreakMachine*, creado por Nick Langridge en 2002, es una de las variantes a internet de la práctica surrealista del “cadáver exquisito” donde se sigue un procedimiento muy parecido usando un papel que se dobla para ocultar las partes del dibujo a quien las tiene que continuar. Tres personas **comparten** **la** **autoría** del dibujo resultante. Pero nadie afirmaría que ha habido un trabajo en equipo entre ellas. Se han limitado a respetar unas reglas simples: prolongar unas líneas en la parte siguiente del dibujo y/o dibujar partiendo de las líneas que vienen de la parte anterior. Se podría decir que son unos **protocolos** básicos que garantizan el ensamblaje. Pero el núcleo central de esta propuesta es que el ensamblaje se produce entre partes que se han dibujado sin que los participantes conocieran las otras. Este **ocultamiento** de una parte de la obra en el momento de participar es, paradójicamente, una característica común a varias propuestas de creación colectiva. El desconocimiento de la otra parte es lo que produce el resultado inesperado, sorprendente, a menudo divertido y sugerente. Cuando el participante dibuja no es extraño que especule sobre cómo serán las otras dos partes, y puede actuar por, de alguna forma, a ciegas, dialogar. En nuestro ejemplo anterior, Rosa intentaba meterse en la mente de los otros dibujando una cabeza donde creía que se esperarían unos pies, al mismo tiempo que se saltaba una de las reglas del sistema, que le había pedido en un mensaje que dibujara unos pies. ¿Qué habría pasado si en Marcel hubiera hecho lo mismo y hubiera dibujado unos pies en lugar la cabeza? El personaje habría quedado completo pero cabeza abajo.
 
@@ -48,7 +57,7 @@ El trabajo conjunto en una obra con partes ocultas puede ser un juego de suposic
 >
 > En letras rojas alguien ha escrito “21:37”. Sí, es esta hora. Más banderas, símbolos y palomas se intercalan con “21:39”, “21:42”,... Alguien se está dedicando a escribir la hora. Otro participante replica: “20:42 en Canarias ;-)”. La composición está llena de imágenes donde domina el blanco, combinadas con las letras en rojo. Busco imágenes de nieve y las publico para intensificar el blanco. Otras personas me siguen, pero también aparecen imágenes del tamaño más pequeña, donde domina el rojo. Alguien ha publicado la foto de un vestidito rojo y blanco. Busco “rojo blanco” en google y esta foto es una de las imágenes de la primera página de resultados.
 >
-> IMAGEN_2
+> <p align="center"><img src="/img/blog/2021/img2_wikipool.jpg" alt="Captura de Wikipool" width="70%"></p>
 
 *Wikipool* es un programa que creamos desde el TAG Taller d’Intangibles en 2003. El relato anterior es la descripción subjetiva de lo que podría ser una sesión utilizándolo simultáneamente con otra gente. Es pues una experiencia **síncrona** donde unas cuántas personas intervienen en una misma composición que **evoluciona** en el tiempo. En una experiencia de este tipo juegan cierto papel los referentes culturales comunes o divergentes de las personas que participan. Cuando salen temas de actualidad es cómo si se comentaran pero de una manera poco convencional, como haciendo asociaciones de ideas. El sentido que el conjunto de la composición toma puede depender de la coincidencia en lo que se interpreta y en lo que apetece hacer. Se puede comparar esta dinámica con la que se puede dar en una **Jam Session** entre músicos de Jazz. Si es una sesión abierta, un músico puede subir al escenario y tocar con gente con quien no lo había hecho antes. El conocimiento compartido sobre estándares y estructuras musicales hará posible la creación conjunta. También la capacidad para responder o acompañar la improvisación.
 
@@ -60,7 +69,7 @@ Tanto en *Wikipool* como en *Open Studio* la experiencia puede ser mucho más fr
 
 > Llevo unos días conectando a ratos en *Glyphiti* (6). Miro como está la imagen y dibujo algo. Esta mañana el dibujo del barco todavía estaba, abarcando varias casillas de la parte de abajo. Yo he dibujado unos hombrecillos encima. Pero ahora no queda ni rastro. Alguien se ha dedicado a borrar toda esta parte haciendo garabatos casilla a casilla. En la parte de arriba hay dos manzanas, un con un mordisco. Hace días que están las manzanas. Una de ellas había sido una pera que después se transformó. No recuerdo que esta mañana la manzana estuviera mordida, creo que me habría fijado. Dedico un rato a dibujar un mordisco en la otra manzana. El pasado sábado cuando estaba dibujando vi como cambiaban unas cuántas casillas. Alguien dibujaba al mismo tiempo que yo. Estaba dibujando un muñeco que saludaba y yo hice uno de igual en la casilla de al lado. Tiene su cosa dibujar píxel a píxel en blanco y negro. No es tan fácil como esto! Bajo mi dibujo apareció un signo: dos puntos, una barra, dos puntos. Algún código? No sé qué significa...
 >
-> IMAGEN_3
+> <p align="center"><img src="/img/blog/2021/img3_glyphiti.jpg" alt="Captura de Glyphiti" width="70%"></p>
 
 *Glyphiti*, creado por Andy Deck en 2000, es un programa *online* donde se va transformando una imagen a través de la intervención de diferentes personas. La imagen está dividida en 256 casillas. Para hacer cambios hay que seleccionar una y dibujar cambiando píxeles blancos por negros o al revés. El sistema no permite dibujar sobre varias casillas a la vez, para hacer un dibujo que ocupe una parte grande de la imagen se tienen que editar una tras otra. La propuesta tiene una orientación **asíncrona**, cada persona puede conectarse y dibujar en el momento que escoja. La acumulación de contribuciones hace evolucionar la imagen. Pero tampoco se impide una conexión simultánea.
 
@@ -78,7 +87,7 @@ La experiencia de la **literatura potencial** nos puede ayudar a interpretar *Gl
 >
 > A través de un enlace a “Minotauro” llego a la página “Teseo”, un artículo mucho más completo, con imágenes y todo, que tiene un recuadro indicando que alguien está trabajando. Por curiosidad, consulto el historial del artículo donde puedo comparar dos a dos cualquier de las versiones que ha ido teniendo desde que hace unos tres años alguien empezó con un borrador similar al que yo he hecho por el toro. Cuando vuelvo al artículo, un recuadro de color naranja en la parte superior me indica que tengo un mensaje en mi página de discusión. Alguien, ponemos que se llama Pasqual, me ha puesto un mensaje de bienvenida con varias orientaciones para colaborar con la Wikipedia. Para hacerlo ha utilizado la marca “{{bienvenida}}” que inserta todo esto automáticamente.
 >
-> IMAGEN_4
+> <p align="center"><img src="/img/blog/2021/img4_wikipediaTeseu.jpg" alt="Captura del historial de edición de la página &quot;Teseu&quot; en la Wikipedia en catalán" width="70%"></p>
 
 La *Wikipedia*, proyecto fundado en 2001 por Jimmy Wales y Larry Sanger, es una enciclopedia de contenidos *copyleft* creada colectivamente en internet. Para que esto sea posible se utiliza un sistema **wiki** que permite que los artículos puedan ser editados por cualquier persona directamente desde el navegador. Los editores pueden ser **anónimos** o estar identificados como **usuarios registrados**. Esta segunda opción permite, entre otras cosas, hacer un seguimiento de quien ha editado un artículo.
 
@@ -132,12 +141,13 @@ Hay un gran potencial por explorar y desarrollar la creación colectiva en un co
 >
 > Fecha prevista de publicación: **29 de noviembre de 2021**.
 
+> <p align="left"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p>
 > **Publicación conjunta**
 >
 > Este text se publica simultáneamente en las webs de les cooperativas\
 > **femProcomuns** y **Col·lectivaT**
 >
-> *Si quieres republicarlo en cualquiera de los idiomas en los que está o traducirlo a otras lenguas, ponte en [contacto](mailto:teixidora@femprocomuns.coop) con nosotros.*
+> *Si quieres republicarlo en cualquiera de los idiomas en los que está o traducirlo a otras lenguas, ponte en [contacto](mailto:teixidora@femprocomuns.coop).*
 
 ## Bibliografía
 
