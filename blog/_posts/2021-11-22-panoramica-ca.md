@@ -132,15 +132,21 @@ Els sistemes que utilitzen mecanismes automatitzats i el que hem anomenat protoc
 
 Hi ha un gran potencial per explorar i desenvolupar la creació col·lectiva en un context de xarxa, però no ens podem quedar en la superfície, cal que intentem reflexionar sobre les condicions de l'experiència, les característiques dels sistemes implicats i les qüestions polítiques i socials que se'n deriven. I cal fer-ho tenint en compte que posant en comú i discutint les interpretacions estem modelant aquestes experiències i fertilitzant el terreny pel germinat de noves propostes.
 
+---
+
 > Debat sobre aquest text a la categoria
 >
 > **"Artec" de l'Àgora de CommonsCloud**
 >
 > **[Uneix-t'hi!](https://agora.commonscloud.coop/t/sobre-la-categoria-artec/1511)**
 
+---
+
 > Següent text de la sèrie: ***Argila, una invitació a enfangar-se***
 >
 > Data prevista de publicació: **29 de novembre de 2021**.
+
+---
 
 > <p align="left"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p>
 > 
@@ -150,6 +156,8 @@ Hi ha un gran potencial per explorar i desenvolupar la creació col·lectiva en 
 > **femProcomuns** i **Col·lectivaT**
 >
 > *Si vols republicar-los en qualsevol de les llengües en que està o traduir-lo a altres llengües, posa’t en [contacte](mailto:teixidora@femprocomuns.coop).*
+
+---
 
 ## Bibliografia
 
