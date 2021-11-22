@@ -17,7 +17,7 @@ summary: "Presentem tres textos sobre creació col·lectiva i apropiació tecnol
 
 Aquest **primer text** presenta una **panoràmica de la creació col·lectiva online** servint-se del relat experiencial en l’ús de diversos sistemes, per comentar-los a continuació. Per fer això se serveix d’una motxilla conceptual que inclou el ready-made, les constriccions de la literatura potencial oulipiana, la co-construcció que fa l’espectador de l’obra en la teoria de la recepció, la producció col·laborativa en capes de ceba i la concepció dels sistemes com a caixes negres en la teoria social de la ciència, introduint alguns conceptes propis com els protocols d’encaix que fan possible una obra col·lectiva coherent. El relat d’experiències dona al lector uns referents per introduir-lo en els conceptes i portar-lo per un recorregut de reflexió sobre les possibilitats i reptes de la creació col·lectiva.
 
-<p align="center"><img src="/img/blog/2021/img0_txt1_llavors.png" alt="" width="70%"></p>
+<p align="center"><img src="/img/blog/2021/featured_img_txt1_llavors_Q.png" alt="" width="70%"></p>
 
 # Creació col·lectiva: una panoràmica
 
