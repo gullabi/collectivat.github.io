@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "SuportMuTu: Accessibilitat lingüística als canals públics i suport veïnal"
+title: "Argila, llavors i codi font. Tres textos."
 ref: suportmutu
-thumbnail: /img/blog/2020/suportmutu_landscape.png
+thumbnail: /img/blog/2021/img0_txt1_llavors.png
 lang: ca
-summary: "Gràcies a la iniciativa Economia Per La Vida, hem creat una infraestructura digital per traduir els canals públics i de suport veïnal a Telegram, a algunes llengües de les comunitats d’origen migrant de Catalunya."
+summary: "Presentem tres textos sobre creació col·lectiva i apropiació tecnològica escrits pel col·lectiu artístic TAG Taller d’Intangibles entre 2006 i 2012. Les recuperem com a aportacions que conviden a la reflexió i el debat sobre la tecnologia, la creació artística col·lectiva, l’autoritat de l'autoria i l’apropiació tecnològica i creativa."
 ---
 
 ## Argila, llavors i codi font. Tres textos.
@@ -17,7 +17,7 @@ summary: "Gràcies a la iniciativa Economia Per La Vida, hem creat una infraestr
 
 Aquest **primer text** presenta una **panoràmica de la creació col·lectiva online** servint-se del relat experiencial en l’ús de diversos sistemes, per comentar-los a continuació. Per fer això se serveix d’una motxilla conceptual que inclou el ready-made, les constriccions de la literatura potencial oulipiana, la co-construcció que fa l’espectador de l’obra en la teoria de la recepció, la producció col·laborativa en capes de ceba i la concepció dels sistemes com a caixes negres en la teoria social de la ciència, introduint alguns conceptes propis com els protocols d’encaix que fan possible una obra col·lectiva coherent. El relat d’experiències dona al lector uns referents per introduir-lo en els conceptes i portar-lo per un recorregut de reflexió sobre les possibilitats i reptes de la creació col·lectiva.
 
-IMATGE_0
+<p align="center"><img src="/img/blog/2021/img0_txt1_llavors.png" alt="" width="1412" height="516" /></p>
 
 # Creació col·lectiva: una panoràmica
 
@@ -43,7 +43,7 @@ En aquest text utilitzaré algunes de les «llavors» recollides per construir u
 >
 > Al cap d'uns dies rebo un segon missatge automatitzat de FreakMachine (your freak is ready!) que m'indica l’URL on puc veure el dibuix acabat. Em diverteixo veient el personatge estrafolari que hem creat entre en Marcel, la Rosa i jo. Personatge bicèfal, perquè la Rosa ha decidit subvertir el que s'esperava d'ella i dibuixar un cap en lloc dels peus que se li demanaven.[4](#sdfootnote4sym)
 
-IMATGE_1
+<p align="center"><img src="/img/blog/2021/img1_FreakMachine.png" alt="Captura de FreakMachine quan el primer participant ha acabat de fer la seva part." width="1406" height="1220" /></p>
 
 *FreakMachine*, creat per Nick Langridge l'any 2002, és una de les variants a internet de la pràctica surrealista del “cadàver exquisit” on se segueix un procediment molt semblant fent servir un paper que es doblega per ocultar les parts del dibuix a qui les ha de continuar. Tres persones **comparteixen l'autoria** del dibuix resultant. Però ningú afirmaria que hi ha hagut un treball en equip entre elles. S'han limitat a respectar unes regles simples: prolongar unes línies a la part següent del dibuix i/o dibuixar partint de les línies que venen de la part anterior. Es podria dir que són uns **protocols** bàsics que garanteixen l'encaix. Però el nucli central d'aquesta proposta és que l'encaix es produeix entre parts que s'han dibuixat sense que els participants coneguessin les altres. Aquesta **ocultació** d'una part de l'obra en el moment de participar-hi és, paradoxalment, una característica comuna a diverses propostes de creació col·lectiva. El desconeixement de l'altra part és el que produeix el resultat inesperat, sorprenent, sovint divertit i suggeridor. Quan el participant dibuixa no és estrany que especuli sobre com seran les altres dues parts, i pot actuar per d'alguna manera, a cegues, dialogar-hi. En el nostre exemple anterior, la Rosa intentava ficar-se en la ment dels altres dibuixant-los un cap on creia que s'esperarien uns peus, al mateix temps que se saltava una de les regles del sistema, que li havia demanat en un missatge que dibuixés uns peus. Què hauria passat si en Marcel hagués fet el mateix i hagués dibuixat uns peus en lloc del cap? El personatge hauria quedat complet però de cap-per-avall.
 
