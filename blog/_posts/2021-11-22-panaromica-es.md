@@ -135,6 +135,8 @@ Hay un gran potencial por explorar y desarrollar la creación colectiva en un co
 > **"Artec" del Ágora de CommonsCloud**
 >
 > **[Únete!](https://agora.commonscloud.coop/t/sobre-la-categoria-artec/1511)**
+> 
+> (para participar en el debate [regístrate](https://gent.commonscloud.coop/registre) antes)
 
 ---
 
@@ -145,12 +147,15 @@ Hay un gran potencial por explorar y desarrollar la creación colectiva en un co
 ---
 
 <p align="center"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p>
- 
 <p align="center"><b>Publicación conjunta</b></p>
 
-<p align="center">Este text se publica simultáneamente en las webs de les cooperativas <b>femProcomuns</b> y <b>Col·lectivaT</b></p>
+<p align="center"> Este text se publica simultáneamente en las webs de les cooperativas</p>
+<p align="center"> <a href="https://femprocomuns.coop/?lang=en"><strong> femProcomuns </strong></a>y<a href="https://collectivat.cat/blog/en" target="_blank" rel="noopener noreferrer"><strong> Col·lectivaT</strong></a></p>
 
-<p align="center"><i>Si quieres republicarlo en cualquiera de los idiomas en los que está o traducirlo a otras lenguas, ponte en contacto a teixidora@femprocomuns.coop.</i></p>
+<p align="center"> Con el apoyo del <a href="https://www.llull.cat/english/home/index.cfm" target="_blank" rel="noopener noreferrer">Institut Ramon Llull</a></p>
+<p align="center"><img src="https://www.llull.cat/_img_r/llll.png" alt="" width="10%"></p>
+
+<p align="center"><i>Si quieres republicarlo en cualquiera de los idiomas en los que está o traducirlo a otras lenguas, ponte en <a href="mailto:teixidora@femprocomuns.coop">contacto</a>.</i></p>
 
 ---
 
@@ -158,6 +163,10 @@ Hay un gran potencial por explorar y desarrollar la creación colectiva en un co
 
 * GADAMER, Hans-Georg. ***La actualidad de lo bello. El arte como juego, símbolo y fiesta***. Editorial Paidós/ICE-UAB, Barcelona, 1991.
 * LATOUR, Bruno. ***De la mediación técnica: filosofía, sociología, genealogía*** en DOMENEC, M. & TIRADO, F.J. (editores) *Sociología simétrica.* Editorial Gedisa, Barcelona, 1998.
+
+## Ver también
+
+[Segundo artículo de la série “Arcilla, semillas y código fuente”: Arcilla, una invitación a enfangarse.</i>](https://collectivat.cat/blog/2021-11-29-argila-es/)
 
 ## Notas
 
