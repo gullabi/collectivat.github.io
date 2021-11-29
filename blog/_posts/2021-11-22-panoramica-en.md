@@ -139,7 +139,9 @@ There is a great potential to explore and develop collective creation in a netwo
 >
 > **"Artec" in the CommonsCloud Agora**
 >
-> **[Join!](https://agora.commonscloud.coop/t/sobre-la-categoria-artec/1511)**
+> **[Join the discussion!](https://agora.commonscloud.coop/t/sobre-la-categoria-artec/1511)**
+> 
+> (To participate in discussion please [sign up](https://gent.commonscloud.coop/registre) first)
 
 ---
 
@@ -152,9 +154,13 @@ There is a great potential to explore and develop collective creation in a netwo
 <p align="center"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p>
 <p align="center"><b>Joint publication</b></p>
 
-<p align="center">This text is published simultaneously on the websites of the cooperatives <b>femProcomuns</b> and <b>Col·lectivaT</b></p>
+<p align="center"> This text is published simultaneously on the websites of the cooperatives</p>
+<p align="center"> <a href="https://femprocomuns.coop/?lang=en"><strong> femProcomuns </strong></a>and<a href="https://collectivat.cat/blog/en" target="_blank" rel="noopener noreferrer"><strong> Col·lectivaT</strong></a></p>
 
-<p align="center"><i>If you want to republish it in any of the languages in which it is published or translate it to other languages, please contact teixidora@femprocomuns.coop.</i></p>
+<p align="center"> With the support of <a href="https://www.llull.cat/english/home/index.cfm" target="_blank" rel="noopener noreferrer">Institut Ramon Llull</a></p>
+<p align="center"><img src="https://www.llull.cat/_img_r/llll.png" alt="" width="10%"></p>
+
+<p align="center"><i>If you want to republish it in any of the languages in which it is published or translate it to other languages, please <a href="mailto:teixidora@femprocomuns.coop">contact</a>.</i></p>
 
 ---
 
@@ -162,6 +168,9 @@ There is a great potential to explore and develop collective creation in a netwo
 
 * GADAMER, Hans-Georg. ***The beauty of the current. The Game, the Symbol and the Party***.
 * LATOUR, Bruno. ***De la mediación técnica: filosofía, sociología, genealogía*** en DOMENEC, M. & TIRADO, F.J. (editores) *Sociología simétrica.* Editorial Gedisa, Barcelona, 1998.
+
+## See also:
+[Second article of the series "Clay, seeds, and source code": <i>Argila, an invitation to get muddy</i>](https://collectivat.cat/blog/2021-11-22-panoramica-en/)
 
 ## Notes
 
