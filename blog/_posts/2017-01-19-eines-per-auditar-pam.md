@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eines per auditar el PAM de decidim.barcelona"
-ref: sp_release
+ref: decidim
 image: /img/blog/2017/kapak.png
 #thumbnail: /img/blog/2017/metadecidim_sm.png
 lang: ca

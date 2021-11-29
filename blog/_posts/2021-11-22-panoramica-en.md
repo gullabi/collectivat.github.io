@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clay, seeds, and source code. Three articles."
-ref: argila
+ref: panaromica
 thumbnail: /img/blog/2021/img0_txt1_llavors.png
 lang: en
 summary: "We present three articles on collective creation and technological appropriation written by the art collective *TAG Taller d'Intangibles* (“TAG Intangibles Workshop”) between 2006 and 2012. We retrieve these articles as contributions that invite to reflect on and discuss technology, collective artistic creation, authority of authorship, and technological and creative appropriation."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arcilla, semillas y código fuente. Tres textos."
-ref: argila
+ref: panaromica
 thumbnail: /img/blog/2021/img0_txt1_llavors.png
 lang: es
 summary: "Presentamos tres textos sobre creación colectiva y apropiación tecnológica escritos por el colectivo artístico TAG Taller d’Intangibles entre 2006 y 2012. Los recuperamos como aportaciones que invitan a la reflexión y al debate sobre la tecnología, la creación artística colectiva, la autoridad de la autoría y la apropiación tecnológica y creativa."
