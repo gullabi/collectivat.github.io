@@ -135,6 +135,8 @@ Hi ha un gran potencial per explorar i desenvolupar la creació col·lectiva en 
 > **"Artec" de l'Àgora de CommonsCloud**
 >
 > **[Uneix-t'hi!](https://agora.commonscloud.coop/t/sobre-la-categoria-artec/1511)**
+>
+> (per participar al debat [registra't](https://gent.commonscloud.coop/registre) abans)
 
 ---
 
@@ -144,12 +146,16 @@ Hi ha un gran potencial per explorar i desenvolupar la creació col·lectiva en 
 
 ---
 
-<p align="left"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p>
+<p align="center"><img src="/img/blog/2021/logos-TAG-femProcomuns-ColectivaT.png" alt="" width="40%"></p>
 <p align="center"><b>Publicació conjunta</b></p>
 
-<p align="center">Aquest text es publica simulàniament a les webs de les cooperatives <b>femProcomuns</b> i <b>Col·lectivaT</b></p>
+<p align="center"> Aquest text es publica simulàniament a les webs de les cooperatives</p>
+<p align="center"> <a href="https://femprocomuns.coop/?lang=en"><strong> femProcomuns </strong></a>i<a href="https://collectivat.cat/blog/en" target="_blank" rel="noopener noreferrer"><strong> Col·lectivaT</strong></a></p>
 
-<p align="center"><i>Si vols republicar-los en qualsevol de les llengües en que està o traduir-lo a altres llengües, posa’t en contacte a teixidora@femprocomuns.coop.</i></p>
+<p align="center"> Amb el suport de l'<a href="https://www.llull.cat/english/home/index.cfm" target="_blank" rel="noopener noreferrer">Institut Ramon Llull</a></p>
+<p align="center"><img src="https://www.llull.cat/_img_r/llll.png" alt="" width="10%"></p>
+
+<p align="center"><i>Si vols republicar-los en qualsevol de les llengües en que està o traduir-lo a altres llengües, posa't en <a href="mailto:teixidora@femprocomuns.coop">contacte</a>.</i></p>
 
 ---
 
@@ -157,6 +163,11 @@ Hi ha un gran potencial per explorar i desenvolupar la creació col·lectiva en 
 
 * GADAMER, Hans-Georg. \*\*\*La actualidad de lo bello. El arte como juego, símbolo y fiesta. \*\*\*Editorial Paidós/ICE-UAB, Barcelona, 1991.
 * LATOUR, Bruno ***De la mediación técnica: filosofía, sociología, genealogía*** a DOMENEC, M. & TIRADO, F.J. (editors) *Sociología simétrica.* Editorial Gedisa, Barcelona, 1998.
+
+## Vegeu també
+
+[Segon article de la sèrie "Argila, llavors i codi font": <i>Argila, una invitació a enfangar-se.</i>](https://collectivat.cat/blog/2021-11-29-argila-ca/)
+
 
 ## Notes
 
