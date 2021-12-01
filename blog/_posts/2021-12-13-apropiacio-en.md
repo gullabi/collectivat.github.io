@@ -67,11 +67,11 @@ We began “*Argila*” on the basis of two observations that immediately stand 
 
 <img align="left" src="https://[IMAGE LINK] OR /img/blog/2021/[IMAGE_NAME.png/.jpg]" alt="" width="" height=""> [TEXT]
 
-## Notes/ Bibliography ##
+## Bibliography? ##
 
-[^*]:
-[^**]: 
-
+-
+-
+-
 ---
 
 > Discussion of this text in the category
@@ -109,3 +109,8 @@ Other articles of the series "Clay, seeds, and source code":
 
 - [<i>Collective Creation: an overview</i>](https://collectivat.cat/blog/2021-11-22-panoramica-en/)
 - [<i>Argila, an invitation to get muddy</i>](https://collectivat.cat/blog/2021-11-29-argila-en/)
+
+##  Notes? ##
+
+[^*]:
+[^**]: 
