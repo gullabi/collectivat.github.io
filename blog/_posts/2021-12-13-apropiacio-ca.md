@@ -117,8 +117,8 @@ Quan vàrem formular "Argila" partíem de dues constatacions que salten a la vis
 
 Articles anteriors de la sèrie “Argila, llavors i codi font”:
 
-[<i>Creació col·lectiva: una panaròmica</i>](https://collectivat.cat/blog/2021-11-22-panoramica-ca/)
-[<i>Argila, una invitació a enfangar-se</i>](https://collectivat.cat/blog/2021-11-29-argila-ca/)
+<p align="left"><img src="/img/blog/2021/thumbnail_featured_img_txt1_llavors_Q.png" alt="" width="50" hspace="20"><a href="https://collectivat.cat/blog/2021-11-22-panoramica-ca/" target="_blank" rel="noopener noreferrer"><i>Creació col·lectiva: una panaròmica</i></a></p>
+<p align="left"><img src="/img/blog/2021/thumbnail_featured_img_txt2_argila_ca_Q.png" alt="" width="50" hspace="20"><a href="https://collectivat.cat/blog/2021-11-29-argila-ca/" target="_blank" rel="noopener noreferrer"><i>Argila, una invitació a enfangar-se</i></a></p>
 
 ###  Notes
 
