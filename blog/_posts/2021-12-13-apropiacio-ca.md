@@ -15,25 +15,22 @@ summary: "Presentem tres textos sobre creació col·lectiva i apropiació tecnol
 
 Aquest **tercer text** connecta algunes reflexions sobre la **creació col·lectiva** amb l’**apropiació tecnològica**. Explora les característiques fixades en el disseny dels artefactes i la seva apropiació i redefinició en les pràctiques d’ús. Reprèn les reflexions d’Argila per situar la creació tecnològica en un procés on mai es parteix de zero i on sempre és possible hackejar a partir de coneixements parcials.
 
-
-
-
-
+# &nbsp;      
 
 <p align="center"><img src="/img/blog/2021/featured_img_txt3_apropiació_ca_Q.png" alt="" width="60%"></p>
 <p align="center"><b>Jaume Ferrer Rosera i David Gómez Fontanills. Maig 2012. TAG Taller d’Intangibles · enlloc.net.</b></p>
 <p align="center">Version 1.2 – 2021 · Llicència: Creative Commons 3.0 Atribució Compartir Igual</p>
 <p align="center"><i>Publicat originàriament al llibre resultant de les V Jornadas Internacionales «Innovaciones Artísticas y Nuevos Medios: Conservación, Redes y Tecnociencia» que van tenir lloc el maig de 2012 a la Universitat de Barcelona organitzades pel Grup de Recerca «Art, Arquitectura i Societat Digital»</i></p>
 
-## &nbsp;      
+&nbsp;
+&nbsp;
+&nbsp;
 
 **Paraules clau**
 
 apropiació tecnològica, argila, caixa negra, constriccions, creació col·lectiva, hack, no-linial, obra en procés, obra oberta, obsolescència, Oulipo, regles del joc, trastejar
 
-&nbsp;
-&nbsp;
-&nbsp;
+## &nbsp;  
 
 > Un bloc d'argila es manté humit sobre una taula. Algunes persones que passen s'avenen a enfangar-se i a modelar-la. Passen altres persones que es miren i interpreten el que aquestes han modelat, algunes ho comenten. Algunes d'elles també s'enfanguen les mans modelant el bloc d'argila. L'escultura canvia amb la successió d'intervencions. Flueix també la diversitat d'interpretacions, compartides o no.
 
