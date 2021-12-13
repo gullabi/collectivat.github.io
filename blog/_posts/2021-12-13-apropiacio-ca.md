@@ -23,14 +23,18 @@ Aquest **tercer text** connecta algunes reflexions sobre la **creació col·lect
 <p align="center"><i>Publicat originàriament al llibre resultant de les V Jornadas Internacionales «Innovaciones Artísticas y Nuevos Medios: Conservación, Redes y Tecnociencia» que van tenir lloc el maig de 2012 a la Universitat de Barcelona organitzades pel Grup de Recerca «Art, Arquitectura i Societat Digital»</i></p>
 
 &nbsp;
-&nbsp;
+
 &nbsp;
 
 **Paraules clau**
 
 apropiació tecnològica, argila, caixa negra, constriccions, creació col·lectiva, hack, no-linial, obra en procés, obra oberta, obsolescència, Oulipo, regles del joc, trastejar
 
+&nbsp;
+
 ### Creació col·lectiva i apropiació tecnològica
+
+&nbsp;
 
 > Un bloc d'argila es manté humit sobre una taula. Algunes persones que passen s'avenen a enfangar-se i a modelar-la. Passen altres persones que es miren i interpreten el que aquestes han modelat, algunes ho comenten. Algunes d'elles també s'enfanguen les mans modelant el bloc d'argila. L'escultura canvia amb la successió d'intervencions. Flueix també la diversitat d'interpretacions, compartides o no.
 
@@ -41,15 +45,21 @@ Després d'haver estat estudiant i treballant en diferents projectes a internet 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-01a--Faldilla 4d.jpg" alt="" width="30%" hspace="10%"> <img src="/img/blog/2021/IMG-TXT3-01b--Ho_reconec_03.jpg" alt="" width="30%"> </p>
 <p align="center">Il·lustracions: Roger Ballabrera 2011 – CC-BY-SA 3.0-es</p>
 
+&nbsp;
+
 Al món físic sembla fàcil reutilitzar i modificar objectes, reinventar eines. Els artefactes tangibles estan a l'abast, els seus límits venen imposats només per la física dels materials i pels principis de la mecànica. Simplement aprofitant-ne les característiques podem donar un ús diferent a un objecte, com és el cas de la llanda de cotxe. I tothom amb les seves mans, algunes eines bàsiques de propòsit general i unes quantes nocions de bricolatge pot fer un hack i convertir una ampolla en un embut o en un llum, per exemple. Algú que hagi après a soldar pot reconvertir la llanda de cotxe en una barbacoa, afegint-hi alguns ferros que facin de peu i de graella. A través del projecte "**HKp Hacks arreu**" hem documentat diversos exemples per mostrar aquesta capacitat que tenim d'apropiar-nos creativament de les coses i que la dinàmica del consum passiu sovint ens la fa passar per alt. Potser les coses es compliquen amb els artefactes de mecànica complexa o electrònics. I es compliquen almenys per dos motius: en primer lloc calen coneixements i habilitats per entendre'ls, manipular-los i modificar-los; en segon lloc sovint els fabricants els dissenyen de forma que el seu funcionament sigui opac, dificultant-ne l'eventual manipulació o posant normes i advertències per impedir-la.
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-02a--Llandes_01.jpg" alt="" width="30%" hspace="10%"> <img src="/img/blog/2021/IMG-TXT3-02b--Llandes_03.jpg" alt="" width="30%"> </p>
 <p align="center">Il·lustracions: Roger Ballabrera 2011 – CC-BY-SA 3.0-es</p>
 
+&nbsp;
+
 Passa quelcom molt similar amb els “artefactes de software”. Sovint ens hem trobat que les persones participants en les diverses experiències de creació col·lectiva en xarxa que observàvem es limitaven a treballar en la capa d'ús, de creació de continguts, però deixaven intacta la capa de software que sustentava l'experiència. Aquesta capa feia possible l'experiència en un doble sentit: proporcionava l'entorn de treball i al mateix temps, i precisament per això, fixava els límits de les formes admissibles d'ús, de treball i de col·laboració. En comparació amb les possibilitats de modificació que ofereixen alguns artefactes físics, semblava que aquesta mena d'entorns en xarxa es resistien a ser reapropiats creativament i limitaven el fenomen de la creació col·lectiva als continguts creats més que no pas al mateix sistema de regles de creació de continguts. Les **regles del joc**, més enllà d'una convenció compartida per les jugadores, **estarien inscrites en la tecnologia** que el fa possible.
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-03--Busquem_Hacks_03zoom.jpg" alt="" width="50%"></p>
 <p align="center">Il·lustració: Roger Ballabrera 2011 – CC-BY-SA 3.0-es</p>
+
+&nbsp;
 
 No és una qüestió trivial. El fet que la creació en xarxa es doni dins d'uns entorns de treball tecnològicament mediats planteja l'existència d'una finalitat i d'unes **condicions que són prèvies a l'experiència estètica de les participants**. Això dibuixa un **model lineal** segons el qual primer la persona amb el rol d'autora (artista, programadora, dissenyadora...) defineix les condicions d'experiència i després les persones participants interaccionen sota aquestes condicions. Tot i que la interacció entre les participants pot fer emergir propietats del sistema no previstes per l'autora, l'experiència es desenvolupa en línies generals segons els límits fixats pel mateix disseny, el qual defineix el que en termes de complexitat de sistemes Kauffman anomena "allò adjacentment possible" (Kauffman, 2000). És a dir, restringeix les possibilitats de creació a un conjunt finit. En el camp de la creació artística la decisió sobre la delimitació d'aquest conjunt sol recaure en la persona o equip artístic que impulsa i dinamitza el projecte de producció de l'entorn de creació. La mateixa anàlisi i desenvolupament de l'entorn consisteixen en la delimitació del conjunt d'usos possibles. En aquest sentit el podem equiparar al procés oulipià[^1] de definició d'unes regles prèvies que limiten i estimulen alhora l'experiència d'escriptura creativa. Aquests entorns segueixen un procés lineal en el sentit que impliquen un abans i un després, i aquesta linealitat es tradueix en una capacitat de control desigual sobre l'experiència d'ús posterior. Les participants no podran mai escapar totalment a aquest control, per més que inventin usos no previstos. Com a molt podran condicionar els canvis que les dissenyadores introdueixin en futures versions.
 
@@ -61,8 +71,10 @@ Quan intentàvem imaginar com podria ser aquest entorn sovint usàvem la metàfo
 
 Reivindicant la nostra trajectòria híbrida de recerca artística i teòrica, i sent fidels al nostre interès per la tecnologia més enllà de la distinció entre món analògic i digital, amb “**Argila-entre-mans**” vàrem decidir reproduir la metàfora literalment, exposant diversos dies seguits un bloc d'argila a la manipulació anònima en dos esdeveniments: un festival artístic i un hackmeeting. Ambdues experiències ens van ajudar a entendre millor què és un entorn de creació col·lectiva, quins són els seus límits, febleses i fortaleses. I que cada proposta té les seves característiques concretes que influeixen en la dinàmica que es genera. En el cas d’“Argila-entre-mans” podríem considerar que és una ***obra oberta*** en el sentit que tothom hi pot participar, que és una ***obra en procés*** perquè no hi ha un resultat definitiu i que aquest *procés* és *obert* perquè en tot moment és públic per a tothom (a diferència d'altres propostes de creació col·lectiva, com pot ser el *cadàver exquisit* surrealista, que precisament es basen en no conèixer la intervenció dels altres fins que s'obté un resultat final sorprenent on encaixen totes les contribucions). Les persones que ja han decidit enfangar-se els dits s'enfronten al que ja hi ha fet i, d'una manera o altra, ho tenen en compte, sigui per modelar seguint una línia (formal, temàtica) que algú ha obert abans, sigui per desfer-ho tot i donar-li una orientació diferent completament nova. Hi ha, doncs, una **dinàmica de diàleg/controvèrsia** entre les intervencions successives i un condicionant “històric” sobre l'evolució de l'obra. La plasticitat de l'argila és la base mínima que delimita el que es pot fer.
 
-<p align="center"><img src="/img/blog/2021/IMG-TXT3-04__argila-entre-mans-seq-2100px.jpg" alt="" width="90%"></p>
+<p align="center"><img src="/img/blog/2021/IMG-TXT3-04__argila-entre-mans-seq-2100px.jpg" alt="" width="100%"></p>
 <p align="center">Fotos: TAG Taller d’Intangibles 2006. Maçart i Hackiluro. – CC-BY-SA 3.0-es</p>
+
+&nbsp;
 
 La proposta teòrica “Argila” d'un sistema tecnològic amb una robustesa similar al bloc d'argila remarca el paper que juga la capa del software com a fixadora de regles implícites, i a conseqüència d'això revela l'existència d'una **jerarquia** de realitats i de persones. Simplificant, podríem dir que en molts casos qui dissenya/programa l'entorn és una creadora de baix nivell, amb prou poder per determinar les possibilitats del sistema, creadora que sovint resulta legitimada en l'àmbit artístic com a 'autora' de l'experiència creativa en tant que 'autora' (amb nom propi, trajectòria artística i discurs) de la proposta d'entorn. En canvi, qui usa aportant/modificant continguts és una creadora d'alt nivell, sovint anònima i per tant sense reconeixement artístic, amb un passat limitat al seu paper com a membre d'una comunitat. Mentre que les programadores/dissenyadores gaudeixen d'una identitat humana i del dret a obtenir reconeixement en la vida que existeix més enllà de l'entorn, les simples usuàries de l'entorn, per contra, sovint com a molt arriben a construir una identitat limitada a la vida dins del mateix entorn. Els particulars mecanismes per obtenir legitimitat dins del món de l'art, amb la seva preferència per les històries amb noms propis, juguen aquí un paper clau, però també la forma com es construeix el relat de la cultura en general, que tendeix a **relegar en l'anonimat l'esforç col·lectiu** i a explicar i **classificar el món en termes d'iniciatives particulars**.
 
@@ -72,6 +84,8 @@ Una altra forma d'entendre el problema seria considerar la mateixa naturalesa de
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-05a--Pneumatic_02.jpg" alt="" width="30%" hspace="10%"> <img src="/img/blog/2021/IMG-TXT3-05b--Pneumatic_03.jpg" alt="" width="30%"> </p>
 <p align="center">Il·lustracions: Roger Ballabrera 2011 – CC-BY-SA 3.0-es</p>
+
+&nbsp;
 
 Quan vàrem formular "Argila" partíem de dues constatacions que salten a la vista per poc que observem el nostre món, la **primera** és que és molt difícil viure experiències no mediades en major o menor mesura per la **tecnologia**. Com una capa de film per embolicar aliments, la tecnologia, i especialment el software són arreu, embolcallant-nos, interposant-se entre nosaltres i la resta del món, i de tan embolicada com està constitueix l'essència de moltes de les coses que ens envolten (Manovich, 2008). La **segona** és que no és possible crear o viure experiències de forma 100% individual. Les persones som així, percebem, entenem i sentim a través del que han percebut, entès i sentit altres persones abans que nosaltres i ho fem compartint-ho amb altres persones que ho fan al mateix temps que nosaltres i que també ens influeixen. Potser sí que, com va escriure Joseph Conrad, "vivim igual que somiem, sols", però en tot cas somiem i vivim a través dels somnis i de les vides de les altres persones. És per això que les implicacions conceptuals d'"Argila" van molt més enllà dels entorns de **creació col·lectiva en xarxa** i apunten a una revisió més profunda de què entenem per 'creació', que entenem per 'col·lectiva' i què entenem per 'en xarxa'. I que les reflexions que planteja "Argila" s'enriqueixen si les posem en intersecció amb les que planteja l’observació de diversos exemples d'*apropiació creativa dels usuaris*. Perquè fan més nítid que el **disseny** (de l'artefacte o de la proposta participativa) condiciona i posa **límits** (al seu ús o experiència); que així i tot poden sortir **propietats emergents** no previstes; que els **coneixements** i **habilitats** (encara que siguin parcials) de les usuàries o participants incrementen les possibilitats d'intervenció; i que el mateix disseny “inicial” no és quelcom que va partir de zero sinó que estava condicionat per altres capes i estrats tecnològics i/o culturals anteriors i paral·lels.
 
