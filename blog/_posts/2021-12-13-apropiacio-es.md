@@ -15,20 +15,26 @@ summary: "Presentamos tres textos sobre creación colectiva y apropiación tecno
 
 Este **tercer texto** conecta algunas reflexiones sobre la **creación colectiva** con la **apropiación tecnológica**. Explora las características fijadas en el diseño de los artefactos y su apropiación y redefinición en las prácticas de uso. Retoma las reflexiones de Arcilla para situar la creación tecnológica en un proceso donde nunca se parte de cero y dónde siempre es posible hackear a partir de conocimientos parciales.
 
-#
+# &nbsp;
 
 <p align="center"><img src="/img/blog/2021/featured_img_txt3_apropiación_es_Q.png" alt="" width="60%"></p>
 <p align="center"><b>Jaume Ferrer Rosera y David Gómez Fontanills. Mayo 2012. TAG Taller d’Intangibles · enlloc.net.</b></p>
 <p align="center">Versión 1.2 – 2021 · Licencia: Creative Commons 3.0 Atribución Compartir Igual</p>
 <p align="center"><i>Publicado originariamente en el libro resultante de las V Jornadas Internacionales «Innovaciones Artísticas y Nuevos Medios: Conservación, Redes y Tecnociencia» que tuvieron lugar en mayo de 2012 en la Universitat de Barcelona organizadas por el Grupo de Investigación «Arte, Arquitectura y Sociedad Digital»</i></p>
 
-##
+&nbsp;
+
+&nbsp;
 
 **Palabras clave**
 
 apropiación tecnológica, reutilitzación, creación colectiva en red, hack, no-lineal, apropiación creativa, obra abierta, obra en proceso, proceso abierto, diálogo, controversia, autoría, autoridad, programación, jerarquía, plasticidad, código, conocimiento, conocimientos parciales, habilidades.
 
-##  
+&nbsp;
+
+### Creación colectiva y apropiación tecnológica
+
+&nbsp;
 
 > Un bloque de arcilla se mantiene húmedo sobre una mesa. Algunas personas que pasan se avienen a enfangarse y a moldearla. Pasan otras personas que se miran e interpretan lo que estas han modelado, algunas lo comentan. Algunas de ellas también se enfangan las manos modelando el bloque de arcilla. La escultura cambia con la sucesión de intervenciones. Fluye también la diversidad de interpretaciones, compartidas o no.
 
@@ -38,16 +44,19 @@ Después de haber estado estudiando y trabajando en diferentes proyectos en inte
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-01a--Faldilla 4d.jpg" alt="" width="30%" hspace="10%"> <img src="/img/blog/2021/IMG-TXT3-01b--Ho_reconec_03.jpg" alt="" width="30%"> </p>
 <p align="center">Ilustraciones: Roger Ballabrera 2011 – CC-BY-SA 3.0-es</p>
+&nbsp;
 
 En el mundo físico parece fácil reutilizar y modificar objetos, reinventar herramientas. Los artefactos tangibles están al alcance, sus límites vienen impuestos solo por la física de los materiales y por los principios de la mecánica. Simplemente aprovechando las características podemos dar un uso diferente a un objeto, como es el caso de la llanta de coche. Y todo el mundo con sus manos, algunas herramientas básicas de propósito general y unas cuántas nociones de bricolaje puede hacer un *hack* y convertir una botella en un embudo o en una luz, por ejemplo. Alguien que haya aprendido a soldar puede reconvertir la llanta de coche en una barbacoa, añadiendo algunos hierros que hagan de patas y de parrilla. A través del proyecto "**HKp Hacks por doquier**" hemos documentado varios ejemplos para mostrar esta capacidad que tenemos de apropiarnos creativamente de las cosas y que la dinámica del consumo pasivo a menudo nos la hace pasar por alto. Quizás las cosas se complican con los artefactos de mecánica compleja o electrónicos. Y se complican al menos por dos motivos: en primer lugar hacen falta conocimientos y habilidades para entenderlos, manipularlos y modificarlos; en segundo lugar a menudo los fabricantes los diseñan de forma que su funcionamiento sea opaco, dificultando la eventual manipulación o poniendo normas y advertencias para impedirla.
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-02a--Llandes_01.jpg" alt="" width="30%" hspace="10%"> <img src="/img/blog/2021/IMG-TXT3-02b--Llandes_03.jpg" alt="" width="30%"> </p>
 <p align="center">Ilustraciones: Roger Ballabrera 2011 – CC-BY-SA 3.0-es</p>
+&nbsp;
 
 Pasa algo muy similar con los “artefactos de software”. A menudo nos hemos encontrado que las personas participantes en las diversas experiencias de creación colectiva en red que observábamos se limitaban a trabajar en la capa de uso, de creación de contenidos, pero dejaban intacta la capa de software que sustentaba la experiencia. Esta capa hacía posible la experiencia en un doble sentido: proporcionaba el entorno a trabajo y al mismo tiempo, y precisamente por eso, fijaba los límites de las formas admisibles de uso, de trabajo y de colaboración. En comparación con las posibilidades de modificación que ofrecen algunos artefactos físicos, parecía que este tipo de entornos en red se resistían a ser reapropiados creativamente y limitaban el fenómeno de la creación colectiva a los contenidos creados más que no al mismo sistema de reglas de creación de contenidos. Las **reglas del juego**, más allá de una convención compartida por las jugadoras, **estarían inscritas en la tecnología** que lo hace posible.
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-03--Busquem_Hacks_03zoom.jpg" alt="" width="50%"></p>
 <p align="center">Ilustración: Roger Ballabrera 2011 – CC-BY-SA 3.0-es</p>
+&nbsp;
 
 No es una cuestión trivial. El hecho que la creación en red se dé dentro de unos entornos de trabajo tecnológicamente mediados plantea la existencia de una finalidad y de unas **condiciones que son previas a la experiencia estética de las participantes**. Esto dibuja un **modelo lineal** según el cual primero la persona con el rol de autora (artista, programadora, diseñadora...) define las condiciones de experiencia y después las personas participantes interaccionan bajo estas condiciones. A pesar de que la interacción entre las participantes puede hacer emerger propiedades del sistema no previstas por la autora, la experiencia se desarrolla en líneas generales según los límites fijados por el mismo diseño, el cual define lo que en términos de complejidad de sistemas Kauffman denomina "aquello adyacentemente posible" (Kauffman, 2000). Es decir, restringe las posibilidades de creación a un conjunto finito. En el campo de la creación artística la decisión sobre la delimitación de este conjunto suele recaer en la persona o equipo artístico que impulsa y dinamiza el proyecto de producción de la en torno a creación. El mismo análisis y desarrollo del entorno consisten en la delimitación del conjunto de usos posibles. En este sentido lo podemos equiparar al proceso oulipiano [^1] de definición de unas reglas previas que limitan y estimulan a la vez la experiencia de escritura creativa. Estos entornos siguen un proceso lineal en el sentido que implican un antes y uno después, y esta linealidad se traduce en una capacidad de control desigual sobre la experiencia de uso posterior. Las participantes no podrán nunca escapar totalmente a este control, por más que inventen usos no previstos. Como mucho podrán condicionar los cambios que las diseñadoras introduzcan en futuras versiones.
 
@@ -59,8 +68,9 @@ Cuando intentábamos imaginar como podría ser este entorno a menudo usábamos l
 
 Reivindicando nuestra trayectoria híbrida de investigación artística y teórica, y siente fieles a nuestro interés por la tecnología más allá de la distinción entre mundo analógico y digital, con “**Arcilla-entre-manos**” decidimos reproducir la metáfora literalmente, exponiendo varios días seguidos un bloque de arcilla a la manipulación anónima en dos acontecimientos: un festival artístico y un *hackmeeting*. Ambas experiencias nos ayudaron a entender mejor qué es uno entorno a creación colectiva, cuáles son sus límites, debilidades y fortalezas. Y que cada propuesta tiene sus características concretas que influyen en la dinámica que se genera. En el caso de “Arcilla-entre-manos” podríamos considerar que es una ***obra abierta*** en el sentido en que todo el mundo puede participar, además es una ***obra en proceso*** porque no hay un resultado definitivo y, finalmente, que ***este proceso es abierto*** porque en todo momento es público para todo el mundo (a diferencia otras propuestas de creación colectiva, como puede ser el *cadáver exquisito* surrealista, que precisamente se basan en no conocer la intervención de los otros hasta que se obtiene un resultado final sorprendente donde encajan todas las contribuciones). Las personas que ya han decidido enfangarse los dedos se enfrentan a lo que ya está hecho y, de una manera u otra, lo tienen en cuenta, sea para moldear siguiendo una línea (formal, temática) que alguien ha abierto antes, sea para deshacerlo dándole una orientación diferente completamente nueva. Hay, pues, una **dinámica de diálogo/controversia** entre las intervenciones sucesivas y un condicionante “histórico” sobre la evolución de la obra. La plasticidad de la arcilla es la base mínima que delimita lo que se puede hacer.
 
-<p align="center"><img src="/img/blog/2021/IMG-TXT3-04__argila-entre-mans-seq-2100px.jpg" alt="" width=""></p>
+<p align="center"><img src="/img/blog/2021/IMG-TXT3-04__argila-entre-mans-seq-2100px.jpg" alt="" width="100%"></p>
 <p align="center">Fotos: TAG Taller d’Intangibles 2006. Maçart y Hackiluro. – CC-BY-SA 3.0-es</p>
+&nbsp;
 
 La propuesta teórica “Arcilla” de un sistema tecnológico con una robustez similar al bloque de arcilla remarca el papel que juega la capa del *software* como fijadora de reglas implícitas, y a consecuencia de esto revela la existencia de una **jerarquía** de realidades y de personas. Simplificando, podríamos decir que en muchos casos quienes diseña/programa el entorno es una creadora de bajo nivel, con bastante poder para determinar las posibilidades del sistema, creadora que a menudo resulta legitimada en el ámbito artístico como 'autora' de la experiencia creativa en cuanto que 'autora' (con nombre propio, trayectoria artística y discurso) de la propuesta de entorno. En cambio, quien usa aportando/modificando contenidos es una creadora de alto nivel, a menudo anónima y por lo tanto sin reconocimiento artístico, con un pasado limitado a su papel como miembro de una comunidad. Mientras que las programadoras/diseñadoras disfrutan de una identidad humana y del derecho a obtener reconocimiento en la vida que existe más allá del entorno, las simples usuarias del entorno, por el contrario, a menudo como mucho llegan a construir una identidad limitada en la vida dentro del mismo entorno. Los particulares mecanismos para obtener legitimidad dentro del mundo del arte, con su preferencia por las historias con nombres propios, juegan aquí un papel clave, pero también la forma como se construye el relato de la cultura en general, que tiende a **relegar en el anonimato el esfuerzo colectivo** y a explicar y **clasificar el mundo en términos de iniciativas particulares**.
 
@@ -70,6 +80,7 @@ Otra forma de entender el problema sería considerar la misma naturaleza del *so
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-05a--Pneumatic_02.jpg" alt="" width="30%" hspace="10%"> <img src="/img/blog/2021/IMG-TXT3-05b--Pneumatic_03.jpg" alt="" width="30%"> </p>
 <p align="center">Ilustraciones: Roger Ballabrera 2011 – CC-BY-SA 3.0-es</p>
+&nbsp;
 
 Cuando formulamos "Arcilla" partíamos de dos constataciones que saltan a la vista por poco que observemos nuestro mundo, la **primera** es que es muy difícil vivir experiencias no mediadas en mayor o menor medida por la **tecnología**. Como una capa de film para envolver alimentos, la tecnología, y especialmente el *software,* está por todas partes, envolviéndonos, interponiéndose entre nosotros y el resto del mundo, y de tan envuelta cómo está constituye la esencia de muchas de las cosas que nos rodean (Manovich, 2008). La segunda es que no es posible crear o vivir experiencias de forma 100% individuales. Las personas somos así, percibimos, entendemos y sentimos a través de lo que han percibido, entendido y sentido otros personas antes que nosotros y lo hacemos compartiéndolo con otras personas que lo hacen al mismo tiempo que nosotros y que también nos influyen. Quizás sí que, como escribió Joseph Conrad, "vivimos igual que soñamos, en solitario", pero en todo caso soñamos y vivimos a través de los sueños y de las vidas de otras personas. Es por eso que las implicaciones conceptuales de "Arcilla" van mucho más allá de los entornos de **creación colectiva en red** y apuntan a una revisión más profunda de lo que entendemos por 'creación', lo que entendemos por 'colectiva' y lo que entendemos por 'en red'. Y que las reflexiones que plantea "Arcilla" se enriquecen si las ponemos en intersección con las que plantea la observación de varios ejemplos de **apropiación creativa de los usuarios**. Porque hacen más nítido que el **diseño** (del artefacto o de la propuesta participativa) condiciona y pone **límites** (a su uso o experiencia); que aun así pueden salir **propiedades emergentes** no previstas; que los **conocimientos** y **habilidades** (aunque sean parciales) de las usuarias o participantes incrementan las posibilidades de intervención; y que el mismo diseño “inicial” no es algo que partió de cero sino que estaba condicionado por otras capas y estratos tecnológicos y/o culturales anteriores y paralelos.
 
