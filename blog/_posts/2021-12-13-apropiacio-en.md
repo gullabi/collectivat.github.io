@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clay, seeds, and source code. Three articles (3)"
+title: "Clay, seeds, and source code. Three articles (3/3)"
 ref: apropiacio
 thumbnail: /img/blog/2021/img0_txt3_apropiacio.png
 lang: en
@@ -17,25 +17,24 @@ This **third** and the last article connects some of the reflections on collecti
 
 # Collective Creation and Technological Appropriation #
 
-[featured_img_txt3_apropiacio_en_Q.png]
+<p align="center"><img src="/img/blog/2021/featured_img_txt3_appropriation_en_Q.png" alt="" width="60%"></p>
 
-<p align="center"><img src="/img/blog/2021/featured_img_txt3_apropiacio_en_Q.png" alt="" width="60%"></p>
-
-<p align="center"><b>Jaume Ferrer Rosera and David Gómez Fontanills. November 2006. TAG Taller d’Intangibles · enlloc.net.</b></p>
+<p align="center"><b>Jaume Ferrer Rosera and David Gómez Fontanills. November 2012. TAG Taller d’Intangibles · enlloc.net.</b></p>
 <p align="center">Version 1.2 – 2021 · License: Creative Commons 3.0 Attribution Share Alike</p>
-<p align="center"><i>??????????Originally published in???????????</i></p>
-<p align="center">Translation: ??????????????</p>
+<p align="center"><i>Originally published as proceedings of the «V Jornadas Internacionales Innovaciones Artísticas y Nuevos Medios: Conservación, Redes y Tecnociencia» that took place in May 2012 at the University of Barcelona organized by the Research Group “Art, Architecture and Digital Society”</i></p>
 
 
 **Keywords**
 
-??????????
+technological appropriation, reuse, collective networked creation, hack, non-linear, creative appropriation, open work, work in process, open process, dialogue, controversy, authorship, authority, programming, hierarchy, plasticity, code, knowledge, partial knowledge, skills
 
-A block of clay is placed on a table and kept moist. A few passers-by decide to get their hands dirty and begin to shape it. Others look on and try to interpret the shapes they have made, sometimes sharing their thoughts out loud. Some of these people then join in too, modelling the block of clay. Each time somebody participates, the sculpture changes, and the spoken and unspoken interpretations also continue to flow.
+> A block of clay is placed on a table and kept moist. A few passers-by decide to get their hands dirty and begin to shape it. Others look on and try to interpret the shapes they have made, sometimes sharing their thoughts out loud. Some of these people then join in too, modelling the block of clay. Each time somebody participates, the sculpture changes, and the spoken and unspoken interpretations also continue to flow.
 
-An industrially manufactured piece of steel: a car tyre rim. Its shape has been honed over decades of engineering and industrial design, and it now hangs on a garden wall, with a rubber hose coiled around it. An object that was designed to support a tyre is ideally shaped for storing a hose after watering the garden. Somebody noticed, reinterpreted the object, and reappropriated it for a different use. And eventually, the idea of coiling hoses around car tyre rims spread and became commonplace.
+> An industrially manufactured piece of steel: a car tyre rim. Its shape has been honed over decades of engineering and industrial design, and it now hangs on a garden wall, with a rubber hose coiled around it. An object that was designed to support a tyre is ideally shaped for storing a hose after watering the garden. Somebody noticed, reinterpreted the object, and reappropriated it for a different use. And eventually, the idea of coiling hoses around car tyre rims spread and became commonplace.
 
-After studying and working on various online projects geared towards collaborative content creation, the *TAG Taller d'Intangibles* team (Gómez, 2004; Ferrer, 2004; Gómez, 2006; Ferrer, 2006; Gómez, 2007), decided that we would shift and expand our focus to include the reuse and reappropriation of technology in a broad sense, including networked, digital and analogue processes. What really fascinates us is the empowerment that these different forms of “hacking” seem to promise: people’s capacity to reinvent things and to transgress the original purposes and dictates of existing objects, contributing to the emergence of new orders of things that are co-created by those who design an artefact and make it available, and those who transform it through use.
+After studying and working on various online projects geared towards **collaborative content creation**, the *TAG Taller d'Intangibles* team (Gómez, 2004; Ferrer, 2004; Gómez, 2006; Ferrer, 2006; Gómez, 2007), decided that we would shift and expand our focus to include the **reuse and reappropriation of technology** in a broad sense, including networked, digital and analogue processes. What really fascinates us is the empowerment that these different forms of “hacking” seem to promise: people’s capacity to **reinvent things** and to **transgress the original purposes and dictates of existing objects**, contributing to the emergence of new orders of things that are co-created by those who design an artefact and make it available, and those who transform it through use.
+
+<p align="center"><img src="/img/blog/2021/IMG-TXT3-01a--Faldilla 4d.jpg" alt="" height="300" hspace="125"> <img src="/img/blog/2021//IMG-TXT3-01b--Ho_reconec_03.jpg" alt="" height="300"> Illustrations: Roger Ballabrera 2011 – CC-by-sa 3.0-es </p>
 
 In the physical world, it seems easy to reuse and modify objects and to reinvent tools. It is easy to access tangible artefacts, and their limits are only imposed by the physical properties of the materials and by the principles of mechanics. We can give an object a whole new use by simply taking advantage of its characteristics, like the wheel rim, for example. Or using just our own hands, a few all-purpose tools and some basic DIY notions, we can hack a bottle and turn it into a funnel or a light. Anybody who has learnt how to weld can turn the wheel rim into a barbecue, adding a few bits of iron to serve as legs and a grill. In HKp[^*], we have documented several examples that illustrate this human capacity to creatively appropriate things, which we often overlook because we are locked into a passive consumer dynamic. Things get slightly more difficult when we turn to complex mechanical or electronic artefacts, for at least two reasons: firstly, the level of knowledge and skills required to understand, manipulate and change them; and secondly, the fact that manufacturers often design them to be opaque and hinder attempts to modify them, or set down rules or warnings to prevent people from doing so.
 
