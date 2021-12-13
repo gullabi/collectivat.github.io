@@ -3,7 +3,7 @@ layout: post
 title: "Argila, llavors i codi font. Tres articles (3)"
 ref: apropiacio
 thumbnail: /img/blog/2021/img0_txt3_apropiacio.png
-lang: ca
+lang: es
 summary: "Presentem tres textos sobre creació col·lectiva i apropiació tecnològica escrits pel col·lectiu artístic TAG Taller d’Intangibles entre 2006 i 2012. Els recuperem com a aportacions que conviden a la reflexió i el debat sobre la tecnologia, la creació artística col·lectiva, l’autoritat de l'autoria i l’apropiació tecnològica i creativa."
 ---
 
