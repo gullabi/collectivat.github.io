@@ -15,19 +15,25 @@ summary: "We present three articles on collective creation and technological app
 
 This **third** and the last article connects some of the reflections on collective creation with **technological appropriation**. It explores fixed characteristics in the design of artefacts/objects, and their appropriation and redefinition in user practices. It takes up ***Argila***’s reflections to situate technological creation in a process in which one never starts from a blank slate, and it is always possible to hack it with partial knowledge.
 
-#
-
+# &nbsp;
 <p align="center"><img src="/img/blog/2021/featured_img_txt3_appropriation_en_Q.png" alt="" width="60%"></p>
 <p align="center"><b>Jaume Ferrer Rosera and David Gómez Fontanills. November 2012. TAG Taller d’Intangibles · enlloc.net.</b></p>
 <p align="center">Version 1.2 – 2021 · License: Creative Commons 3.0 Attribution Share Alike</p>
 <p align="center"><i>Originally published as proceedings of the «V Jornadas Internacionales Innovaciones Artísticas y Nuevos Medios: Conservación, Redes y Tecnociencia» that took place in May 2012 at the University of Barcelona organized by the Research Group “Art, Architecture and Digital Society”</i></p>
 
-##   
+&nbsp;
+
+&nbsp;
+
 **Keywords**
 
 technological appropriation, reuse, collective networked creation, hack, non-linear, creative appropriation, open work, work in process, open process, dialogue, controversy, authorship, authority, programming, hierarchy, plasticity, code, knowledge, partial knowledge, skills
 
-##  
+&nbsp;
+
+### Collective Creation and technological appropriation
+
+&nbsp;  
 
 > A block of clay is placed on a table and kept moist. A few passers-by decide to get their hands dirty and begin to shape it. Others look on and try to interpret the shapes they have made, sometimes sharing their thoughts out loud. Some of these people then join in too, modelling the block of clay. Each time somebody participates, the sculpture changes, and the spoken and unspoken interpretations also continue to flow.
 
@@ -37,16 +43,19 @@ After studying and working on various online projects geared towards **collabora
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-01a--Faldilla 4d.jpg" alt="" width="30%" hspace="10%"> <img src="/img/blog/2021/IMG-TXT3-01b--Ho_reconec_03.jpg" alt="" width="30%"> </p>
 <p align="center">Illustrations: Roger Ballabrera 2011 – CC-by-sa 3.0-es</p>
+&nbsp;
 
 In the physical world, it seems easy to reuse and modify objects and to reinvent tools. It is easy to access tangible artefacts, and their limits are only imposed by the physical properties of the materials and by the principles of mechanics. We can give an object a whole new use by simply taking advantage of its characteristics, like the wheel rim, for example. Or using just our own hands, a few all-purpose tools and some basic DIY notions, we can hack a bottle and turn it into a funnel or a light. Anybody who has learnt how to weld can turn the wheel rim into a barbecue, adding a few bits of iron to serve as legs and a grill. In ***"HKp Hacks arreu"* ("HKp Hacks everywhere")**, we have documented several examples that illustrate this human capacity to creatively appropriate things, which we often overlook because we are locked into a passive consumer dynamic. Things get slightly more difficult when we turn to complex mechanical or electronic artefacts, for at least two reasons: firstly, the level of knowledge and skills required to understand, manipulate and change them; and secondly, the fact that manufacturers often design them to be opaque and hinder attempts to modify them, or set down rules or warnings to prevent people from doing so.
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-02a--Llandes_01.jpg" alt="" width="30%" hspace="10%"> <img src="/img/blog/2021/IMG-TXT3-02b--Llandes_03.jpg" alt="" width="30%"> </p>
 <p align="center">Illustrations: Roger Ballabrera 2011 – CC-by-sa 3.0-es</p>
+&nbsp;
 
 Similar claims can be made for “software artefacts”. In the online collective creation projects that we have been involved in, we found that participants usually remained on the user or content-creation layer, and did not touch underlying software layer. This layer is what actually makes the projects possible in a dual sense: it provides the working environment used by the participants, and, for this very reason, it defines the possible forms of use, work and collaboration. In comparison to the potential for modifying certain physical artefacts, these types of online environments appeared to resist creative reappropriation, so that the phenomenon of collective creation was limited to the content created, and did not extend to the system of rules that governed it. The **game rules** were not just a convention shared by the players; they **formed part of the technology** that made it possible.
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-03--Busquem_Hacks_03zoom.jpg" alt="" width="50%"></p>
 <p align="center">Illustration: Roger Ballabrera 2011 – CC-by-sa 3.0-es</p>
+&nbsp;
 
 This is no trivial matter. The fact that online creation takes place in technologically mediated environments suggests that a certain purpose and **a set of conditions predate the aesthetic experience of the participants**. It implies **a linear model**, in which the author (artist, programmer, designer...) begins by defining the conditions of the experience, and then the participants interact under those conditions. Although interactions among participants can trigger the emergence of properties that were not envisaged by the author, the experience generally takes place within the boundaries set by the design, and this in turn defines what Stuart Kauffman calls “adjacent possibility” (Kauffman, 2000) when discussing complex systems. In other words, the design limits the possibilities to a finite set. In the world of artistic creation, the artist or artistic team who are in charge of running and organising the creative environment or project in question usually define this set of possibilities. The actual analysis and development of the environment consists of delimiting the set of its possible uses. In this sense we can compare it to the Oulipian[^1] process of defining a series of rules that both limit and stimulate the creative writing experience. These environments follow a linear process in the sense that certain things come either before or after other things, and this linearity results in a varying degree of control over subsequent use. Even if they invent all kinds of unplanned uses, participants can never totally escape this control. At most, they will be able to influence the modifications that the designers introduce into future versions.
 
@@ -58,8 +67,9 @@ As we tried to imagine what this environment would be like, we often used the me
 
 Given our hybrid background in artistic and theoretical research, and our interest in technology beyond a separation between the analogue and digital worlds, we decided to reproduce this metaphor literally. In **“*Argila-entre-mans*” (“Clay-in-our-hands”)**, we took a block of clay and made it available for anonymous participants to handle it over a few consecutive days at two different events: an art festival and a hackmeeting. Both experiences gave us a deeper insight into collective creation environments, their limits, strengths and weaknesses. And they illustrated that each project has specific characteristics that influence the dynamics that take place. We can describe “*Argila-entre-mans*” as an “**open work**”, in the sense that anybody can participate, as a “**work in progress**” because there is no definitive result, and as an “open process” because it is public and open to everybody at all times (unlike collective creation projects based on the idea of the surrealist “exquisite corpse”, in which participants must remain unaware of the contributions of the others, and a surprising result is obtained when all of them are eventually seen at the same time). In this case, the people who decide to get their hands dirty have to come to terms with the work that has been done by those who came before them, and they have to take it into account, either by following a line of work (formal, thematic) that somebody has already started, or by destroying everything and starting out in a new and totally different direction. This adds an element of dialogue/argument among the successive interventions, and contributes a “historical” factor that influences the evolution of the work. The plasticity of the clay is the baseline that limits what can be done.
 
-<p align="center"><img src="/img/blog/2021/IMG-TXT3-04__argila-entre-mans-seq-2100px.jpg" alt="" width=""></p>
+<p align="center"><img src="/img/blog/2021/IMG-TXT3-04__argila-entre-mans-seq-2100px.jpg" alt="" width="100%"></p>
 <p align="center">Fotos: TAG Taller d’Intangibles 2006. Maçart and Hackiluro. – CC-BY-SA 3.0-es</p>
+&nbsp;
 
 The “*Argila*” theoretical project, which aimed to develop a technical system as robust as a block of clay, drew attention to the fact that the software layer plays a role in setting implicit rules, thus revealing the existence of a **hierarchy** among different realities and people. To put it simply, we could say that the person who designs/programmes an environment is often a low-level creator with enough power to establish the possibilities of the system – a creator who is often legitimised in the art field as the “author” of the creative experience in as much as she is the “author” (with a name, an artistic career, a discourse) of the idea of the environment. Meanwhile, those who use the environment by contributing/modifying content are high-level creators. They are often anonymous, they have no recognition from the art world, and their past is limited to their role as members of a community. While the programmers/designers enjoy a human identity and the right to recognition in life beyond the environment, simple users can usually do no more than build an identity limited to life within the environment. This is partly due to the mechanisms by which legitimacy is gained in the art world, with its preference for stories with names attached to them. But it is also due to the way in which the cultural narrative is created in general, and its tendency to **relegate collective efforts to anonymity** while describing and **classifying the world in terms of personal initiatives**.
 
@@ -69,6 +79,7 @@ Another way of understanding the problem would be to study the nature of softwar
 
 <p align="center"><img src="/img/blog/2021/IMG-TXT3-05a--Pneumatic_02.jpg" alt="" width="30%" hspace="10%"> <img src="/img/blog/2021/IMG-TXT3-05b--Pneumatic_03.jpg" alt="" width="30%"> </p>
 <p align="center">Illustrations: Roger Ballabrera 2011 – CC-by-sa 3.0-es</p>
+&nbsp;
 
 We began “*Argila*” on the basis of two observations that immediately stand out when we look around us. **Firstly**, that it is very difficult to have experiences that are not mediated by technology to some extent – like a kind of cling film, **technology**, and software in particular, is everywhere. It envelops us, it comes between us and the rest of the world, and it is so deeply embedded that it is the essence of many of the things that surround us (Manovich, 2008). And **secondly**, that it is impossible for human beings to create or have 100% individual experiences. That is the way we are: we perceive, understand and feel through what others before us have perceived, understood and felt, and we do it with other people who are doing it at the same time as us, and who also influence us. Perhaps, as Joseph Conrad wrote, “we live as we dream – alone”, but if that is so we dream and live through the dreams and lives of others. This is why the conceptual implications of “*Argila*” go well beyond **networked collective creation** environments and indicate a much deeper revision of what we mean by “collective”, by “networked” and by “creation”. And the ideas that “*Argila*” raises become even more meaningful when we look at how they intersect with various examples of "creative appropriation by users" because they make it clear that the design (of an artefact or of a participatory proposal) conditions and **limits** (the use and the experience); and that even so, unplanned **properties can emerge**; that the **knowledge and skills** (even if partial) of the users or participants boosts the potential for intervention; and that the “initial” design does not start from a blank slate, but has been conditioned by other technological and/or cultural layers and strata that predate it or develop in parallel.
 
@@ -99,26 +110,26 @@ We began “*Argila*” on the basis of two observations that immediately stand 
 
 ### Bibliography
 
-Ferrer, J., 2004, "Sistemes cooperatius i de creació col.lectiva en xarxa: conflicte, competència i cooperació entre persones, eines automatitzades i agents de software"
-Gómez, D., 2004, "Sistemes de creació col.lectiva en xarxa: cooperació i conflicte; regles formals i informals"
-Gómez, D., 2006 “Traços CCCX. Una aproximació etnogràfica a les pràctiques de creació col·lectiva i la cooperació en xarxa”. DEA-UOC Thesis
-Ferrer, J., 2006 “Editcool i Glyphiti: Una aproximació etnogràfica a la creació col·laborativa en xarxa” DEA-UOC Thesis
-Ingold, T., 2008, "Bringing things to life: Creative entanglements in a world of materials", University of Aberdeen
-Manovich, L., 2008, "Software takes command"
-Turckle, S., 1995, "Life on the screen", Simon and Schuster, New York
-Kauffman, S., 2000, "Investigations", Oxford University Press, Oxford
+- Ferrer, J., 2004, "Sistemes cooperatius i de creació col.lectiva en xarxa: conflicte, competència i cooperació entre persones, eines automatitzades i agents de software"
+- Gómez, D., 2004, "Sistemes de creació col.lectiva en xarxa: cooperació i conflicte; regles formals i informals"
+- Gómez, D., 2006 “Traços CCCX. Una aproximació etnogràfica a les pràctiques de creació col·lectiva i la cooperació en xarxa”. DEA-UOC Thesis
+- Ferrer, J., 2006 “Editcool i Glyphiti: Una aproximació etnogràfica a la creació col·laborativa en xarxa” DEA-UOC Thesis
+- Ingold, T., 2008, "Bringing things to life: Creative entanglements in a world of materials", University of Aberdeen
+- Manovich, L., 2008, "Software takes command"
+- Turckle, S., 1995, "Life on the screen", Simon and Schuster, New York
+- Kauffman, S., 2000, "Investigations", Oxford University Press, Oxford
 
 **Images**
 
-Ilustrations: Roger Ballabrera “Didal Koniek” 2011 for HKp. Creative Commons Attribution Share Alike 3.0-es
-Pictures: David Gómez. HackIluro/Hackmeeting 2006. Creative Commons Attribution Share Alike 3.0-es
+- Ilustrations: Roger Ballabrera “Didal Koniek” 2011 for HKp. Creative Commons Attribution Share Alike 3.0-es
+- Pictures: David Gómez. HackIluro/Hackmeeting 2006. Creative Commons Attribution Share Alike 3.0-es
 
 ## See also
 
 Other articles of the series "Clay, seeds, and source code":
 
-- [<i>Collective Creation: an overview</i>](https://collectivat.cat/blog/2021-11-22-panoramica-en/)
-- [<i>Argila, an invitation to get muddy</i>](https://collectivat.cat/blog/2021-11-29-argila-en/)
+<p align="left"><img src="/img/blog/2021/thumbnail_featured_img_txt1_seeds_Q.png" alt="" width="50" hspace="20"><a href="https://collectivat.cat/blog/2021-11-22-panoramica-ca/" target="_blank" rel="noopener noreferrer"><i>Collective Creation: an overview</i></a></p>
+<p align="left"><img src="/img/blog/2021/thumbnail_featured_img_txt2_clay_en_Q.png" alt="" width="50" hspace="20"><a href="https://collectivat.cat/blog/2021-11-29-argila-ca/" target="_blank" rel="noopener noreferrer">Argila<i>, an invitation to get muddy</i></a></p>
 
 ###  Notes
 
