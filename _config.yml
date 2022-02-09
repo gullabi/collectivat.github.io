@@ -394,45 +394,8 @@ people:
         - title: twitter
           url: https://twitter.com/okumus_gunes
 
-    - name: Pelin Doğan
-      pic: 2
-      position:
-        en: Translator, teacher of Turkish
-        ca: Traductora, professora de turc
-        es: Traductora, professora de turco
-      #social:
-      #  - title: twitter
-      #    url: #
-      #  - title: linkedin
-      #    url: #
-    - name: Baybars Külebi
-      pic: 3
-      position:
-        en: Data Engineer
-        ca: Enginyer de dades
-        es: Ingeniero de datos
-      social:
-        - title: twitter
-          url: https://twitter.com/gullabi
-        - title: bitbucket
-          url: https://bitbucket.org/bkulebi
-        - title: github
-          url: https://github.com/gullabi
-        - title: linkedin
-          url: https://www.linkedin.com/in/baybars-kulebi-185a3b3
-    - name: Federica Capranico
-      pic: 4
-      position:
-        en: Data Scientist
-        ca: Científica de dades
-        es: Científica de datos
-      social:
-        - title: linkedin
-          url: https://www.linkedin.com/in/capranico-federica-61773263/
-      #  - title: facebook
-      #    url: #
     - name: Alp Öktem
-      pic: 5
+      pic: 2
       position:
         en: Computational Linguist
         ca: Lingüista Computacional
@@ -444,6 +407,39 @@ people:
           url: https://github.com/alpoktem
         - title: linkedin
           url: https://www.linkedin.com/in/alp-oktem
+    - name: Pelin Doğan
+      pic: 3
+      position:
+        en: Translator, teacher of Turkish
+        ca: Traductora, professora de turc
+        es: Traductora, professora de turco
+      social:
+        - title: twitter
+          url: https://twitter.com/collectivat
+    - name: Federica Capranico
+      pic: 4
+      position:
+        en: Data Scientist
+        ca: Científica de dades
+        es: Científica de datos
+      social:
+        - title: linkedin
+          url: https://www.linkedin.com/in/capranico-federica-61773263/
+      #  - title: facebook
+      #    url: #
+    - name: Baybars Külebi
+      pic: 5
+      position:
+        en: Data Engineer
+        ca: Enginyer de dades
+        es: Ingeniero de datos
+      social:
+        - title: twitter
+          url: https://twitter.com/gullabi
+        - title: github
+          url: https://github.com/gullabi
+        - title: linkedin
+          url: https://www.linkedin.com/in/baybars-kulebi-185a3b3
   footer:
     en: We also collaborate with many other professionals, not only in Catalunya but also in Turkey.
     ca: També col·laborem amb molts altres professionals, no només a Catalunya, sinó també a Turquia.
